@@ -213,6 +213,44 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - Het interface moet goed leesbaar zijn, ook voor oudere mensen.
 > - Het interface moet modern ogen.
 
+## Develop 1: Human Body
+
+### Doelstellingen
+
+### Materiaal & methoden
+
+### Resultaten
+
+### Conclusies & implicaties
+
+> [!IMPORTANT]
+> Design Requirements
+
+## Develop 2: Human Mind
+
+### Doelstellingen
+
+### Materiaal & methoden
+
+### Resultaten
+
+### Conclusies & implicaties
+
+> [!IMPORTANT]
+> Design Requirements
+
+## Develop 3: Human Senses
+
+### Doelstellingen
+
+### Materiaal & methoden
+
+### Resultaten
+
+### Conclusies & implicaties
+
+> [!IMPORTANT]
+> Design Requirements
 ## Bill of materials
 - touchscreen (oude tablet)
 - werkende interface
@@ -256,6 +294,15 @@ Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het ti
   - User interface
     - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EZTgPm-nd4pIsmm8usEYeBUBz1gfDapTBei-XWnFm_MZ7g?e=bN2sFI)
     - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeAsWolB5e9JmBZqcdCANsUBhkX-JtqDsruhD6Gw2MzLAQ?e=icrMtT)
+- Develop 1
+  - [protocol]()
+  - [report]()
+- Develop 2
+  - [protocol]()
+  - [report]()
+- Develop 3
+  - [protocol]()
+  - [report]()
 
 ## Bronnen
 [^1]: Beeckman, H. (2021, 11 maart). *Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”.* VRTNWS. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
