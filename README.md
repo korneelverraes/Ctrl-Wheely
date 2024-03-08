@@ -216,8 +216,15 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 ## Develop 1: Human Body
 
 ### Doelstellingen
+De theoretisch onderzochte ergonomische afmetingen gaan testen in de praktijk.
+- Bekomen van definitieve afmetingen van het touchscreen tot aan de gebruiker.
+- Bevestigen of verwerpen of de _dial_ overal en in elke situatie aangenaam te besturen is.
+- Interface ergonomisch gaan bijstellen.
 
 ### Materiaal & methoden
+Voor deze testen gingen we verder met de uit de vorige test gehaalde _interface_. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gedaan aan de hand van een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibonplaat. De ijzeren plaatjes werden gemonteerd op de plaatsen waar op het interface ook functies met de dial te bedienen zijn. Zo werden er zes ijzeren platen gemonteerd, voor elke functie één.
+Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om het interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
+
 
 ### Resultaten
 
