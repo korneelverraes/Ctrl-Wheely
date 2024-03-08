@@ -223,7 +223,8 @@ De theoretisch onderzochte ergonomische afmetingen gaan testen in de praktijk.
 
 ### Materiaal & methoden
 Voor deze testen gingen we verder met de uit de vorige test gehaalde _interface_. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gedaan aan de hand van een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibonplaat. De ijzeren plaatjes werden gemonteerd op de plaatsen waar op het interface ook functies met de dial te bedienen zijn. Zo werden er zes ijzeren platen gemonteerd, voor elke functie één.
-Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om het interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
+Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om het interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
+Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijlage waar we theoretisch de afstand tot het touchscreen hebben berekend. Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
 <p>
   <img src="/images/dev1 user test ergonomie opstelling.jpg" width="47%/>
 </p>
@@ -303,8 +304,8 @@ Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het ti
     - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EZTgPm-nd4pIsmm8usEYeBUBz1gfDapTBei-XWnFm_MZ7g?e=bN2sFI)
     - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeAsWolB5e9JmBZqcdCANsUBhkX-JtqDsruhD6Gw2MzLAQ?e=icrMtT)
 - Develop 1
-  - [protocol]()
-  - [report]()
+  - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/Ed5Cw6uYuAREtow-HiDa7TQBSTC7YIpYGRGnOxcfrB0F6w?e=EO4oEH)
+  - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETyGm0r8TDZHsSQlNxfRxxwBqzdG42B0hlqhnKxVS78oCg?e=2yokI9)
 - Develop 2
   - [protocol]()
   - [report]()
