@@ -231,7 +231,9 @@ Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijla
 ### Resultaten
 
 ### Conclusies & implicaties
+Uit de antropometrische test halen we heel wat interessante conclussies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om het interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
 
+We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk eruit zal zien.
 > [!IMPORTANT]
 > Design Requirements
 
