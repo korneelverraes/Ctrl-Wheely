@@ -225,9 +225,12 @@ De theoretisch onderzochte ergonomische afmetingen gaan testen in de praktijk.
 Voor deze testen gingen we verder met de uit de vorige test gehaalde _interface_. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gedaan aan de hand van een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibonplaat. De ijzeren plaatjes werden gemonteerd op de plaatsen waar op het interface ook functies met de dial te bedienen zijn. Zo werden er zes ijzeren platen gemonteerd, voor elke functie één.
 Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om het interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
 Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijlage waar we theoretisch de afstand tot het touchscreen hebben berekend. Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
+
+<p>
+  <img src="/images/dev1 user test ergonomie opstelling.jpg" width="50%">
+</p>
     
 ### Resultaten
-tekst
 
 ### Conclusies & implicaties
 Uit de antropometrische test halen we heel wat interessante conclussies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om het interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
