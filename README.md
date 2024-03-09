@@ -233,10 +233,18 @@ Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijla
 ### Conclusies & implicaties
 Uit de antropometrische test halen we heel wat interessante conclussies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om het interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
 
-We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk eruit zal zien.
-> [!IMPORTANT]
-> Design Requirements
+We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk eruit zal zien. Een nadeel aan testen tijdens het rijden is dat de gebruiker dient te rijden in een auto die ze niet echt kennen en in het begin dus wat gewenning vraagt. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
+De testpersonen gaven aan dat de posities uiterst rechts het best te bedienen vallen en dat de posities links op het touchscreen het slechts te bedienen zijn. We gebruikten voor deze test het interface die uit de interfacetest van vorig semester kwam. Toen gaven andere testgebruikers aan dat dit voor hen het meest intuïtieve en moderne interface is. In deze testen bleek echter dat we iets zullen moeten doen aan de uiterst linkse posities. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen merkten we dat er verwarring ontstond tussen de muziekfunctie en de volumefunctie. De personen grepen vaak naar de muziekfunctie om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen. We werkten ondertussen een nieuw interface uit die deze rekening hield met deze ondervindingen.
+<p>
+  
+</p>
+We kijken terug naar een interessante test. Ons concept wordt nog steeds goed onthaald en alles blijkt snel te wennen. Ook tijdens het rijden ontstaan geen noemenswaardige afleidingen door het touchscreen. Ons doel nu is het head-up-display verder gaan uitwerken zodat we ons verder kunnen concentreren op de interactie met de _dial_.
+> [!IMPORTANT]
+> Met de conclussies van deze test vullen we de _design requirements_ aan met volgende zaken:
+> - De functies links op het interface dienen niet aangepast te worden tijdens het rijden.
+> - Functies op het interface mogen niet de intentie geven om met touch bediend te kunnen worden.
+> - Het volume dient aangepast te kunnen worden met een apparte knop.
 ## Develop 2: Human Mind
 
 ### Doelstellingen
