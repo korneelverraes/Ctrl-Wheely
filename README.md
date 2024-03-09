@@ -228,6 +228,7 @@ Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijla
 <p>
   <img src="/images/dev1 user test ergonomie opstelling.jpg" width="47%/>
 </p>
+    
 ### Resultaten
 
 ### Conclusies & implicaties
