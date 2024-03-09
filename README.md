@@ -272,6 +272,7 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 
 > [!IMPORTANT]
 > Design Requirements
+
 ## Bill of materials
 - touchscreen (oude tablet)
 - werkende interface
