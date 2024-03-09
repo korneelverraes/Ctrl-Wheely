@@ -244,6 +244,7 @@ De testpersonen gaven aan dat de posities uiterst rechts het best te bedienen va
 
 </p>
 We kijken terug naar een interessante test. Ons concept wordt nog steeds goed onthaald en alles blijkt snel te wennen. Ook tijdens het rijden ontstaan geen noemenswaardige afleidingen door het touchscreen. Ons doel nu is het head-up-display verder gaan uitwerken zodat we ons verder kunnen concentreren op de interactie met de _dial_.
+
 > [!IMPORTANT]
 > Met de conclussies van deze test vullen we de _design requirements_ aan met volgende zaken:
 > - De functies links op het interface dienen niet aangepast te worden tijdens het rijden.
