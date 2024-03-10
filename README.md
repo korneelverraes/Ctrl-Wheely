@@ -239,12 +239,19 @@ Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelij
 ### Resultaten
 We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We meetten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatste. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
 
-||Lichaamslengtes (cm)||
+|Lichaamslengte|
+|---:|:---:|
 ||165|
 ||168|
-|Air conditioning||X|X - X - X|
-|Seat heating||X|X - X - X|
-|Steering wheel heating|||X - X|
+||178|
+||184|
+||201|
+|Uitgestrekte armlengtes (scherm - rugleuning) (cm)||
+||71|
+||72|
+||78|
+||79|
+||83|
 
 ### Conclusies & implicaties
 Uit de antropometrische test halen we heel wat interessante conclusies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om het interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
