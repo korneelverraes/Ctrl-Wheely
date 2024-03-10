@@ -224,16 +224,24 @@ De theoretisch onderzochte ergonomische afmetingen gaan testen in de praktijk.
 ### Materiaal & methoden
 Voor deze testen gingen we verder met de uit de vorige test gehaalde _interface_. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gedaan aan de hand van een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibonplaat. De ijzeren plaatjes werden gemonteerd op de plaatsen waar op het interface ook functies met de dial te bedienen zijn. Zo werden er zes ijzeren platen gemonteerd, voor elke functie één.
 Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om het interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
-Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijlage waar we theoretisch de afstand tot het touchscreen hebben berekend. Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
+Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijlage waar we theoretisch de afstand tot het touchscreen hebben berekend. 
+
+
+De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand naar het touchscreen. Ze hielden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op het interface mochten ze ook vooraf gaan bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde funties mochten ze een toer gaan rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals verlaag even de temperatuur van de passagier. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
+
+
+Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
 
 <p>
   <img src="/images/dev1 user test ergonomie opstelling.jpg" width="50%">
 </p>
     
 ### Resultaten
+We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We meetten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatste. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
+
 
 ### Conclusies & implicaties
-Uit de antropometrische test halen we heel wat interessante conclussies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om het interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
+Uit de antropometrische test halen we heel wat interessante conclusies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om het interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
 
 We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk eruit zal zien. Een nadeel aan testen tijdens het rijden is dat de gebruiker dient te rijden in een auto die ze niet echt kennen en in het begin dus wat gewenning vraagt. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
