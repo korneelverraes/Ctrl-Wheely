@@ -237,19 +237,13 @@ Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelij
 ### Resultaten
 We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatsten. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
 
-|Lichaamslengtes||
-|---:|:---:|
-||165|
-||168|
-||178|
-||184|
-||201|
-|Uitgestrekte armlengtes (scherm - rugleuning) (cm)||
-||71|
-||72|
-||78|
-||79|
-||83|
+|Lichaamslengtes (cm)|Uitgestrekte armlengtes (scherm - rugleuning) (cm)|
+|:---|:---|
+|165|71|
+|168|72|
+|178|78|
+|184|79|
+|201|83|
 
 Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_ zonder dat ze veel naar voor moeten buigen. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de dial onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse.
 
