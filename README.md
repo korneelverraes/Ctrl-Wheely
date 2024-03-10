@@ -235,7 +235,7 @@ Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelij
 </p>
     
 ### Resultaten
-We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatste. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
+We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatsten. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
 
 |Lichaamslengtes||
 |---:|:---:|
@@ -253,30 +253,29 @@ We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grote
 
 Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_ zonder dat ze veel naar voor moeten buigen. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de dial onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse.
 
-
 Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. 
 Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte tijdens het rijden.
 Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hebben met het uit elkaar houden van volume verhogen en naar het volgende lied of radiozender gaan. 
 
 ### Conclusies & implicaties
-Uit de antropometrische test halen we heel wat interessante conclusies. We zijn tevreden dat de theoretisch bepaalde afstanden tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om de interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
+Uit de antropometrische test halen we heel wat interessante conclusies. We zijn tevreden dat de theoretisch bepaalde afstand tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om de interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
 
-We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk eruit zal zien. Een nadeel aan testen tijdens het rijden is dat de gebruiker die dient te rijden in een auto die ze niet echt kennen en in het begin dus wat gewenning vraagt. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
+We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk er zal uitzien. Een nadeel aan testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een auto die ze niet kennen. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
-De testpersonen gaven aan dat de posities uiterst rechts het best te bedienen vallen en dat de posities links op het touchscreen het slechts te bedienen zijn. We gebruikten voor deze test de interface die uit de interfacetest van vorig semester kwam. Toen gaven andere testgebruikers aan dat dit voor hen het meest intuïtieve en moderne interface is. In deze testen bleek echter dat we iets zullen moeten doen aan de uiterst linkse posities. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen merkten we dat er verwarring ontstond tussen de muziekfunctie en de volumefunctie. De personen grepen vaak naar de muziekfunctie om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen. We werkten ondertussen een nieuw interface uit die rekening hield met deze ondervindingen.
+De testpersonen gaven aan dat de posities uiterst rechts het best te bedienen vallen en dat de posities links op het touchscreen het slechts te bedienen zijn. We gebruikten voor deze test de interface die uit de interfacetest van vorig semester kwam. Toen gaven andere testgebruikers aan dat dit voor hen het meest intuïtieve en moderne interface is. Uit deze testen bleek echter dat we iets zullen moeten doen aan de uiterst linkse posities. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen merkten we dat er verwarring ontstond tussen de muziekfunctie en de volumefunctie. De personen grepen vaak naar de muziekfunctie om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen. We werkten ondertussen een nieuw interface uit die rekening hield met deze ondervindingen.
 
 <p>
   <img src="/images/user test interface uitkomst.png" width="49%">
   <img src="/images/dev1 main screen.png" width="49%">
 </p>
 
-We kijken terug naar een interessante test. Ons concept wordt nog steeds goed onthaald en alles blijkt snel te wennen. Ook tijdens het rijden ontstaan geen noemenswaardige afleidingen door het touchscreen. Ons doel nu is het head-up-display verder gaan uitwerken zodat we ons verder kunnen concentreren op de interactie met de _dial_.
+We kijken terug naar een interessante test. Ons concept wordt nog steeds goed onthaald en alles blijkt snel te wennen. Ook tijdens het rijden ontstaan geen noemenswaardige afleidingen door het touchscreen. Ons doel nu is het head-up-display verder te gaan uitwerken zodat we ons verder kunnen concentreren op de interactie met de _dial_.
 
 > [!IMPORTANT]
 > Met de conclussies van deze test vullen we de _design requirements_ aan met volgende zaken:
 > - De functies links op de interface dienen niet aangepast te worden tijdens het rijden.
 > - Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.
-> - Het volume dient aangepast te kunnen worden met een apparte knop.
+> - Het volume dient aangepast te kunnen worden met een aparte knop.
 
 ## Develop 2: Human Mind
 
