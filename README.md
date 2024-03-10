@@ -112,7 +112,7 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 
 > [!IMPORTANT]
 > Uit de discoveryfase halen we onze eerste *design requirements*.
->  - Het interface moet personaliseerbaar zijn.
+> - De interface moet personaliseerbaar zijn.
 > - Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.
 > - Er is haptische feedback bij het bedienen van functies.
 
@@ -210,25 +210,23 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De _dial_ moet ook naast het scherm bedienbaar zijn.
 > - Het touchscreen moet ook toegankelijk zijn voor kleinere mensen.
 > - Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.
-> - Het interface moet goed leesbaar zijn, ook voor oudere mensen.
-> - Het interface moet modern ogen.
+> - De interface moet goed leesbaar zijn, ook voor oudere mensen.
+> - De interface moet modern ogen.
 
 ## Develop 1: Human Body
 
 ### Doelstellingen
-De theoretisch onderzochte ergonomische afmetingen gaan testen in de praktijk.
+De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
 - Bekomen van definitieve afmetingen van het touchscreen tot aan de gebruiker.
-- Bevestigen of verwerpen of de _dial_ overal en in elke situatie aangenaam te besturen is.
-- Interface ergonomisch gaan bijstellen.
+- Al dan niet bevestigen of de _dial_ overal en in elke situatie aangenaam te besturen is.
+- Interface bijstellen voor een optimale ergonomie.
 
 ### Materiaal & methoden
-Voor deze testen gingen we verder met de uit de vorige test gehaalde _interface_. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gedaan aan de hand van een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat. De ijzeren plaatjes werden gemonteerd op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren platen gemonteerd, voor elke functie één.
-Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om het interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
+Voor dit onderzoek gingen we verder met _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie.
+Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
 Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijlage waar we theoretisch de afstand tot het touchscreen hebben berekend. 
 
-
-De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand naar het touchscreen. Ze hielden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op de interface mochten ze ook vooraf gaan bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde functies mochten ze een toer gaan rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals verlaag even de temperatuur van de passagier. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
-
+De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand tot het touchscreen. Ze dienden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op de interface mochten ze ook vooraf bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde functies mochten ze een toer rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals het verlagen van de temperatuur van de passagier of het doorspoelen naar een volgend nummer. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
 
 Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
 
@@ -276,8 +274,8 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 
 > [!IMPORTANT]
 > Met de conclussies van deze test vullen we de _design requirements_ aan met volgende zaken:
-> - De functies links op het interface dienen niet aangepast te worden tijdens het rijden.
-> - Functies op het interface mogen niet de intentie geven om met touch bediend te kunnen worden.
+> - De functies links op de interface dienen niet aangepast te worden tijdens het rijden.
+> - Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.
 > - Het volume dient aangepast te kunnen worden met een apparte knop.
 
 ## Develop 2: Human Mind
@@ -320,7 +318,7 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
 
 We blikken terug op een periode met een effectieve en vlotte samenwerking en kijken ernaar uit om in het tweede semester te werken aan de ontwikkelings- en eindfase. Moesten we de definitiefase opnieuw kunnen doen, zouden we tussen de testen met de *dials* en de interfaces iets meer tijd voorzien hebben. Zo zouden we een uitgebreidere interface kunnen gaan ontwerpen om een tweede maal met een iets realistischer prototype naar de gebruiker te trekken. We hadden graag in deze fase nog getest hoe gebruikers het liefst tactiele feedback ontvangen van de *dial*. Hoe intens en hoe snel moet de vibratie zijn bij het bedienen van de *dial*? 
-Een ander kritisch punt dat we willen aankaarten is de validiteit van onze testen. Naast het feit dat we meer tijd moesten voorzien tussen de twee testen, hadden we best ook gekeken om de testen te doen plaatsvinden in een meer realistische omgeving. Nu waren de testen gewoon in een woonkamer, beter zou zijn dat de testpersonen zich meer konden inleven in de situatie en dat de interfacetest in een echte auto kon plaatsvinden. Dan zou het interface gepositioneerd kunnen worden op de plaats waar in die auto het huidige infotainmentsysteem zich bevindt. De testen die we nu hebben uitgevoerd droegen misschien niet genoeg bij aan de uiteindelijke conceptkeuzes die we maakten. De focus van dit project ligt meer op de interactie die we nu juist minder hebben getest. 
+Een ander kritisch punt dat we willen aankaarten is de validiteit van onze testen. Naast het feit dat we meer tijd moesten voorzien tussen de twee testen, hadden we best ook gekeken om de testen te doen plaatsvinden in een meer realistische omgeving. Nu waren de testen gewoon in een woonkamer, beter zou zijn dat de testpersonen zich meer konden inleven in de situatie en dat de interfacetest in een echte auto kon plaatsvinden. Dan zou de interface gepositioneerd kunnen worden op de plaats waar in die auto het huidige infotainmentsysteem zich bevindt. De testen die we nu hebben uitgevoerd droegen misschien niet genoeg bij aan de uiteindelijke conceptkeuzes die we maakten. De focus van dit project ligt meer op de interactie die we nu juist minder hebben getest. 
 In de volgende fases gaan we ons alvast meer richten op de totaalervaring in reëele contexten. De validiteit moet beter en we willen vooral gaan kijken in welke mate ons product effectief zorgt voor minder afleiding.
 
 Voor de materiaalkeuze van de *dial* trokken we naar enkele gebruikers met een houten plaat met daarop 6 verschillende materialen. We wilden een diverse keuze aan materialen voorstellen, maar hierop baseerden we ons op gevonden materialen. Graag hadden we wat meer tijd gehad om bijvoorbeeld verschillende 3D-printmaterialen erbij te plaatsen zoals poederprints. Of hadden we opzoek kunnen gaan naar speciale en duurzame metalen. In het tweede semester zullen we een definitieve *dial* (poeder)printen (zachter materiaal) om nog eens bij onze doelgroep te polsen welke materialen zij prefereren.
