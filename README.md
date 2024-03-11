@@ -222,9 +222,18 @@ De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
 - Interface bijstellen voor een optimale ergonomie.
 
 ### Materiaal & methoden
-Voor dit onderzoek gingen we verder met _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie.
-Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
-Wat die juiste afmetingen precies zijn is te vinden in het testprotocol in bijlage waar we theoretisch de afstand tot het touchscreen hebben berekend. 
+Voor dit onderzoek gingen we verder met _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie. Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
+
+Deze gebruikerstest dient tevens als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database. (+bron in github) De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: design for the small.  Bijgevolg berekenen we P1 van de populatie.
+
+- Uit de database:
+  - µ = 767 mm
+  - σ = 50 mm
+- Berekening:
+  - 5% → z = -1,645  
+  - P5 = µ+z∙σ = 767-1,645∙50 = 685 mm 
+
+Als de stoel van de bestuurder zo staat dat die ideaal is voor de 5% kleinste gebruikers, dan bedraagt de afstand tussen de rugleuning en de uiterste positie op het touchscreen maximaal 685 mm. Grotere bestuurders zullen de stoel meer naar achter verplaatsen waardoor ook de voorgenoemde afstand mee zal vergroten. 
 
 De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand tot het touchscreen. Ze dienden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op de interface mochten ze ook vooraf bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde functies mochten ze een toer rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals het verlagen van de temperatuur van de passagier of het doorspoelen naar een volgend nummer. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
 
