@@ -241,8 +241,9 @@ Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelij
 
 <p>
   <img src="/images/dev1 user test ergonomie opstelling.jpg" width="50%">
-  <img src="/images/dev 1 snapping points.jpg" width="49%>
+  <img src="/images/dev 1 snapping points.jpg" width="49%">
 </p>
+
     
 ### Resultaten
 We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatsten. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
