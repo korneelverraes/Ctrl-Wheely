@@ -224,7 +224,7 @@ De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
 ### Materiaal & methoden
 Voor dit onderzoek gingen we verder met _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie. Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
 
-Deze gebruikerstest dient tevens als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database. (+bron in github) De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: design for the small.  Bijgevolg berekenen we P1 van de populatie.
+Deze gebruikerstest dient tevens als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database[^3]. De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: design for the small.  Bijgevolg berekenen we P1 van de populatie.
 
 - Uit de database:
   - µ = 767 mm
@@ -362,3 +362,4 @@ Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het ti
 ## Bronnen
 [^1]: Beeckman, H. (2021, 11 maart). *Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”.* VRTNWS. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
 [^2]: TRL (2019, 15 april). *Distracted Driving Evidence Has Fallen Behind the Latest Technological Changes.* TRL. https://www.trl.co.uk/news/distracted-driving-evidence-has-fallen-behind-the-latest-technological-changes
+[^3]: https://www.dinbelg.be/DINBelg%202005%20antropometrie%20tabel.PDF
