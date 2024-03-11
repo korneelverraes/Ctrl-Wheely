@@ -213,7 +213,7 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De interface moet goed leesbaar zijn, ook voor oudere mensen.
 > - De interface moet modern ogen.
 
-## Develop 1: Human Body
+## Develop 1: Human Body (N=5)
 
 ### Doelstellingen
 De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
