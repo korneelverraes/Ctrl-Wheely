@@ -240,8 +240,8 @@ De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze d
 Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
 
 <p>
-  <img src="/images/dev1 user test ergonomie opstelling.jpg" width="50%">
-  <img src="/images/dev1 snapping points.jpg" width="49%">
+  <img src="/images/dev1 user test ergonomie opstelling.jpg" width="47%">
+  <img src="/images/dev1 snapping points.jpg" width="51%">
 </p>
 
     
