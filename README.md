@@ -241,7 +241,7 @@ Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelij
 
 <p>
   <img src="/images/dev1 user test ergonomie opstelling.jpg" width="50%">
-  <img src="/images/dev 1 snapping points.jpg" width="49%">
+  <img src="/images/dev1 snapping points.jpg" width="49%">
 </p>
 
     
