@@ -222,9 +222,9 @@ De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
 - Interface bijstellen voor een optimale ergonomie.
 
 ### Materiaal & methoden
-Voor dit onderzoek gingen we verder met _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie. Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
+Voor dit onderzoek gingen we verder met de _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie. Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
 
-Deze gebruikerstest dient tevens als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database[^3]. De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: design for the small.  Bijgevolg berekenen we P1 van de populatie.
+Deze gebruikerstest dient tevens als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database[^3]. De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: _design for the small_.  Bijgevolg berekenen we P5 van de populatie.
 
 - Uit de database:
   - µ = 767 mm
@@ -235,7 +235,7 @@ Deze gebruikerstest dient tevens als verificatie van onze antropometrische berek
 
 Als de stoel van de bestuurder zo staat dat die ideaal is voor de 5% kleinste gebruikers, dan bedraagt de afstand tussen de rugleuning en de uiterste positie op het touchscreen maximaal 685 mm. Grotere bestuurders zullen de stoel meer naar achter verplaatsen waardoor ook de voorgenoemde afstand mee zal vergroten. 
 
-De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand tot het touchscreen. Ze dienden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op de interface mochten ze ook vooraf bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde functies mochten ze een toer rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals het verlagen van de temperatuur van de passagier of het doorspoelen naar een volgend nummer. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
+De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand tot het touchscreen. Ze dienden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op de interface mochten ze ook vooraf bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde functies mochten ze een toer rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals bijvoorbeeld het verlagen van de temperatuur of het doorspoelen naar een volgend nummer. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
 
 Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
 
@@ -247,7 +247,6 @@ Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelij
     
 ### Resultaten
 We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatsten. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
-
 
 |Lichaamslengtes (cm)|Uitgestrekte armlengtes (scherm - rugleuning) (cm)|
 |:---|:---|
@@ -275,10 +274,10 @@ De testpersonen gaven aan dat de posities uiterst rechts het best te bedienen va
   <img src="/images/dev1 main screen.png" width="49%">
 </p>
 
-We kijken terug naar een interessante test. Ons concept wordt nog steeds goed onthaald en alles blijkt snel te wennen. Ook tijdens het rijden ontstaan geen noemenswaardige afleidingen door het touchscreen. Ons doel nu is het head-up-display verder te gaan uitwerken zodat we ons verder kunnen concentreren op de interactie met de _dial_.
+We kijken terug naar een interessante test. Ons concept wordt nog steeds goed onthaald en alles blijkt snel te wennen. Ook tijdens het rijden ontstaan geen noemenswaardige afleidingen door het touchscreen. Ons doel nu is het HUD verder te gaan uitwerken zodat we ons verder kunnen concentreren op de interactie met de _dial_.
 
 > [!IMPORTANT]
-> Met de conclussies van deze test vullen we de _design requirements_ aan met volgende zaken:
+> Met de conclusies van deze test vullen we de _design requirements_ aan met volgende zaken:
 > - De functies links op de interface dienen niet aangepast te worden tijdens het rijden.
 > - Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.
 > - Het volume dient aangepast te kunnen worden met een aparte knop.
