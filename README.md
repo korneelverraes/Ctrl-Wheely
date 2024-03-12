@@ -263,9 +263,9 @@ Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte t
 Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hebben met het uit elkaar houden van volume verhogen en naar het volgende lied of radiozender gaan. 
 
 <p>
-  <img src="/images/dev1 seppe.jpg" width="39%">
-  <img src="/images/dev1 quinten knie.jpg" width="39%">
-  <img src="/images/dev1 quinten.jpg" width="20%">
+  <img src="/images/dev1 seppe.jpg" width="38,4%">
+  <img src="/images/dev1 quinten knie.jpg" width="38,4%">
+  <img src="/images/dev1 quinten.jpg" width="21,6%">
 </p>
 
 ### Conclusies & implicaties
