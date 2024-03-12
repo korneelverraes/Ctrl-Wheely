@@ -262,6 +262,12 @@ Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points p
 Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte tijdens het rijden.
 Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hebben met het uit elkaar houden van volume verhogen en naar het volgende lied of radiozender gaan. 
 
+<p>
+  <img src="/images/dev1 seppe" width="40%">
+  <img src="/images/dev1 quinten" width="40%">
+  <img src="/images/dev1 quinten knie" width="20%">
+</p>
+
 ### Conclusies & implicaties
 Uit de antropometrische test halen we heel wat interessante conclusies. We zijn tevreden dat de theoretisch bepaalde afstand tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen. Het was een uitdaging om de interface in een reële context te krijgen, maar voor een prototype creëerde het een realistisch en begrijpbaar beeld voor de testpersonen.
 
