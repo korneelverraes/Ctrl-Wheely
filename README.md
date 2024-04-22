@@ -296,6 +296,10 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 
 ### Resultaten
 
+#### Expert review (N=2)
+
+#### Usability test (N=4)
+
 ### Conclusies & implicaties
 
 > [!IMPORTANT]
