@@ -291,7 +291,8 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 ## Develop 2: Human Mind
 
 ### Doelstellingen
-
+Tijdens de tweede _develop_-fase streven we ernaar om ons interactief prototype definitief te gaan optimaliseren.
+We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en wensen te testen in een reëele context. Zo kunnen we de realiteit sterk benaderen en geven we de testpersonen een zo realistisch mogelijk beeld van ons product. Door te testen tijdens het rijden kunnen we ook de afleiding kwantitief gaan valideren.
 ### Materiaal & methoden
 
 ### Resultaten
