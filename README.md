@@ -293,9 +293,15 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 ### Doelstellingen
 Tijdens de tweede _develop_-fase streven we ernaar om ons interactief prototype definitief te gaan optimaliseren.
 Onze vooropgestelde doelstellingen van deze test:
-- Bekomen van een definitief ontwerp van het interactief prototype
-- Kwantificatie van de afleiding tijdens het rijden
-- 
+- Bekomen van een definitief ontwerp van het interactief prototype.
+- Een efficiënte interface hebben.
+-	Een effectieve interface hebben.
+-	Een veilig interface hebben.
+-	Een nuttige interface hebben.
+-	Een eenvoudige interface hebben.
+-	Een onthoudbare interactie hebben.
+-	Een gebruikersvoorkeur van de twee concepten hebben.
+
 ### Materiaal & methoden
 We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en wensen te testen in een reëele context. Zo kunnen we de realiteit sterk benaderen en geven we de testpersonen een zo realistisch mogelijk beeld van ons product. Door te testen tijdens het rijden kunnen we ook de afleiding kwantitief gaan valideren.
 ### Resultaten
@@ -312,7 +318,7 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 ## Develop 3: Human Senses
 
 ### Doelstellingen
-
+- Kwantificatie van de afleiding tijdens het rijden
 ### Materiaal & methoden
 
 ### Resultaten
