@@ -213,10 +213,20 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De interface moet goed leesbaar zijn, ook voor oudere mensen.
 > - De interface moet modern ogen.
 
+## Prototype
+
+Alvorens de volgende gebruikerstesten te starten, was er nood aan een prototype. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. 
+
+Het gebruik van een reëel touchscreen is in deze fase van het proces niet aan de orde. Bovendien zijn de grootte, functionaliteiten, vorm... nog niet beslist. Daarom werkten we een interface uit in figma, deze printten we dan af en kleefden we op een dibondplaat.
+> [!NOTE]
+> foto's papieren interface
+
+
+
 ## Develop 1: Human Body (N=5)
 
 ### Doelstellingen
-De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
+- De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
 - Bekomen van definitieve afmetingen van het touchscreen tot aan de gebruiker.
 - Al dan niet bevestigen of de _dial_ overal en in elke situatie aangenaam te besturen is.
 - Interface bijstellen voor een optimale ergonomie.
@@ -288,6 +298,10 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 > - Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.
 > - Het volume dient aangepast te kunnen worden met een aparte knop.
 
+## Prototype
+
+
+
 ## Develop 2: Human Mind
 
 ### Doelstellingen
@@ -308,7 +322,7 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 
 #### Expert review (N=2)
 
-#### Usability test (N=4)
+#### Usability test (N=5)
 
 ### Conclusies & implicaties
 
