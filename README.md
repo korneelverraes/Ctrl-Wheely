@@ -215,11 +215,13 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 
 ## Prototype
 
-Alvorens de volgende gebruikerstesten te starten was er nood aan een prototype. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. 
+Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. 
 
 Het gebruik van een reëel touchscreen is in deze fase van het proces nog niet aan de orde. Bovendien zijn de grootte, functionaliteiten, vorm... nog niet beslist. Daarom werkten we een interface uit in Figma, deze printten we dan af en kleefden we op een dibondplaat. Tijdens het ontwerpen van de interface werd er rekening gehouden met de resulaten uit vorige testen. De eerstvolgende test heeft betrekking tot de ergonomische afmetingen. Hiervoor was het noodzakelijk dat de touchscreen op verschillende posities in de auto gemonteerd kon worden. We gebruikten kartonnen tussenstukken en papierplakband om dit snel te realiseren.
 
 De knop, nu nog zonder draai- en klikfunctionaliteit, werd gemaakt met de 3D-printer. Ook hier werd deze ontworpen op basis van de resultaten uit vorige testen.
+
+Om toch al enige vorm van interactie te bieden tijdens de test werden er een magneet in de knop en metalen plaatjes achter het touchscreen geïntegreerd. Dit zorgde al voor het gevoel van de snapping points om de juiste functie blindelings te kunnen selecteren.
 
 > [!NOTE]
 > foto's papieren interface
