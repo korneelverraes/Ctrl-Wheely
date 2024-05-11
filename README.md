@@ -229,7 +229,6 @@ Om toch al enige vorm van interactie te bieden tijdens de test werden er een mag
 </p>
 
 > [!NOTE]
-> foto's papieren interface
 > foto's knop
 
 ## Develop 1: Human Body (N=5)
