@@ -336,6 +336,16 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 
 > [!IMPORTANT]
 > Design Requirements
+> - Er dient auditieve feedback te zijn.
+> - De auditieve feedback kan uitgeschakeld worden.
+> - Er dient augmented reality te zijn in het HUD.
+> - De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.
+> - Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).
+> - De muziek dient steeds zichtbaar blijven bij veranderen van menu.
+> - De beller dient steeds zichtbaar te blijven tijdens het bellen en veranderen van menu.
+> - De helderheid van het HUD dient automatisch te veranderen.
+> - De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.
+> - Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).
 
 ## Develop 3: Human Senses
 
@@ -349,6 +359,7 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 
 > [!IMPORTANT]
 > Design Requirements
+> -
 
 ## Bill of materials
 - touchscreen (oude tablet)
