@@ -361,15 +361,14 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 > Design Requirements
 > -
 
-## Bill of materials
-- touchscreen (oude tablet)
-- werkende interface
-- *rotary encoder*
-- rond lcd-schermpje inclusief RPI (HyperPixel 2.1 Round)
-- haptische motor
-- HUD
-- 3D-printmateriaal
-- ...
+## Overzicht Design Requirements
+|ID|Requirement|Source|Date|
+|:---|:---|:---|:---|
+|Groep 1|Algemeen|
+|1.1|Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.|||
+|1.2|Het touchscreen moet ook toegankelijk zijn voor kleinere mensen.|||
+|1.3|Het volume dient aangepast te kunnen worden met een aparte knop.|||
+|1.4|83|
 
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
