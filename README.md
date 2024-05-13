@@ -374,6 +374,14 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 |2.2|De dial moet een conische vorm hebben.|_dial_ user test|24/12/2023|
 |2.3|De dial moet goed in de hand liggen.|_dial_ user test|24/12/2023|
 |2.4|De dial moet ook naast het scherm bedienbaar zijn.|_dial_ user test|24/12/2023|
+|**Groep 3**|**Interface**|
+|3.1|De interface moet personaliseerbaar zijn.|interface user test|02/01/2024|
+|3.2|Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.|Interface user test|02/01/2024|
+|3.3|De interface moet goed leesbaar zijn, ook voor oudere mensen.|Interface user test|02/01/2024|
+|3.4|De interface moet modern ogen.|Interface user test|02/01/2024|
+|3.5|De functies links op de interface dienen niet aangepast te worden tijdens het rijden.|Interface user test|02/01/2024|
+|3.6|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|Interface user test|02/01/2024|
+
 
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
