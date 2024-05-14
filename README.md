@@ -336,7 +336,7 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 
 > [!IMPORTANT]
 > Design Requirements
-> - Er dient auditieve feedback te zijn.
+> - Er dient auditieve feedback te zijn bij het veranderen van menu.
 > - De auditieve feedback kan uitgeschakeld worden.
 > - Er dient augmented reality te zijn in het HUD.
 > - De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.
@@ -365,23 +365,34 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 |ID|Requirement|Source|Date|
 |:---|:---|:---|:---|
 |**Groep 1**|**Algemeen**|
-|1.1|Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.|||
-|1.2|Het touchscreen moet ook toegankelijk zijn voor kleinere mensen.|||
-|1.3|Het volume dient aangepast te kunnen worden met een aparte knop.|||
-|1.4|83|
+|1.1|Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.|Meeting Gransstudio|19/10/2023|
+|1.2|Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.|Interface user test|02/01/2024|
+|1.3|Het bedieningselement dient op elk mogelijke positie toegankelijk te zijn voor 95% van de mensen.|Human body user test|05/03/2024|
+|1.4|Het volume dient aangepast te kunnen worden met een aparte knop.|Human body user test|05/03/2024|
+|1.5|Er dient auditieve feedback te zijn bij het veranderen van menu.|Expert Review|22/04/2024|
+|1.6|De auditieve feedback kan uitgeschakeld worden.|Expert Review|22/04/2024|
+|1.7|De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.|Expert Review|22/04/2024|
 |**Groep 2**|**Dial**|
 |2.1|Er is haptische feedback bij het bedienen van de functies.|_dial_ user test|24/12/2023|
 |2.2|De dial moet een conische vorm hebben.|_dial_ user test|24/12/2023|
-|2.3|De dial moet goed in de hand liggen.|_dial_ user test|24/12/2023|
-|2.4|De dial moet ook naast het scherm bedienbaar zijn.|_dial_ user test|24/12/2023|
+|2.3|De dial dient voor 9/10 testpersonen goed in de hand te liggen (naar eigen zeggen).|_dial_ user test|24/12/2023|
+|2.4|De dial moet ook naast het scherm bedienbaar zijn.|_Interface user test|02/01/2023|
+|2.5|De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.|Expert Review|22/04/2024|
 |**Groep 3**|**Interface**|
-|3.1|De interface moet personaliseerbaar zijn.|interface user test|02/01/2024|
-|3.2|Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.|Interface user test|02/01/2024|
-|3.3|De interface moet goed leesbaar zijn, ook voor oudere mensen.|Interface user test|02/01/2024|
-|3.4|De interface moet modern ogen.|Interface user test|02/01/2024|
-|3.5|De functies links op de interface dienen niet aangepast te worden tijdens het rijden.|Interface user test|02/01/2024|
-|3.6|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|Interface user test|02/01/2024|
-
+|3.1|De functieplaatsen van de _dial_ dienen personaliseerbaar te zijn.|interface user test|02/01/2024|
+|3.2|De interface moet goed leesbaar zijn, ook voor oudere mensen.|Interface user test|02/01/2024|
+|3.3|De interface moet modern ogen.|Interface user test|02/01/2024|
+|3.4|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|uman body user test|05/03/2024|
+|3.5|De functies links (één vierde van de linkerhelft) op de interface dienen niet aangepast te worden tijdens het rijden.|Human body user test|05/03/2024|
+|**Groep 4**|**_Head-up display_**|
+|4.1|Er dient een blijvend icoon te zijn bij het bellen en veranderen van menu's.|Expert Review|22/04/2024|
+|4.2|Er dient een blijvend icoon te zijn van de muziek bij het veranderen van menu's.|Expert Review|22/04/2024|
+|4.3|De helderheid van het HUD moet automatisch aanpassen aan de lichtintensiteit buiten.|Expert Review|22/04/2024|
+|4.4|Er dient een blijvend icoon te zijn van de muziek bij het veranderen van menu's.|Expert Review|22/04/2024|
+|4.5|Er dient augmented reality te zijn in het HUD.|Expert Review|22/04/2024|
+|4.6|Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).|Expert Review|22/04/2024|
+|**Groep 5**|**Controlepaneel**|
+|2.6|Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).|Human Mind user test|01/05/2024|
 
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
