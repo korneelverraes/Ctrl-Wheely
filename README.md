@@ -392,7 +392,7 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 |4.5|Er dient augmented reality te zijn in het HUD.|Expert Review|22/04/2024|
 |4.6|Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).|Expert Review|22/04/2024|
 |**Groep 5**|**Controlepaneel**|
-|2.6|Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).|Human Mind user test|01/05/2024|
+|5.1|Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).|Human mind user test|01/05/2024|
 
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
