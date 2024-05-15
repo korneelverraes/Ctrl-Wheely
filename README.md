@@ -226,6 +226,7 @@ Om toch al enige vorm van interactie te bieden tijdens de test werden er een mag
 <p>
   <img src="/images/prototype ergonomie.jpg" width="33%"/>
   <img src="/images/prototype ergonomie snapping points.jpg" width="33%"/>
+  <img src="/images/prototype ergonomie dial.jpg" width="33%"/>
 </p>
 
 > [!NOTE]
