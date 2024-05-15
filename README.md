@@ -314,6 +314,8 @@ Om alles te realiseren maakten we gebruik van Arduino's, een encoder, een magnee
 ### Dial
 Het vormelijk ontwerp (grootte, vorm & materiaal) van de dial bleef ongewijzigd, in deze fase werd ze enkel functioneerbaar gemaakt. De dial is hol en bestaat uit twee losneembare delen: een onderkant waar de magneet zit en een bovenkant waar de elektronische componenten gemonteerd zijn. Deze elektronische componenten zijn een incrementele _rotary encoder_, een Arduino Nano 33 IOT en batterijen (2x CR2032). De dial zelf werd gemaakt met de 3D-printer.
 
+Bij de eerste testen met de dial merkten we dat de batterijen voor problemen zorgeden. Ze liepen zeer snel leeg en gaven niet voldoende spanning. Hierdoor werden we genoodzaakt de batterijen te vervangen door een externe spanningsbron, de auto zelf (via USB).
+
 <p>
   <img src="/images/prototype usability test dial bovenkant.jpg" width="32%">
   <img src="/images/prototype usability test dial onderkant.jpg" width="32%">
