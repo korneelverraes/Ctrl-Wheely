@@ -224,13 +224,10 @@ De knop, nu nog zonder draai- en klikfunctionaliteit, werd gemaakt met de 3D-pri
 Om toch al enige vorm van interactie te bieden tijdens de test werden er een magneet in de knop en metalen plaatjes achter het touchscreen geïntegreerd. Dit zorgde al voor het gevoel van de snapping points om de juiste functie blindelings te kunnen selecteren.
 
 <p>
-  <img src="/images/prototype ergonomie.jpg" width="33%"/>
-  <img src="/images/prototype ergonomie snapping points.jpg" width="33%"/>
-  <img src="/images/prototype ergonomie dial.jpg" width="33%"/>
+  <img src="/images/prototype ergonomie.jpg" height="280"/>
+  <img src="/images/prototype ergonomie snapping points.jpg" height="280"/>
+  <img src="/images/prototype ergonomie dial.jpg" height="280"/>
 </p>
-
-> [!NOTE]
-> foto's knop
 
 ## Develop 1: Human Body (N=5)
 
