@@ -311,6 +311,12 @@ Om alles te realiseren maken we gebruik van Arduino's, een encoder, een magneet,
 
 <img src="images/prototype communicatieschema.jpg">
 
+### Dial
+
+### Touchscreen
+
+### HUD
+
 
 ## Develop 2: Human Mind
 
