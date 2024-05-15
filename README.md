@@ -436,7 +436,14 @@ void outputProtopie(BLEDevice dial) {
 ```
 
 ### Touchscreen
+De interface op het touchscreen bleef ongewijzigd. Enkel werden ook hier de functionaliteiten toegevoegd. De metalen plaatjes langs de achterkant werden vervangen door rosse munten omwille van hun ronde vorm en hun sterk magnetische aantrekkingskracht. Op elk van die munten bevestigden we een magneetsensor om de positie van de dial op het touchscreen te detecteren. We monteerden dit fictieve touchscreen in de auto door middel van enkele haken die we met de lasercutter maakten. Deze zorgden ook voor de juiste tussenafstand, bepaald tijdens vorige gebruikerstest.
 
+<p>
+  <img src="/images/prototype touchscreen achterkant.jpg" width="49%">
+  <img src="/images/prototype touchscreen voorkant.jpg" width="49%">
+</p>
+
+Achter dit touchscreen bevindt zich ook de centrale Arduino Nano 33 IOT. 
 
 ### HUD
 
