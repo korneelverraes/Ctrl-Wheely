@@ -349,7 +349,7 @@ void setup() {
   pinMode(encoderBPin, INPUT);
   BLE.begin();
   Serial.println("Bluetooth® Low Energy Central - dial");
-  BLE.scanForUuid("19b10000-e8f2-537e-4f6c-d104768a1214");  //19b10000-e8f2-537e-4f6c-d104768a1214
+  BLE.scanForUuid("19b10000-e8f2-537e-4f6c-d104768a1214");
 }
 
 void loop() {
@@ -448,7 +448,7 @@ Achter dit touchscreen bevindt zich ook de centrale Arduino Nano 33 IOT. Deze mo
 ```py
 #include <ArduinoBLE.h>
 
-BLEService dial("19B10000-E8F2-537E-4F6C-D104768A1214");  //19B10000-E8F2-537E-4F6C-D104768A1214
+BLEService dial("19B10000-E8F2-537E-4F6C-D104768A1214");
 BLEByteCharacteristic encoder("19B10001-E8F2-537E-4F6C-D104768A1214", BLERead | BLEWrite);
 
 
