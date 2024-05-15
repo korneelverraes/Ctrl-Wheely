@@ -376,17 +376,17 @@ We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en we
 |2.1|Er is haptische feedback bij het bedienen van de functies.|_dial_ user test|24/12/2023|
 |2.2|De dial moet een conische vorm hebben.|_dial_ user test|24/12/2023|
 |2.3|De dial dient voor 9/10 testpersonen goed in de hand te liggen (naar eigen zeggen).|_dial_ user test|24/12/2023|
-|2.4|De dial moet ook naast het scherm bedienbaar zijn.|_Interface user test|02/01/2023|
+|2.4|De dial moet ook naast het scherm bedienbaar zijn.|Interface user test|02/01/2023|
 |2.5|De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.|Expert Review|22/04/2024|
 |2.6|De dial dient een afgeronde vorm naar beneden te hebben om de neiging tot opheffen te verminderen|Human mind user test|01/05/2024|
 |2.7|De dial bezit meerdere functies (verschuivingen rond magnetisch middelpunt, dubbelklikken, ...)|Human mind user test|01/05/2024|
 |**Groep 3**|**Interface**|
-|3.1|De functieplaatsen van de _dial_ dienen personaliseerbaar te zijn.|interface user test|02/01/2024|
+|3.1|De functieplaatsen van de _dial_ dienen personaliseerbaar te zijn.|Interface user test|02/01/2024|
 |3.2|De interface moet goed leesbaar zijn, ook voor oudere mensen.|Interface user test|02/01/2024|
 |3.3|De interface moet modern ogen.|Interface user test|02/01/2024|
-|3.4|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|uman body user test|05/03/2024|
+|3.4|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|Human body user test|05/03/2024|
 |3.5|De functies links (één vierde van de linkerhelft) op de interface dienen niet aangepast te worden tijdens het rijden.|Human body user test|05/03/2024|
-|**Groep 4**|**_Head-up display_**|
+|**Groep 4**|**_Head-up-display_**|
 |4.1|Er dient een blijvend icoon te zijn bij het bellen en veranderen van menu's.|Expert Review|22/04/2024|
 |4.2|Er dient een blijvend icoon te zijn van de muziek bij het veranderen van menu's.|Expert Review|22/04/2024|
 |4.3|De helderheid van het HUD moet automatisch aanpassen aan de lichtintensiteit buiten.|Expert Review|22/04/2024|
