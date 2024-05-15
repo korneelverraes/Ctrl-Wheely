@@ -305,17 +305,27 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 > - Het volume dient aangepast te kunnen worden met een aparte knop.
 
 ## Prototype
-De volgende stap in de ontwikkeling van het prototype is de interactie. Tot nu toe was ons prototype vrij statisch. We willen graag wat dynamiek toevoegen om de validiteit van de gebruikerstesten te verhogen. Hiervoor maken we een functionerende _dial_ en een interface voor het HUD.
+De volgende stap in de ontwikkeling van het prototype was de interactie. Tot nu toe was ons prototype vrij statisch. We wilden graag wat dynamiek toevoegen om de validiteit van de gebruikerstesten te verhogen. Hiervoor maakten we een functionerende _dial_ en een interface voor het HUD.
 
-Om alles te realiseren maken we gebruik van Arduino's, een encoder, een magneet, magneetsensoren & ProtoPie. Een Arduino in de _dial_ communiceert via bluetooth de rotaties en indrukkingen van de encoder naar een centrale Arduino. Deze centrale Arduino stuurt via seriële communicatie (USB) de data door naar ProtoPie Connect, die de data op zijn beurt doorstuurt (USB) naar de ProtoPie Player op een smartphone (HUD) in de voorruit. Via een magneet in de _dial_ detecteren magneetsensoren achter het touchscreen waar de _dial_ zich bevindt. De data van deze sensoren wort ook ingelezen en doorgestuurd door een centrale Arduino. Onderstaand schema geeft een visuele representatie van deze communicatie.
+Om alles te realiseren maakten we gebruik van Arduino's, een encoder, een magneet, magneetsensoren & ProtoPie. Een Arduino in de _dial_ communiceert via bluetooth de rotaties en indrukkingen van de encoder naar een centrale Arduino. Deze centrale Arduino stuurt via seriële communicatie (USB) de data door naar ProtoPie Connect, die de data op zijn beurt doorstuurt (USB) naar de ProtoPie Player op een smartphone (HUD) in de voorruit. Via een magneet in de _dial_ detecteren magneetsensoren achter het touchscreen waar de _dial_ zich bevindt. De data van deze sensoren wordt ook ingelezen en doorgestuurd door een centrale Arduino. Onderstaand schema geeft een visuele representatie van deze communicatie.
 
 <img src="images/prototype communicatieschema.jpg">
 
 ### Dial
+Het vormelijk ontwerp (grootte, vorm & materiaal) van de dial bleef ongewijzigd, in deze fase werd ze enkel functioneerbaar gemaakt. De dial is hol en bestaat uit twee losneembare delen: een onderkant waar de magneet zit en een bovenkant waar de elektronische componenten gemonteerd zijn. Deze elektronische componenten zijn een incrementele _rotary encoder_, een Arduino Nano 33 IOT en batterijen (2x CR2032). De dial zelf werd gemaakt met de 3D-printer.
+
+<p>
+  <img src="/images/prototype usability test dial bovenkant.jpg" width="32%">
+  <img src="/images/prototype usability test dial onderkant.jpg" width="32%">
+  <img src="/images/prototype usability test dial.jpg" width="32%">
+</p>
+
 
 ### Touchscreen
 
+
 ### HUD
+
 
 
 ## Develop 2: Human Mind
