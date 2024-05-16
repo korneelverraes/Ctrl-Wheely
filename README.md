@@ -669,8 +669,12 @@ Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het ti
   - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/Ed5Cw6uYuAREtow-HiDa7TQBSTC7YIpYGRGnOxcfrB0F6w?e=EO4oEH)
   - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETyGm0r8TDZHsSQlNxfRxxwBqzdG42B0hlqhnKxVS78oCg?e=2yokI9)
 - Develop 2
-  - [protocol]()
-  - [report]()
+  - Expert review
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETqsrg_xHrBOkA1brbJ3t2IBkXsYxzCnGieAo1CWaPYekw?e=dK0oaT)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EfVC145y3KxDvudC-U4TsT8BUycW9wZWifMW9NHYxgdx_A?e=c0tfIG)
+  - Usability test
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EV5OZfwtGPBFrt3uwZXcVNcBihPvPzmzFxCDzjzQltVrZA?e=9NACFB)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeRQD4A97TdJoxIuUXeTQNYBUtt4XM00AD7CwpS1mvPMRg?e=ToBzBb)
 - Develop 3
   - [protocol]()
   - [report]()
