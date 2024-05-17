@@ -305,9 +305,9 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 > - Het volume dient aangepast te kunnen worden met een aparte knop.
 
 ## Prototype
-De volgende stap in de ontwikkeling van het prototype was de interactie. Tot nu toe was ons prototype vrij statisch. We wilden graag wat dynamiek toevoegen om de validiteit van de gebruikerstesten te verhogen. Hiervoor maakten we een functionerende _dial_ en een interface voor het HUD.
+De volgende stap in de ontwikkeling van het prototype was de interactie. Tot nu toe was ons prototype vrij statisch. We wilden graag wat dynamiek toevoegen om de validiteit van de gebruikerstesten te verhogen. Hiervoor maakten we een functionerende _dial_ en een interface voor het HUD. De losstaande volumeknop wordt voorgesteld door een houten cilindertje die op de middenconsole is geplakt.
 
-Om alles te realiseren maakten we gebruik van Arduino's, een encoder, een magneet, magneetsensoren & ProtoPie. Een Arduino in de _dial_ communiceert via bluetooth de rotaties en indrukkingen van de encoder naar een centrale Arduino. Deze centrale Arduino stuurt via seriële communicatie (USB) de data door naar ProtoPie Connect, die de data op zijn beurt doorstuurt (USB) naar de ProtoPie Player op een smartphone (HUD) in de voorruit. Via een magneet in de _dial_ detecteren magneetsensoren achter het touchscreen waar de _dial_ zich bevindt. De data van deze sensoren wordt ook ingelezen en doorgestuurd door een centrale Arduino. Onderstaand schema geeft een visuele representatie van deze communicatie.
+Om alle interacties te realiseren maakten we gebruik van Arduino's, een encoder, een magneet, magneetsensoren & ProtoPie. De volumeknop Een Arduino in de _dial_ communiceert via bluetooth de rotaties en indrukkingen van de encoder naar een centrale Arduino. Deze centrale Arduino stuurt via seriële communicatie (USB) de data door naar ProtoPie Connect, die de data op zijn beurt doorstuurt (USB) naar de ProtoPie Player op een smartphone (HUD) in de voorruit. Via een magneet in de _dial_ detecteren magneetsensoren achter het touchscreen waar de _dial_ zich bevindt. De data van deze sensoren wordt ook ingelezen en doorgestuurd door een centrale Arduino. Onderstaand schema geeft een visuele representatie van deze communicatie.
 
 <img src="images/prototype communicatieschema.jpg">
 
@@ -542,6 +542,12 @@ void loop() {
 ```
 
 ### HUD
+Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaarlaptopscherm hebben en de helderheid past zich automatisch aan aan de omgeving.
+
+<p>
+  <img src="/images/prototype HUD smartphone.jpg" width="49%">
+  <img src="/images/prototype HUD smartphone klem.jpg width="49%">
+</p>
 
 
 
