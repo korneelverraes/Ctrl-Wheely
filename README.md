@@ -558,8 +558,6 @@ Om een interface te ontwerpen maakten we gebruik van ProtoPie. We begonnen met h
   <img src="/images/prototype HUD V2 home.png" width="32%">
   <img src="/images/prototype HUD V2 navigation.png" width="32%">
   <img src="/images/prototype HUD V2 phone.png" width="32%">
-</p>
-<p>
   <img src="/images/prototype HUD V2 music.png" width="32%">
   <img src="/images/prototype HUD V2 airco left.png" width="32%">
   <img src="/images/prototype HUD V2 airco right.png" width="32%">
