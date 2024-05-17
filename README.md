@@ -238,8 +238,6 @@ Om toch al enige vorm van interactie te bieden tijdens de test werden er een mag
 - Interface bijstellen voor een optimale ergonomie.
 
 ### Materiaal & methoden
-Voor dit onderzoek gingen we verder met de _interface_ uit de vorige test. Deze werd op een dibondplaat gemonteerd en er werden _snapping points_ geprototyped. Dit werd gerealiseerd door een sterke magneet te plaatsen in de 3D-geprinte dial en ijzeren plaatjes op de achterkant van de dibondplaat te plakken. De ijzeren plaatjes werden vastgezet op de plaatsen waar op de interface ook functies met de _dial_ te bedienen zijn. Zo werden er zes ijzeren plaatjes gemonteerd, één voor elke functie. Om de interface op de juiste afstand te plaatsen werd dik karton gebruikt om de interface verder te plaatsen ten opzichte van het huidige scherm in de wagen. 
-
 Deze gebruikerstest dient tevens als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database[^3]. De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: _design for the small_.  Bijgevolg berekenen we P5 van de populatie.
 
 - Uit de database:
@@ -254,12 +252,6 @@ Als de stoel van de bestuurder zo staat dat die ideaal is voor de 5% kleinste ge
 De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze dat in het dagelijks leven zouden doen ongeacht de afstand tot het touchscreen. Ze dienden dus juist rekening te houden met het stuur en de pedalen. Daarna vroegen we hen na te gaan of de uiterste positie van het scherm voor hen goed bereikbaar is met de _dial_. Op de interface mochten ze ook vooraf bepalen waar ze welke functie zouden plaatsen en waarom. Met die vooraf bepaalde functies mochten ze een toer rijden met de wagen en de _dial_ bedienen zoals ze in het echte leven zouden doen. Hierbij kregen ze van ons de opdracht om verschillende dingen te bedienen zoals bijvoorbeeld het verlagen van de temperatuur of het doorspoelen naar een volgend nummer. Zo konden we controleren hoe rap de plaats van de functies went en of de bestuurder het nodig acht om de ogen van de weg te halen om te zien wat ze aan het bedienen waren. We begeleidden hen door te zeggen wat ze aan het bedienen waren.
 
 Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
-
-<p>
-  <img src="/images/dev1 user test ergonomie opstelling.jpg" width="47%">
-  <img src="/images/dev1 snapping points.jpg" width="51%">
-</p>
-
     
 ### Resultaten
 We kijken terug op een vlotte test. De resultaten zijn interessant en zijn grotendeels volgens onze verwachtingen. We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel die de testpersonen volgens hun eigen wens plaatsten. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
@@ -551,8 +543,10 @@ Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie 
 
 Om een interface te ontwerpen maakten we gebruik van ProtoPie. We begonnen met het kiezen van een lay-out:
 - links: tijd, temperatuur & navigatie
-- centraal: knipperlichten, toegelaten snelheid, huidige snelheid, auto voor jou & rijbereik
+- centraal: knipperlichten, toegelaten snelheid, huidige snelheid, auto voor jou, _line assist_ & rijbereik
 - rechts: weergave van de functionaliteiten die je met de dial aan het bedienen bent
+
+Alles wat donkergrijs is in de interface, is in principe transparant bij een echt HUD. De blauwe lijnen stellen de _line assist_ voor. De auto in het midden is een fictieve auto voor jou.
 
 <p>
   <img src="/images/prototype HUD V2 home.png" width="32%">
