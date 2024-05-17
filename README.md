@@ -546,7 +546,7 @@ Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie 
 
 <p>
   <img src="/images/prototype HUD smartphone.jpg" width="49%">
-  <img src="/images/prototype HUD smartphone klem.jpg width="49%">
+  <img src="/images/prototype HUD smartphone klem.jpg" width="49%">
 </p>
 
 
