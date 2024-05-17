@@ -542,13 +542,30 @@ void loop() {
 ```
 
 ### HUD
-Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaarlaptopscherm hebben en de helderheid past zich automatisch aan aan de omgeving.
+Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid past zich automatisch aan aan de omgeving.
 
 <p>
   <img src="/images/prototype HUD smartphone.jpg" width="49%">
   <img src="/images/prototype HUD smartphone klem.jpg" width="49%">
 </p>
 
+Om een interface te ontwerpen maakten we gebruik van ProtoPie. We begonnen met het kiezen van een lay-out:
+- links: tijd, temperatuur & navigatie
+- centraal: knipperlichten, toegelaten snelheid, huidige snelheid, auto voor jou & rijbereik
+- rechts: weergave van de functionaliteiten die je met de dial aan het bedienen bent
+
+<p>
+  <img src="/images/prototype HUD V2 home.png" width="32%">
+  <img src="/images/prototype HUD V2 navigation.png" width="32%">
+  <img src="/images/prototype HUD V2 phone.png" width="32%">
+</p>
+<p>
+  <img src="/images/prototype HUD V2 music.png" width="32%">
+  <img src="/images/prototype HUD V2 airco left.png" width="32%">
+  <img src="/images/prototype HUD V2 airco right.png" width="32%">
+</p>
+
+Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken met de dial. Onderstaande tabel geeft een overzicht van de interacties.
 
 
 ## Develop 2: Human Mind
