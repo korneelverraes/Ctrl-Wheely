@@ -230,6 +230,7 @@ Om toch al enige vorm van interactie te bieden tijdens de test werden er een mag
 </p>
 
 ## Develop 1: Human Body (N=5)
+Het eindpunt van deze eerste ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een antropometrische analyse en gebruikerstest kunnen aantonen welke optimalisaties we hebben aangebracht op het vlak van fysieke ergonomie.
 
 ### Doelstellingen
 - De theoretisch onderzochte ergonomische afmetingen praktisch verifiëren.
@@ -567,10 +568,9 @@ Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken 
 <img src="/images/prototype HUD V2.gif">
 
 ## Develop 2: Human Mind
+Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een expert review en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
 
 ### Doelstellingen
-Tijdens de tweede _develop_-fase streven we ernaar om ons interactief prototype definitief te gaan optimaliseren.
-Onze vooropgestelde doelstellingen van deze test:
 - Bekomen van een definitief ontwerp van het interactief prototype.
 - Een efficiënte interface hebben.
 -	Een effectieve interface hebben.
