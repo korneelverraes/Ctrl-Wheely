@@ -615,7 +615,7 @@ We begonnen met een verificatie van vorige tests over posities en functies. Somm
 
 Bij de vraag naar afleiding vergeleken met hun huidige auto, vonden de meeste gebruikers dat het een kwestie van gewenning is. Na een paar ritten zou het systeem een meerwaarde zijn. De magneten werden als handig ervaren. Eén persoon wilde meer informatie in het HUD geprojecteerd zien.
 
-De dial hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote dial straalt echter meer sympathie uit. De dial kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Veel gebruikers hadden de neiging de dial op te heffen door de verkeerde affordance.
+De dial hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote dial straalt echter meer sympathie uit. De dial kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde affordance (conische vorm) hadden veel gebruikers de neiging de dial op te heffen.
 
 Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een dial op het scherm, maar tijdens het rijden werd er niet aan gedacht. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden niet hun bekerhouders verliezen. Een cirkelvormige positie van de dial werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
 
