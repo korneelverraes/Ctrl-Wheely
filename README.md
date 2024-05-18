@@ -640,11 +640,12 @@ De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepanee
 > - Er dient augmented reality te zijn in het HUD.
 > - De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.
 > - Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).
-> - De muziek dient steeds zichtbaar blijven bij veranderen van menu.
+> - De muziek dient steeds zichtbaar blijven bij het veranderen van menu.
 > - De beller dient steeds zichtbaar te blijven tijdens het bellen en veranderen van menu.
 > - De helderheid van het HUD dient automatisch te veranderen.
 > - De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.
 > - Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).
+> - Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.
 
 ## Develop 3: Human Senses
 
