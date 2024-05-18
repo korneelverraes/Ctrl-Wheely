@@ -557,12 +557,14 @@ Alles wat donkergrijs is in de interface, is in principe transparant bij een ech
   <img src="/images/prototype HUD V2 airco right.png" width="32%">
 </p>
 
-Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken met de dial. Onderstaande tabel geeft een overzicht van de interacties.
+Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken met de dial. Onderstaande tabel en gif geven een overzicht van de interacties.
 
 ||Navigation|Contacts|Music|Climate Control Driver|Climate Control Passenger|
 |---:|:---:|:---:|:---:|:---:|:---:|
 |draaien|bestemming selecteren|contact selecteren|nummer selecteren|temperatuur instellen|temperatuur instellen|
 |klikken|bestemming bevestigen|bellen / ophangen|spelen / pauzeren|stand zetelverwarming wijzigen|stand zetelverwarming wijzigen|
+
+<img src="/images/prototype HUD V2.gif">
 
 ## Develop 2: Human Mind
 
