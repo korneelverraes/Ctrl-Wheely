@@ -567,21 +567,25 @@ Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken 
 
 <img src="/images/prototype HUD V2.gif">
 
+Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. Dit alles zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
+
 ## Develop 2: Human Mind
-Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een expert review en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
+Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een _expert review_ en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
 
 ### Doelstellingen
 - Bekomen van een definitief ontwerp van het interactief prototype.
 - Een efficiënte interface hebben.
 -	Een effectieve interface hebben.
--	Een veilig interface hebben.
+-	Een veilige interface hebben.
 -	Een nuttige interface hebben.
 -	Een eenvoudige interface hebben.
 -	Een onthoudbare interactie hebben.
--	Een gebruikersvoorkeur van de twee concepten hebben.
 
 ### Materiaal & methoden
-We trekten daarvoor naar de gebruiker met een uitgebreid werkend prototype en wensen te testen in een reëele context. Zo kunnen we de realiteit sterk benaderen en geven we de testpersonen een zo realistisch mogelijk beeld van ons product. Door te testen tijdens het rijden kunnen we ook de afleiding kwantitief gaan valideren.
+Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. We startten met een korte briefing over het project zelf en vertelden de experts wat er van hen verwacht werd. In een eerste ronde werkten de experts apart zodat ze elkaar niet konden beïnvloeden. Ze maakten kennis met het prototype om zich te kunnen inleven en voeling te krijgen bij hetgeen ze mee bezig zijn. Daarna volgde een tweede ronde waar ze zich focusten op specifieke features en zich lieten leiden door de _heuristic evaluation sheet_. Achteraf volgde een korte nabespreking waarbij de experts samen met ons de pijnpunten aankaartten.
+
+Voor de _usability test_ startten we opnieuw met een korte introductie tot ons project. Het was belangrijk dat we de testpersonen een goede context boden. De test bestond uit verschillende fases. Eerst lieten we de gebruiker kennismaken met ons prototype. Eenmaal alles duidelijk was en alle posities blindelings bediend konden worden, trokken we de baan op. Om een zo goed mogelijk ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Onderweg werd de gebruiker gevraagd bepaalde acties te ondernemen. We sloten de test op de baan af met een kleine nabespreking. Daarna introduceerden we de testpersoon tot ons nieuw concept, een losstaand controlepaneel, en peilden we naar hun gevoel en bedenkingen. Het introduceren van ons tweede concept deden we bewust na de volledige test, zo kon de gebruiker waardig vergelijken met het eerste concept. Alle inzichten en opmerkingen werden bijgehouden in een _participant form_.
+
 ### Resultaten
 
 #### Expert review (N=2)
