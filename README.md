@@ -584,6 +584,11 @@ Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 ### Materiaal & methoden
 Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. Ze maakten kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
 
+<p>
+  <img src="/images/dev2 expert review seppe.jpg" width="48%">
+  <img src="/images/dev2 expert review sterre.jpg" width="48%">
+</p>
+
 Voor de _usability test_ startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerst kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel, om naar hun gevoel en bedenkingen daarrond te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 ### Resultaten
