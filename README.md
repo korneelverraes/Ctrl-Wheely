@@ -591,6 +591,11 @@ Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal
 
 Voor de _usability test_ startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerst kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel, om naar hun gevoel en bedenkingen daarrond te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
+<p>
+  <img src="/images/dev2 test wannes.jpeg" width="48%">
+  <img src="/images/dev2 test hans.jpeg" width="48%">
+</p>
+
 ### Resultaten
 
 #### Expert review (N=2)
