@@ -584,17 +584,7 @@ Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 ### Materiaal & methoden
 Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. Ze maakten kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
 
-<p>
-  <img src="/images/dev2 expert review seppe.jpg" width="48%">
-  <img src="/images/dev2 expert review sterre.jpg" width="48%">
-</p>
-
 Voor de _usability test_ startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerst kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel, om naar hun gevoel en bedenkingen daarrond te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
-
-<p>
-  <img src="/images/dev2 test wannes.jpeg" width="48%">
-  <img src="/images/dev2 test hans.jpeg" width="48%">
-</p>
 
 ### Resultaten
 
@@ -608,6 +598,11 @@ Uit de expert review bleek dat ons concept, vooral het HUD, nog niet duidelijk g
 - Contextuele feedback en instructies: Er ontbreekt audio- of trilmelding als feedback. Icoontjes voor functies zoals muziek en telefoon zouden nuttig zijn. Een expert vond dat de verwarming beter bekeken moet worden. Momenteel kan alleen de temperatuur voor bestuurder en passagier apart geregeld worden; er zou een synchronisatiefunctie moeten zijn.
 - Match tussen systeem en echte wereld: Geen opmerkingen.
 
+<p>
+  <img src="/images/dev2 expert review seppe.jpg" width="48%">
+  <img src="/images/dev2 expert review sterre.jpg" width="48%">
+</p>
+
 #### Usability test (N=5)
 Op basis van opnames, directe feedback en formulieren kunnen we diepgaand analyseren. Bestuurders raakten soms afgeleid omdat het een prototype was. Het is beter om vooraf te melden dat de techniek kan falen en dat wij dat tijdens de test oplossen, zodat zij zich hier niet door laten afleiden.
 
@@ -618,6 +613,11 @@ Bij de vraag naar afleiding vergeleken met hun huidige auto, vonden de meeste ge
 De dial hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote dial straalt echter meer sympathie uit. De dial kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde affordance (conische vorm) hadden veel gebruikers de neiging de dial op te heffen.
 
 Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een dial op het scherm, maar tijdens het rijden werd er niet aan gedacht. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden niet hun bekerhouders verliezen. Een cirkelvormige positie van de dial werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
+
+<p>
+  <img src="/images/dev2 test wannes.jpeg" width="48%">
+  <img src="/images/dev2 test hans.jpeg" width="48%">
+</p>
 
 ### Conclusies & implicaties
 
