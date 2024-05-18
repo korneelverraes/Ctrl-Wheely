@@ -582,15 +582,32 @@ Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 -	Een onthoudbare interactie hebben.
 
 ### Materiaal & methoden
-Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. We startten met een korte briefing over het project zelf en vertelden de experts wat er van hen verwacht werd. In een eerste ronde werkten de experts apart zodat ze elkaar niet konden beïnvloeden. Ze maakten kennis met het prototype om zich te kunnen inleven en voeling te krijgen bij hetgeen ze mee bezig zijn. Daarna volgde een tweede ronde waar ze zich focusten op specifieke features en zich lieten leiden door de _heuristic evaluation sheet_. Achteraf volgde een korte nabespreking waarbij de experts samen met ons de pijnpunten aankaartten.
+Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. Ze maakten kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
 
-Voor de _usability test_ startten we opnieuw met een korte introductie tot ons project. Het was belangrijk dat we de testpersonen een goede context boden. De test bestond uit verschillende fases. Eerst lieten we de gebruiker kennismaken met ons prototype. Eenmaal alles duidelijk was en alle posities blindelings bediend konden worden, trokken we de baan op. Om een zo goed mogelijk ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Onderweg werd de gebruiker gevraagd bepaalde acties te ondernemen. We sloten de test op de baan af met een kleine nabespreking. Daarna introduceerden we de testpersoon tot ons nieuw concept, een losstaand controlepaneel, en peilden we naar hun gevoel en bedenkingen. Het introduceren van ons tweede concept deden we bewust na de volledige test, zo kon de gebruiker waardig vergelijken met het eerste concept. Alle inzichten en opmerkingen werden bijgehouden in een _participant form_.
+Voor de _usability test_ startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerst kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel, om naar hun gevoel en bedenkingen daarrond te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 ### Resultaten
 
 #### Expert review (N=2)
+Uit de expert review bleek dat ons concept, vooral het HUD, nog niet duidelijk genoeg is. Er was verwarring over de grootte, helderheid, transparantie en icoontjes. Ook moeten we vermelden welke slimme functies de auto al heeft en wat niet meer handmatig geregeld hoeft te worden. De verdere analyse gebeurt volgens de 7 vooropgestelde heuristieken:
+- Minimalistisch ontwerp: Elementen zoals contacten waren moeilijk leesbaar. De auto op het HUD was te prominent. Het werd gesuggereerd om de auto kleiner te maken.
+- Duidelijke visuele hiërarchie: De auto stond te prominent in beeld. Dit kan worden opgelost door de auto niet altijd zichtbaar te laten zijn tijdens bediening.
+- Directe feedback: Het scrollen van muziek was niet intuïtief. Dit kan worden verbeterd door de draairichting om te keren. Er werd ook voorgesteld om kleine icoontjes weer te geven voor bellen of muziek. Een expert miste auditieve feedback; een stem of geluid kan aangeven in welk menu je zit.
+- Gebruik van contrast en leesbaarheid: De bruikbaarheid van het HUD bij verschillende lichtomstandigheden werd betwijfeld. Echter, ervaring met echte HUD's leert dat dit geen probleem zou moeten zijn.
+- Focus op gebruiksgemak: De niet-intuïtieve draairichting van de muziek werd opnieuw genoemd. Een expert stelde voor dit instelbaar te maken. Verder waren er geen opmerkingen.
+- Contextuele feedback en instructies: Er ontbreekt audio- of trilmelding als feedback. Icoontjes voor functies zoals muziek en telefoon zouden nuttig zijn. Een expert vond dat de verwarming beter bekeken moet worden. Momenteel kan alleen de temperatuur voor bestuurder en passagier apart geregeld worden; er zou een synchronisatiefunctie moeten zijn.
+- Match tussen systeem en echte wereld: Geen opmerkingen.
 
 #### Usability test (N=5)
+Op basis van opnames, directe feedback en formulieren kunnen we diepgaand analyseren. Bestuurders raakten soms afgeleid omdat het een prototype was. Het is beter om vooraf te melden dat de techniek kan falen en dat wij dat tijdens de test oplossen, zodat zij zich hier niet door laten afleiden.
+
+We begonnen met een verificatie van vorige tests over posities en functies. Sommige testpersonen wilden de temperatuur van bestuurder en passagier aan de uiterste posities zien. Eén persoon vond de navigatie storend in beeld; een L-vormige indeling zou beter zijn. Relatieve posities kunnen naar voorkeur worden aangepast (software), maar absolute posities blijven hetzelfde (hardware). Bij de eerste testrun ontdekten de meeste gebruikers de zetelverwarming niet. Een persoon vond deze functie overbodig omdat die maar een paar maanden per jaar wordt gebruikt. Een logische startpositie zou de navigatie zijn, niet de passagierstemperatuur. Eén testpersoon wilde meer voorgelezen opties, terwijl anderen de voorgelezen menu’s storend vonden.
+
+Bij de vraag naar afleiding vergeleken met hun huidige auto, vonden de meeste gebruikers dat het een kwestie van gewenning is. Na een paar ritten zou het systeem een meerwaarde zijn. De magneten werden als handig ervaren. Eén persoon wilde meer informatie in het HUD geprojecteerd zien.
+
+De dial hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote dial straalt echter meer sympathie uit. De dial kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Veel gebruikers hadden de neiging de dial op te heffen door de verkeerde affordance.
+
+Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een dial op het scherm, maar tijdens het rijden werd er niet aan gedacht. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden niet hun bekerhouders verliezen. Een cirkelvormige positie van de dial werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
 
 ### Conclusies & implicaties
 
