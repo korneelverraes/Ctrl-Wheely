@@ -620,6 +620,18 @@ Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het
 </p>
 
 ### Conclusies & implicaties
+Om een betere context te bieden aan de testpersoon maken we een visualisatie van het HUD in de auto. We vermelden hierbij de nodige extra uitleg.
+De draairichting bij het scrollen door de muziek kan softwarematig worden aangepast. In de interface wordt er een blijvende pop-up geïntegreerd wanneer je aan het bellen bent en door andere menu’s aan het scrollen bent. Ook de muziek die afspeelt blijft continu weergegeven.
+
+Om de afleiding - veroorzaakt door het HUD - verder te beperken, voegen we ook een stem toe die aangeeft in welk menu je je bevindt. Een haptische motor in de dial zorgt voor de nodige tactiele feedback.
+
+Ten slotte wordt er gezocht naar een mogelijkheid om de temperatuur van bestuurder en passagier te synchroniseren.
+
+Na het industry consult kwamen we op een punt waar we ons concept helemaal konden omgooien. Een enge stap, maar deze werd ook ondersteund door onze testgebruikers. In plaats van de dial op het touchscreen te plaatsen, zal deze nu bediend worden op een controlepaneel die in de middenconsole verwerkt zit met behoud van de drankenhouders. Verder zullen de posities ook niet meer lineair uitgelijnd worden. Het nieuwe controlepaneel wordt cirkelvormig gemaakt. Dit creëert een centrale positie (bijvoorbeeld de navigatie). Links en rechts worden respectievelijk de temperatuur voor de bestuurder en de passagier. Boven en onder worden ingevuld door de telefoon en de muziek. Dit is veel intuïtiever en eenvoudiger blind te bedienen.
+
+Het scherm wordt terug het oorspronkelijke scherm zoals reeds in de testauto aanwezig. De dial wordt kleiner gemaakt tot een broekzakformaat. Dit biedt de mogelijkheid om van die dial ook je autosleutel te maken. Zo wordt de kans kleiner dat je hem verliest. Door de dial / autosleutel op de centrale positie te plaatsen kan de auto gestart worden.
+
+De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepaneel die toch nog steeds modern en innovatief oogt. In de laatste testen gaan we deze laatste inzichten gaan valideren bij een nieuwe groep gebruikers.
 
 > [!IMPORTANT]
 > Design Requirements
