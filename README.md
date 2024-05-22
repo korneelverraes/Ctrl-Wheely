@@ -237,7 +237,7 @@ Het eindpunt van deze eerste ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 - Interface bijstellen voor een optimale ergonomie.
 
 ### Materiaal & methoden
-Deze gebruikerstest dient als verificatie van onze antropometrische berekeningen. Hierbij baseren we ons op de DINBelg database[^3]. De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: _design for the small_.  Bijgevolg berekenen we P5 van de populatie.
+Bij de antropometrische berekeningen baseren we ons op de DINBelg database[^3]. De afstand die we wensen te bepalen is de afstand van de rugleuning tot de uiterste positie op het touchscreen. Dit komt overeen met de reikdiepte (17). We willen de positie van ons scherm optimaliseren voor 95% van de gebruikers. Omdat het scherm op de dichtste afstand ook bedienbaar is door de grootste mensen maken we hier de keuze voor de designstrategie: _design for the small_.  Bijgevolg berekenen we P5 van de populatie.
 
 - Uit de database:
   - µ = 767 mm
@@ -253,7 +253,7 @@ De testpersonen kregen allen de opdracht hun zetel zo te positioneren zoals ze d
 Er werd een elektrische wagen gebruikt om de testomgeving zo realistisch mogelijk te maken.
     
 ### Resultaten
-We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerder theoretische genomen beslissing omtrent de ergonomie te gaan controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
+We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interessant om onze eerdere theoretische berekeningen te controleren. Het eerste deel van de test bewees dat een dichter touchscreen (_design for the small_) niet zorgt voor problemen bij grotere mensen doordat zij ook hun zetel nog naar achter zetten en zo weer verder van het touchscreen komen te zitten. We maten telkens de lichaamslengte en de afstand vanaf de uiterste positie van het touchscreen tot de zetel. Dat laatste staat gelijk aan de uitgestrekte lengte van de arm zonder dat de testpersoon naar voor hoeft te komen. Onderstaande resultaten kwamen uit die metingen.
 
 |Lichaamslengtes (cm)|Uitgestrekte armlengtes (scherm - rugleuning) (cm)|
 |:---|:---|
@@ -263,9 +263,9 @@ We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interess
 |184|79|
 |201|83|
 
-Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_ zonder dat ze veel naar voor moeten buigen. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de dial onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen, merkten we dat ze vaak naar de muziekfunctie grepen om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen.
+Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de dial onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen, merkten we dat ze vaak naar de muziekfunctie grepen om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen.
 
-Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hebben met het uit elkaar houden van volume verhogen en naar het volgende lied of radiozender gaan. 
+Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hadden om het volume en het veranderen van nummer/radiozender uit elkaar te houden.
 
 <p>
   <img src="/images/dev1 seppe.jpg" width="38.4%">
@@ -275,8 +275,6 @@ Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points p
 
 ### Conclusies & implicaties
 We zijn tevreden dat de theoretisch bepaalde afstand tot het scherm in de praktijk ook goed werkt. Een dichter touchscreen zorgt voor een betere en veiligere bereikbaarheid voor kleinere mensen en heeft geen negatief effect op grotere mensen.
-
-We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk er zal uitzien. Een nadeel aan testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een auto die ze niet kennen. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
 De volumefunctie nemen we weg van het touchscreen, deze wordt bediend door een aparte knop. Hierdoor komt er een positie vrij. We schuiven alles op zodat er uiterst links niets meer bediend hoeft te worden, want die plaats was voor veel personen moeilijk bereikbaar. We werkten ondertussen een nieuw interface uit die rekening hield met deze ondervindingen.
 
@@ -705,6 +703,10 @@ Voor de materiaalkeuze van de *dial* trokken we naar enkele gebruikers met een h
 Als we kijken naar het prototypen van een HUD, dan zit daar misschien nog de grootste uitdaging. We moeten op zoek naar een eenvoudig HUD dat toch een breed scala aan informatie kan weergeven en vooral uiterst vloeiend samenwerkt met de dial en het touchscreen. De uitdaging zit hem in het vinden van een optimale weergavebalans. Een tekort aan informatie zorgt ervoor dat de bestuurder terug naar het touchscreen moet kijken, maar een teveel aan informatie zorgt evenwel voor afleiding. Om het HUD praktisch te gaan realiseren hebben we oog op verschillende methodes. Zo bestaan er heel wat simpele methodes om aan de hand van een scherm en twee spiegels de informatie te gaan projecteren op een raam. Hiervoor kunnen we eventueel samenwerken met andere studenten.
 
 Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het tijd voor de volgende stap: het samenvoegen tot een mooi en realistisch geheel waarmee we naar de eindgebruiker kunnen trekken. Een gehele ervaring in een natuurlijke context leidt tot nieuwe inzichten en gevoelens, die we dan kunnen impliceren in een finaal prototype: Ctrl-Wheely.
+
+NIEUWNIEUWNIEUWNIEUW
+
+We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk er zal uitzien. Een nadeel aan testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een auto die ze niet kennen. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
 <img src="/images/concept render voor.png"/>
 
