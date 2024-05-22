@@ -10,14 +10,7 @@ De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards di
 
 Uit enkele *contextual inquiries* is gebleken dat het niet het touchscreen zelf is die voor de afleiding zorgt, maar het feit dat je geen tactiele feedback krijgt bij het bedienen van een functie. Verschillende artikels en wetenschappelijke onderzoeken bevestigen dat.
 
-Onze oplossing is gebaseerd op de magnetische *Surface Dial* van Microsoft. Zo'n *dial* is een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een *head-up-display* (HUD) is interessant omdat hierbij de ogen niet van de baan afwijken. 
-
-In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
-
-<p>
-  <img src="/images/concept render zij.png" width="49%"/>
-  <img src="/images/concept render close-up.png" width="49%"/>
-</p>
+AANVULLENAANVULLENAANVULLENAANVULLEN
 
 ## Introductie
 
@@ -214,6 +207,12 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De interface moet modern ogen.
 
 ## Prototype
+In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een head-up-display (HUD) is interessant omdat hierbij de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
+
+<p>
+  <img src="/images/concept render zij.png" width="49%"/>
+  <img src="/images/concept render close-up.png" width="49%"/>
+</p>
 
 Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. 
 
