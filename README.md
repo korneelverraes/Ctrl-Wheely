@@ -294,7 +294,7 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 ## Prototype
 De volgende stap in de ontwikkeling van het prototype was de interactie. Tot nu toe was ons prototype vrij statisch. We wilden graag wat dynamiek toevoegen om de validiteit van de gebruikerstesten te verhogen. Hiervoor maakten we een functionerende _dial_ en een interface voor het HUD. De losstaande volumeknop wordt voorgesteld door een houten cilindertje die op de middenconsole is geplakt.
 
-Om alle interacties te realiseren maakten we gebruik van Arduino's, een encoder, een magneet, magneetsensoren & ProtoPie. De volumeknop Een Arduino in de _dial_ communiceert via bluetooth de rotaties en indrukkingen van de encoder naar een centrale Arduino. Deze centrale Arduino stuurt via seriële communicatie (USB) de data door naar ProtoPie Connect, die de data op zijn beurt doorstuurt (USB) naar de ProtoPie Player op een smartphone (HUD) in de voorruit. Via een magneet in de _dial_ detecteren magneetsensoren achter het touchscreen waar de _dial_ zich bevindt. De data van deze sensoren wordt ook ingelezen en doorgestuurd door een centrale Arduino. Onderstaand schema geeft een visuele representatie van deze communicatie.
+Om alle interacties te realiseren maakten we gebruik van Arduino's, een encoder, een magneet, magneetsensoren & ProtoPie. Een Arduino in de _dial_ communiceert via bluetooth de rotaties en indrukkingen van de encoder naar een centrale Arduino. Deze centrale Arduino stuurt via seriële communicatie (USB) de data door naar ProtoPie Connect, die de data op zijn beurt doorstuurt (USB) naar de ProtoPie Player op een smartphone (HUD) in de voorruit. Via een magneet in de _dial_ detecteren magneetsensoren achter het touchscreen waar de _dial_ zich bevindt. De data van deze sensoren wordt ook ingelezen en doorgestuurd door een centrale Arduino. Onderstaand schema geeft een visuele representatie van deze communicatie.
 
 <img src="images/prototype communicatieschema.jpg">
 
@@ -423,7 +423,7 @@ void outputProtopie(BLEDevice dial) {
 ```
 
 ### Touchscreen
-De interface op het touchscreen bleef ongewijzigd. Enkel werden ook hier de functionaliteiten toegevoegd. De metalen plaatjes langs de achterkant werden vervangen door rosse munten omwille van hun ronde vorm en hun sterk magnetische aantrekkingskracht. Op elk van die munten bevestigden we een magneetsensor om de positie van de dial op het touchscreen te detecteren. We monteerden dit fictieve touchscreen in de auto door middel van enkele haken die we met de lasercutter maakten. Deze zorgden ook voor de juiste tussenafstand, bepaald tijdens vorige gebruikerstest.
+De interface op het touchscreen bleef ongewijzigd. Enkel werden ook hier de functionaliteiten toegevoegd. De metalen plaatjes langs de achterkant werden vervangen door rosse munten omwille van hun ronde vorm en hun sterk magnetische aantrekkingskracht. Op elk van die munten bevestigden we een magneetsensor om de positie van de dial op het touchscreen te detecteren. We monteerden dit fictieve touchscreen in de auto door middel van enkele haken die we met de lasercutter maakten. Deze zorgden ook voor de juiste tussenafstand, bepaald tijdens de vorige gebruikerstest.
 
 <p>
   <img src="/images/prototype touchscreen achterkant.jpg" width="49%">
@@ -529,7 +529,7 @@ void loop() {
 ```
 
 ### HUD
-Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid past zich automatisch aan aan de omgeving.
+Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid zich automatisch aanpassen aan de omgeving.
 
 <p>
   <img src="/images/prototype HUD smartphone.jpg" width="49%">
@@ -541,7 +541,7 @@ Om een interface te ontwerpen maakten we gebruik van ProtoPie. We begonnen met h
 - centraal: knipperlichten, toegelaten snelheid, huidige snelheid, auto voor jou, _line assist_ & rijbereik
 - rechts: weergave van de functionaliteiten die je met de dial aan het bedienen bent
 
-Alles wat donkergrijs is in de interface, is in principe transparant bij een echt HUD. De blauwe lijnen stellen de _line assist_ voor. De auto in het midden is een fictieve auto voor jou.
+Alles wat donkergrijs is in de interface, is in principe transparant bij een echt HUD. De blauwe lijnen stellen de _line assist_ voor. De auto in het midden is een fictieve auto voor jou. De rechtse weergave (functionaliteiten) verdwijnt indien er 5 seconden niets wordt aangepast.
 
 <p>
   <img src="/images/prototype HUD V2 home.png" width="32%">
