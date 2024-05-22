@@ -324,9 +324,6 @@ int encoderState = 0;
 int encoderLastState = -1;
 int direction = 0;
 int lastDirection = -1;
-int teller0 = 0;
-int teller1 = 0;
-int grens = 3;
 
 
 void setup() {
@@ -381,37 +378,23 @@ void outputProtopie(BLEDevice dial) {
       Serial.println("button1");
       central.writeValue((byte)0x01);
     }
-    /*if (buttonState == 1 && ButtonLastState == 0) {
-      Serial.println("button0");
-      central.writeValue((byte)0x00);
-    }*/
     ButtonLastState = buttonState;
 
     if (encoderState != encoderLastState) {
       if (digitalRead(encoderBPin) != encoderState) {
         direction = 0;
         if (direction == 0 && lastDirection == 0) {
-          teller0 += 1;
-          if (teller0 == grens) {
-            teller0 = 0;
-            teller1 = 0;
-            Serial.println("dir0");
-            central.writeValue((byte)0x02);
-            direction = 1;
-          }
+          Serial.println("dir0");
+          central.writeValue((byte)0x02);
+          direction = 1;
         }
         lastDirection = direction;
       } else {
         direction = 1;
         if (direction == 1 && lastDirection == 1) {
-          teller1 += 1;
-          if (teller1 == grens) {
-            teller1 = 0;
-            teller0 = 0;
-            Serial.println("dir1");
-            central.writeValue((byte)0x03);
-            direction = 0;
-          }
+          Serial.println("dir1");
+          central.writeValue((byte)0x03);
+          direction = 0;
         }
         lastDirection = direction;
       }
@@ -633,7 +616,7 @@ Het scherm wordt terug het oorspronkelijke scherm zoals reeds in de testauto aan
 De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepaneel die toch nog steeds modern en innovatief oogt. In de laatste testen gaan we deze laatste inzichten al dan niet verifiëren bij een nieuwe groep gebruikers.
 
 > [!IMPORTANT]
-> Design Requirements
+> Design Requirements:
 > - Er dient auditieve feedback te zijn bij het veranderen van menu.
 > - De auditieve feedback kan uitgeschakeld worden.
 > - Er dient augmented reality te zijn in het HUD.
@@ -657,6 +640,47 @@ Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met 
   <img src="/images/prototype controlepaneel achter.jpg" width="48%">
 </p>
 
+### Dial
+De gevoeligheid van de dial werd softwarematig verminderd door een extra variabele 'grens' toe te voegen. Alleen het gedeelte dat de rotatie van de encoder uitleest, werd aangepast. Verder zijn er geen wijzigingen aangebracht aan de vorm, grootte, hardware...
+
+```py
+if (encoderState != encoderLastState) {
+  if (digitalRead(encoderBPin) != encoderState) {
+    direction = 0;
+    if (direction == 0 && lastDirection == 0) {
+      teller0 += 1;
+      if (teller0 == grens) {
+        teller0 = 0;
+        teller1 = 0;
+        Serial.println("dir0");
+        central.writeValue((byte)0x02);
+        direction = 1;
+      }
+    }
+    lastDirection = direction;
+  } else {
+    direction = 1;
+    if (direction == 1 && lastDirection == 1) {
+      teller1 += 1;
+      if (teller1 == grens) {
+        teller1 = 0;
+        teller0 = 0;
+        Serial.println("dir1");
+        central.writeValue((byte)0x03);
+        direction = 0;
+      }
+    }
+    lastDirection = direction;
+  }
+}
+encoderLastState = encoderState;
+```
+
+### HUD
+De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te verkleinen, verandert de temperatuur per gehele graad in plaats van per halve graad. Ook werd een extra icoontje toegevoegd om aan te geven dat de stand van de zetelverwarming aangepast kan worden door op de dial te klikken. De prominent aanwezige auto, de tijd, de datum en het rijbereik werden verplaatst naar het dashboard achter het stuur.
+
+<img src="/images/prototype HUD V4.png">
+
 ## Develop 3: Human Senses
 
 ### Doelstellingen
@@ -668,7 +692,7 @@ Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met 
 ### Conclusies & implicaties
 
 > [!IMPORTANT]
-> Design Requirements
+> Design Requirements:
 
 ## Overzicht Design Requirements
 |ID|Requirement|Source|Date|
