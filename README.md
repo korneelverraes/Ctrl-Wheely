@@ -207,7 +207,7 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De interface moet modern ogen.
 
 ## Prototype
-In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een head-up-display (HUD) is interessant omdat hierbij de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
+In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
 <p>
   <img src="/images/concept render zij.png" width="49%"/>
