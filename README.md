@@ -602,6 +602,8 @@ Op basis van opnames, directe feedback en formulieren kunnen we diepgaand analys
 
 We begonnen met een verificatie van vorige tests over posities en functies. Sommige testpersonen wilden de temperatuur van bestuurder en passagier aan de uiterste posities zien. Eén persoon vond de navigatie storend in beeld; een L-vormige indeling zou beter zijn. Relatieve posities kunnen naar voorkeur worden aangepast (software), maar absolute posities blijven hetzelfde (hardware). Bij de eerste testrun ontdekten de meeste gebruikers de zetelverwarming niet. Een persoon vond deze functie overbodig omdat die maar een paar maanden per jaar wordt gebruikt. Een logische startpositie zou de navigatie zijn, niet de passagierstemperatuur. Eén testpersoon wilde meer voorgelezen opties, terwijl anderen de voorgelezen menu’s storend vonden.
 
+We merkten dat het op enkele momenten lastig was om een bepaald adres, telefoonnummer, muzieknummer of temperatuur te selecteren. De dial was te gevoelig.
+
 Bij de vraag naar afleiding vergeleken met hun huidige auto, vonden de meeste gebruikers dat het slechts een gewoontekwestie was. Na een paar ritten zou het systeem een meerwaarde zijn. De magneten werden als handig ervaren. Eén persoon wilde meer informatie in het HUD geprojecteerd zien.
 
 De dial hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote dial straalt echter meer sympathie uit. De dial kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde _affordance_ (conische vorm) hadden veel gebruikers de neiging de dial op te heffen.
@@ -616,7 +618,7 @@ Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het
 ### Conclusies & implicaties
 Om een betere context te bieden aan de testpersoon maken we een visualisatie van het HUD in de auto. We vermelden hierbij de nodige extra uitleg. Ook moeten we vermelden welke slimme functies de auto al heeft en wat niet meer handmatig geregeld hoeft te worden.
 
-De draairichting bij het scrollen door de muziek kan softwarematig worden aangepast. In de interface wordt er een blijvende pop-up geïntegreerd wanneer je aan het bellen bent en door andere menu’s aan het scrollen bent. Ook de muziek die afspeelt blijft continu weergegeven. Al deze zaken zorgen voor een vrij druk HUD. Daarom maakten we een opsplitsing van welke informatie in het HUD wordt weergegeven en welke in het dashboard achter het stuur. De onderstaande figuur illustreert dit.
+De draairichting en de gevoeligheid bij het scrollen door de lijsten kan softwarematig worden aangepast. In de interface wordt er een blijvende pop-up geïntegreerd wanneer je aan het bellen bent en door andere menu’s aan het scrollen bent. Ook de muziek die afspeelt blijft continu weergegeven. Al deze zaken zorgen voor een vrij druk HUD. Daarom maakten we een opsplitsing van welke informatie in het HUD wordt weergegeven en welke in het dashboard achter het stuur. De onderstaande figuur illustreert dit.
 
 <img src="/images/dev2 hud vs dashboard.jpg">
 
@@ -643,6 +645,17 @@ De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepanee
 > - De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.
 > - Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).
 > - Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.
+
+## Prototype
+Bij dit prototype gooiden we ons hele concept om. Het touchscreen maakte plaats voor een controlepaneel in de middenconsole.
+
+### Controlepaneel
+Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met de lasercutter. Het principe van de snapping points door middel van magneten, rosse munten en magneetsensoren bleef hetzelfde. Er werden ook enkele tussenstukken gemaakt om dit controlepaneel in de testauto te integreren. 
+
+<p>
+  <img src="/images/prototype controlepaneel.jpeg" width="48%">
+  <img src="/images/prototype controlepaneel achter.jpg" width="48%">
+</p>
 
 ## Develop 3: Human Senses
 
