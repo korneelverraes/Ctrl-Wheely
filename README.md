@@ -766,7 +766,7 @@ Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial,
 ### Controlepaneel
 ### Dial
 ### HUD
-Voor de eindinterface van het HUD wordt rekening gehouden met de design requirement dat de positie van de _dial_ en dus de visualisatie in welk menu je zit steeds zichtbaar dient te zijn. 
+Voor de eindinterface van het HUD wordt rekening gehouden met de design requirement dat de positie van de _dial_ en dus de visualisatie in welk menu je zit steeds zichtbaar dient te zijn. Het HUD werd uitgewerkt tot een strak, modern en intuïtief design gebasseerd op de wensen van de gebruikers. In het HUD staan de meest noodzakelijke zaken om de afleiding zo min mogelijk te houden. In een eindproduct wordt het HUD gerealiseerd met augmented reality pijlen en informatieweergave. Zo krijgt de gebruiker niet het gevoel dat het zomaar geprojecteerd is. De gebruiker krijgt de indruk dat de informatie en verandering op de echte weg gebeuren.
 
 Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;. 
 <p>
@@ -780,6 +780,15 @@ Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;.
 
 
 ## Kritische reflectie
+We hebben ons dit semester meer dan ooit geconcentreerd op de gebruiker. Door testen altijd uit te voeren in een reële context en tevens de context zo consistent mogelijk te houden tussen de testen zetten we extra in op de validiteit van de testen. Dit maakt de input van de gebruiker concreter en betrouwbaarder. We zijn dan ook trots op het gerealiseerde eindprototype en staan 100% achter de gemaakte ontwerpkeuzes vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker.
+
+
+Om volledig terug te blikken moeten we misschien even terug naar het begin van de opdracht. Al snel werd het gestelde probleem bevestigd door gebruikers en onderzoek in de ontdekkingsfase. We kregen eerste goeie ideeën en inzichten tijdens een focus group en contextual inquieries. We konden ons na deze ontdekkingsfase geen betere teamgenoot voorstellen en groeiden doorheen het project uit tot een ijzersterk team van twee enthousiaste, gedreven studenten. We hadden beiden sterke toekomstvisie over het project. De twee visies kwamen goed overeen en zorgden nooit voor problemen. In de definitiefase konden we ons bedacht concept gaan concretiseren. De _dial_ en het interface groeiden tot een concreet concept met weloverwogen design requirements. Deze eerste concrete concepten konden we na semester één uitwerken tot concrete renders en voor de eerste maal voorstellen.
+
+
+Vooral na semester één ging het concept er zeer snel en zeer drastisch op vooruit. De ene test volgde de andere snel op. Doordat we tijdens de eerste develop-test al een offline-interactief prototype hadden, konden we niet alleen antropometrische data valideren, maar ook de eerste beperkingen en opportuniteiten van ons concept onder ogen zien. Een goede basis zodus voor het tweede deel van de ontwikkelingsfase.  
+
+
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
 
 We blikken terug op een periode met een effectieve en vlotte samenwerking en kijken ernaar uit om in het tweede semester te werken aan de ontwikkelings- en eindfase. Moesten we de definitiefase opnieuw kunnen doen, zouden we tussen de testen met de *dials* en de interfaces iets meer tijd voorzien hebben. Zo zouden we een uitgebreidere interface kunnen gaan ontwerpen om een tweede maal met een iets realistischer prototype naar de gebruiker te trekken. We hadden graag in deze fase nog getest hoe gebruikers het liefst tactiele feedback ontvangen van de *dial*. Hoe intens en hoe snel moet de vibratie zijn bij het bedienen van de *dial*? 
