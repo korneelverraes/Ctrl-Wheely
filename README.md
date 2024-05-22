@@ -1,5 +1,5 @@
 # Ctrl-Wheely
-*Optimalisatie van autodashboard-interactie door middel van een fysieke verplaatsbare knop op het touchscreen.* 
+*Optimalisatie van autodashboard-interactie door middel van een fysieke verplaatsbare knop in de middenconsole.* 
 
 *Projectteam: Korneel Verraes; Warre Robbe*
 
