@@ -730,6 +730,11 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 |5.1|Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).|Human mind user test|01/05/2024|
 |5.2|Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.|Human mind user test|01/05/2024|
 
+## Finaal prototype
+Na een jaar hard werken zijn we tot een finaal prototype gekomen: Ctrl-Wheely. Een fysieke verplaatsbare knop op een controlepaneel in de middenconsole waarmee je de verschillende functies van je auto bedient. Alles wat je aan het bedienen bent wordt weergegeven in een HUD, een projectie op de baan in de voorruit.
+
+Door de intuïtieve manier van bedienen, de eenvoudige interacties en de weergave in het gezichtsveld, vormt Ctrl-Wheely de ideale oplossing voor een veilige autorit.
+
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
 
