@@ -735,6 +735,10 @@ Na een jaar hard werken zijn we tot een finaal prototype gekomen: Ctrl-Wheely. E
 
 Door de intuïtieve manier van bedienen, de eenvoudige interacties en de weergave in het gezichtsveld, vormt Ctrl-Wheely de ideale oplossing voor een veilige autorit.
 
+In de hedendaagse, moderne auto worden al heel wat functies automatisch aangestuurd. Denk hierbij aan de voor- en achterruitverwarming, ruitenwissers, lichten, airco... Deze nemen al een groot deel van de potentiële afleiding weg. Andere functies worden, omwille van diezelfde afleiding, beperkt tijdens het rijden. Er schieten dus nog een aantal functies over die de autobestuurder zelf, tijdens het rijden, in handen wil hebben. Dit zijn de navigatie, telefoon, muziek, temperatuur (bestuurder & passagier) en zetelverwarming (bestuurder & passagier). Dankzij Ctrl-Wheely kunnen deze allemaal op een veilige manier bediend worden.
+
+Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial, het controlepaneel en het HUD. De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de dial draaien om binnen een menu te scrollen en op de knop drukken om te selecteren.
+
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
 
