@@ -763,6 +763,21 @@ Door de intuïtieve manier van bedienen, de eenvoudige interacties en de weergav
 In de hedendaagse, moderne auto worden al heel wat functies automatisch aangestuurd. Denk hierbij aan de voor- en achterruitverwarming, ruitenwissers, lichten, airco... Deze nemen al een groot deel van de potentiële afleiding weg. Andere functies worden, omwille van diezelfde afleiding, beperkt tijdens het rijden. Er schieten dus nog een aantal functies over die de autobestuurder zelf, tijdens het rijden, in handen wil hebben. Dit zijn de navigatie, telefoon, muziek, temperatuur (bestuurder & passagier) en zetelverwarming (bestuurder & passagier). Dankzij Ctrl-Wheely kunnen deze allemaal op een veilige manier bediend worden.
 
 Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial, het controlepaneel en het HUD. De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de dial draaien om binnen een menu te scrollen en op de knop drukken om te selecteren.
+### Controlepaneel
+### Dial
+### HUD
+Voor de eindinterface van het HUD wordt rekening gehouden met de design requirement dat de positie van de _dial_ en dus de visualisatie in welk menu je zit steeds zichtbaar dient te zijn. 
+
+Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;. 
+<p>
+  <img src="/images/prototype HUD V4 home.png" width="32%">
+  <img src="/images/prototype HUD V4 navigation.png" width="32%">
+  <img src="/images/prototype HUD V4 phone.png" width="32%">
+  <img src="/images/prototype HUD V4 music.png" width="32%">
+  <img src="/images/prototype HUD V4 airco left.png" width="32%">
+  <img src="/images/prototype HUD V4 airco right.png" width="32%">
+</p>
+
 
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
