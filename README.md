@@ -775,7 +775,7 @@ Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;.
   <img src="/images/prototype HUD V4 phone.png" width="32%">
   <img src="/images/prototype HUD V4 music.png" width="32%">
   <img src="/images/prototype HUD V4 airco left.png" width="32%">
-  <img src="/images/prototype HUD V4 airco right.png" width="32%">
+  <img src="/images/prototype HUD V4 airo right.png" width="32%">
 </p>
 
 
