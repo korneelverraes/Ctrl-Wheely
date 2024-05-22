@@ -214,7 +214,7 @@ In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een 
   <img src="/images/concept render close-up.png" width="49%"/>
 </p>
 
-Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. 
+Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. We gebruiken hier de methode van het quick en dirty prototype, het nut van dit prototype is het concept concreter maken en duidelijk maken aan de gebruiker. In deze fase hebben we nog geen zeer uitgebreid prototype nodig.
 
 Het gebruik van een reëel touchscreen is in deze fase van het proces nog niet aan de orde. Bovendien zijn de grootte, functionaliteiten, vorm... nog niet beslist. De uitgewerkte interface (Figma) printten we af en kleefden we op een dibondplaat. De eerstvolgende test heeft betrekking tot de ergonomische afmetingen. Hiervoor was het noodzakelijk dat het touchscreen op verschillende posities in de auto gemonteerd kon worden. We gebruikten kartonnen tussenstukken en papierplakband om dit snel te realiseren. De knop, nu nog zonder draai- en klikfunctionaliteit, werd gemaakt met de 3D-printer.
 
@@ -543,7 +543,7 @@ Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken 
 
 <img src="/images/prototype HUD V2.gif">
 
-Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. Dit alles zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
+Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. We zijn ons ervan bewust dat dit een zeer geavanceerd prototype is, toch vinden we dat dit prototype een absolute meerwaarde is. We kunnen van onszelf ook zeggen dat we redelijk goed overweg kunnen met het programmeren en de nodige software, dat zorgde ervoor dat we toch niet langer dan nodig bezig waren met het maken ervan. Alles werd gemaakt met het oog op snelle aanpassingen, wat uit de test kan komen zal meestal zeer snel aanpasbaar zijn in de code of de interface. Dit prototype zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
 
 ## Develop 2: Human Mind
 Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een _expert review_ en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
@@ -680,6 +680,9 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 
 <img src="/images/prototype HUD V4.png">
 
+Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen van de hardware-onderdelen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
+
+
 ## Develop 3: Human Senses
 
 ### Doelstellingen
@@ -780,13 +783,27 @@ Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;.
 
 
 ## Kritische reflectie
-We hebben ons dit semester meer dan ooit geconcentreerd op de gebruiker. Door testen altijd uit te voeren in een reële context en tevens de context zo consistent mogelijk te houden tussen de testen zetten we extra in op de validiteit van de testen. Dit maakt de input van de gebruiker concreter en betrouwbaarder. We zijn dan ook trots op het gerealiseerde eindprototype en staan 100% achter de gemaakte ontwerpkeuzes vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker.
+We hebben ons dit semester meer dan ooit geconcentreerd op de gebruiker. Door testen altijd uit te voeren in een reële context en tevens de context zo consistent mogelijk te houden tussen de testen zetten we extra in op de validiteit van de testen. Dit maakt de input van de gebruiker concreter en betrouwbaarder. We zijn dan ook trots op het gerealiseerde eindprototype en staan 100% achter de gemaakte ontwerpkeuzes vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker. Onze **approach** doorheen het project is contextrealisatie zeker in het tweede semester.
 
 
 Om volledig terug te blikken moeten we misschien even terug naar het begin van de opdracht. Al snel werd het gestelde probleem bevestigd door gebruikers en onderzoek in de ontdekkingsfase. We kregen eerste goeie ideeën en inzichten tijdens een focus group en contextual inquieries. We konden ons na deze ontdekkingsfase geen betere teamgenoot voorstellen en groeiden doorheen het project uit tot een ijzersterk team van twee enthousiaste, gedreven studenten. We hadden beiden sterke toekomstvisie over het project. De twee visies kwamen goed overeen en zorgden nooit voor problemen. In de definitiefase konden we ons bedacht concept gaan concretiseren. De _dial_ en het interface groeiden tot een concreet concept met weloverwogen design requirements. Deze eerste concrete concepten konden we na semester één uitwerken tot concrete renders en voor de eerste maal voorstellen.
 
 
-Vooral na semester één ging het concept er zeer snel en zeer drastisch op vooruit. De ene test volgde de andere snel op. Doordat we tijdens de eerste develop-test al een offline-interactief prototype hadden, konden we niet alleen antropometrische data valideren, maar ook de eerste beperkingen en opportuniteiten van ons concept onder ogen zien. Een goede basis zodus voor het tweede deel van de ontwikkelingsfase.  
+Vooral na semester één ging het concept er zeer snel en zeer drastisch op vooruit. De ene test volgde de andere snel op. Doordat we tijdens de eerste develop-test al een offline-interactief prototype hadden, konden we niet alleen antropometrische data valideren, maar ook de eerste beperkingen en opportuniteiten van ons concept onder ogen zien. Een goede basis zodus voor het tweede deel van de ontwikkelingsfases en de maak van ons eerste interactieve prototype. Het werd een geavanceerd prototype die de realiteit zo goed mogelijk benadert en zo de testresultaten zo validitief mogelijk maakt. Dat we mogen trots zijn op ons eerste interactieprototype gemaakt in ProtoPie&copy; werd bevestigd door onze gebruikers en het enthousiasme van de mensen uit de bedrijfswereld tijdens het industry consult. Tussen de tweede en de laatste fase van de ontwikkelingsfase kwamen we op een eng doch zeer leerrijk moment. Na het industry consult konden we ons concept gaan omgooien en dat deden we ook. We kozen met oog op de gebruiker voor een nog betere en veiligere uitwerking van ons product. Een grote stap die ons ten goede bleek te komen in de laatste testfase. Ondanks dat dit nieuwe prototype niet tot in de details was uitgewerkt voor de testen wekte ons concept en prototype alleen maar lof op bij de gebruikers.
+
+We konden ons geen betere eindtesten bedenken vooraf. De gebruikers waren vol lof over ons concept. De laatste test was zoals het hoort een bevestigingstest waarin gemaakte ontwerpkeuzes bevestigd werden door de gebruikers. Natuurlijk waren er ook nog enkele kleine bedenkingen of verbeteringen. Deze laatst aangehaalde puntjes probeerden we nog zoveel mogelijk te realiseren in het eindprototype.
+
+
+Om onze verslag te eindigen antwoorden we samenvattend nog even op de onderzoeksvraag: **Op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?**
+Wel dat doen we door gebruik te maken van Ctrl-Wheely, een product bestaande uit een fysiek verplaatsbare draaiknop die op een controlepaneel bevestigd wordt en waarbij bij de controle van de knop de ogen steeds op de weg kunnen gehouden worden door het HUD. 
+
+
+
+
+
+
+
+
 
 
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
