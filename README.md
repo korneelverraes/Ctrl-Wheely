@@ -683,12 +683,33 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 ## Develop 3: Human Senses
 
 ### Doelstellingen
+- De kwaliteit van het controlepaneel achterhalen.
+- Bevestiging of verwerping van designbeslissingen op basis van de vorige test.
+- Het hebben van een definitief prototype van Ctrl-Wheely
 - Kwantificatie van de afleiding tijdens het rijden
+
+
 ### Materiaal & methoden
+We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van elektronica en HUD zijn we al gewoon van de vorige test. Nadat alles veilig en proper geïnstalleerd was in de testwagen konden we de gebruiker een introductie geven tot ons concept. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. De testpersonen konden met de _dial_ tussen al de menu's switchen en de menu's ontdekken alsook de bijhorende functies. Nadat alle functies door de testpersonen ontdekt zijn en de persoon in kwestie zelf aangeeft dat alles blindelings bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als sleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Telkens vijf fragmenten waarin ze de opdrachten te dienen te voltooien via het interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. Hierbij wouden we kwantificeren of ons concept wel degelijk minder afleidt. Alle inzichten en opmerkingen werden vastgelegd in een participant form.
+
 
 ### Resultaten
+Op basis van de opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren. Opnieuw kan ook uit het verloop van de test al het een en ander geleerd worden. Bestuurders lieten zich soms afleiden door het feit dat het een prototype is. Beter is om te vermelden dat de techniek soms kan falen, maar dat wij die tijdens de test zullen proberen oplossen. Ze mogen hierdoor niet afgeleid worden en kunnen dit tijdens de test volledig negeren.
+
+Ook bij deze test konden de gebruikers eerst alle functies ontdekken. Ook bij deze test werd de zetelverwarming door het merendeel niet ontdekt. We leerden deze keer wel dat het meestal gaat om mensen die in hun huidige wagen geen zetelverwarming hebben en er daarom niet aan denken. Wanneer je het nodig hebt (in koude periodes) zou je het zeer gemakkelijk terugvinden.
+
+Uit de vorige test bleek dat de mensen vaak de neiging hadden om de dial op te heffen om het te verplaatsen over het touchscreen. Wegens praktische beperkingen van het prototype hadden we bij deze test nog geen rekening gehouden met de aangepaste vorm (zoals in het sleutelprototype wel al verwerkt zit). In deze test was echter niemand nog geneigd om de ‘oude’ dial op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat de vorm van de dial dan toch goed zit. Bij het extra bevragen vermeldde zowat iedereen dat de huidige dial zeer goed in de hand ligt. 
+
+
+De startpositie van de navigatie en de temperatuur links en rechts worden als zeer intuïtief en goed bedacht ondervonden. 
+Op het HUD staat de essentie in een moderne en niet afleidend ontwerp.
+Wat direct opviel is dat iedereen fan was van het cirkelvormige controlepaneel en de bijhorende _snapping points_. “Op deze manier kan je veel sneller door belangrijke menu’s scrollen als in mijn BMW met ook een draaiknop in de middenconsole.”
+Het controlepaneel staat op een zeer comfortabele positie, dat werd aangehaald door testpersonen van verschillende groottes. 
+Er werd aan de gebruikers gevraagd welke grootte van touchscreen ze voor ogen hadden, nu de _dial_ niet meer op het scherm bediend dient te worden. De gebruikers gaven aan dat ze graag toch een groot touchscreen in de middenconsole hebben, ook al dient deze enkel voor tijdens het stilstaan en voor het lezen van de navigatiekaart.
 
 ### Conclusies & implicaties
+Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten. 
+Ondanks dat er geen functies tijdens het rijden bediend dienen te worden, willen de mensen wel nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen. Zeker oudere mensen gaven de voorkeur aan een groter scherm om de leesbaarheid hoog genoeg te houden. Toch mag het touchscreen ook niet te groot zijn zoals in een Tesla. 
 
 > [!IMPORTANT]
 > Design Requirements:
