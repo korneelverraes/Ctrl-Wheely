@@ -783,7 +783,7 @@ Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;.
 
 
 ## Kritische reflectie
-We hebben ons dit semester meer dan ooit geconcentreerd op de gebruiker. Door testen altijd uit te voeren in een reële context en tevens de context zo consistent mogelijk te houden tussen de testen zetten we extra in op de validiteit van de testen. Dit maakt de input van de gebruiker concreter en betrouwbaarder. We zijn dan ook trots op het gerealiseerde eindprototype en staan 100% achter de gemaakte ontwerpkeuzes vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker. Onze **approach** doorheen het project is contextrealisatie zeker in het tweede semester.
+We hebben ons dit semester meer dan ooit geconcentreerd op de gebruiker. Door testen altijd uit te voeren in een reële context en tevens de context zo consistent mogelijk te houden tussen de testen zetten we extra in op de validiteit van de testen. De gebruiker werd hierdoor meer op zijn gemak gesteld. Dit maakt de input van de gebruiker concreter en betrouwbaarder. Een nadeel aan het testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een wagen die ze niet kenne. Dat rijden vergt dan aandacht die op dat moment niet naar de test en in het bijzonder naar het concept kan gaan. Toch zijn we zeer trots op het gerealiseerde eindprototype en staan 100% achter de gemaakte ontwerpkeuzes vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker. Onze **approach** doorheen het project is contextrealisatie zeker in het tweede semester.
 
 
 Om volledig terug te blikken moeten we misschien even terug naar het begin van de opdracht. Al snel werd het gestelde probleem bevestigd door gebruikers en onderzoek in de ontdekkingsfase. We kregen eerste goeie ideeën en inzichten tijdens een focus group en contextual inquieries. We konden ons na deze ontdekkingsfase geen betere teamgenoot voorstellen en groeiden doorheen het project uit tot een ijzersterk team van twee enthousiaste, gedreven studenten. We hadden beiden sterke toekomstvisie over het project. De twee visies kwamen goed overeen en zorgden nooit voor problemen. In de definitiefase konden we ons bedacht concept gaan concretiseren. De _dial_ en het interface groeiden tot een concreet concept met weloverwogen design requirements. Deze eerste concrete concepten konden we na semester één uitwerken tot concrete renders en voor de eerste maal voorstellen.
@@ -797,30 +797,6 @@ We konden ons geen betere eindtesten bedenken vooraf. De gebruikers waren vol lo
 Om onze verslag te eindigen antwoorden we samenvattend nog even op de onderzoeksvraag: **Op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?**
 Wel dat doen we door gebruik te maken van Ctrl-Wheely, een product bestaande uit een fysiek verplaatsbare draaiknop die op een controlepaneel bevestigd wordt en waarbij bij de controle van de knop de ogen steeds op de weg kunnen gehouden worden door het HUD. 
 
-
-
-
-
-
-
-
-
-
-We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld over hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een HUD. Onze testgebruikers waren alvast enthousiast over het concept, ze zien duidelijk het potentieel erin en ook het achterliggende probleem is duidelijk.
-
-We blikken terug op een periode met een effectieve en vlotte samenwerking en kijken ernaar uit om in het tweede semester te werken aan de ontwikkelings- en eindfase. Moesten we de definitiefase opnieuw kunnen doen, zouden we tussen de testen met de *dials* en de interfaces iets meer tijd voorzien hebben. Zo zouden we een uitgebreidere interface kunnen gaan ontwerpen om een tweede maal met een iets realistischer prototype naar de gebruiker te trekken. We hadden graag in deze fase nog getest hoe gebruikers het liefst tactiele feedback ontvangen van de *dial*. Hoe intens en hoe snel moet de vibratie zijn bij het bedienen van de *dial*? 
-Een ander kritisch punt dat we willen aankaarten is de validiteit van onze testen. Naast het feit dat we meer tijd moesten voorzien tussen de twee testen, hadden we best ook gekeken om de testen te doen plaatsvinden in een meer realistische omgeving. Nu waren de testen gewoon in een woonkamer, beter zou zijn dat de testpersonen zich meer konden inleven in de situatie en dat de interfacetest in een echte auto kon plaatsvinden. Dan zou de interface gepositioneerd kunnen worden op de plaats waar in die auto het huidige infotainmentsysteem zich bevindt. De testen die we nu hebben uitgevoerd droegen misschien niet genoeg bij aan de uiteindelijke conceptkeuzes die we maakten. De focus van dit project ligt meer op de interactie die we nu juist minder hebben getest. 
-In de volgende fases gaan we ons alvast meer richten op de totaalervaring in reëele contexten. De validiteit moet beter en we willen vooral gaan kijken in welke mate ons product effectief zorgt voor minder afleiding.
-
-Voor de materiaalkeuze van de *dial* trokken we naar enkele gebruikers met een houten plaat met daarop 6 verschillende materialen. We wilden een diverse keuze aan materialen voorstellen, maar hierop baseerden we ons op gevonden materialen. Graag hadden we wat meer tijd gehad om bijvoorbeeld verschillende 3D-printmaterialen erbij te plaatsen zoals poederprints. Of hadden we opzoek kunnen gaan naar speciale en duurzame metalen. In het tweede semester zullen we een definitieve *dial* (poeder)printen (zachter materiaal) om nog eens bij onze doelgroep te polsen welke materialen zij prefereren.
-
-Als we kijken naar het prototypen van een HUD, dan zit daar misschien nog de grootste uitdaging. We moeten op zoek naar een eenvoudig HUD dat toch een breed scala aan informatie kan weergeven en vooral uiterst vloeiend samenwerkt met de dial en het touchscreen. De uitdaging zit hem in het vinden van een optimale weergavebalans. Een tekort aan informatie zorgt ervoor dat de bestuurder terug naar het touchscreen moet kijken, maar een teveel aan informatie zorgt evenwel voor afleiding. Om het HUD praktisch te gaan realiseren hebben we oog op verschillende methodes. Zo bestaan er heel wat simpele methodes om aan de hand van een scherm en twee spiegels de informatie te gaan projecteren op een raam. Hiervoor kunnen we eventueel samenwerken met andere studenten.
-
-Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het tijd voor de volgende stap: het samenvoegen tot een mooi en realistisch geheel waarmee we naar de eindgebruiker kunnen trekken. Een gehele ervaring in een natuurlijke context leidt tot nieuwe inzichten en gevoelens, die we dan kunnen impliceren in een finaal prototype: Ctrl-Wheely.
-
-NIEUWNIEUWNIEUWNIEUW
-
-We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk er zal uitzien. Een nadeel aan testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een auto die ze niet kennen. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
 ## Bijlagen
 - Discovery
