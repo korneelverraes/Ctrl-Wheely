@@ -752,8 +752,6 @@ NIEUWNIEUWNIEUWNIEUW
 
 We merkten dat testen in een reële context de gebruiker op zijn gemak stelde en dat het voor ons een veel beter beeld schept over hoe ons concept in de praktijk er zal uitzien. Een nadeel aan testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een auto die ze niet kennen. Dat vergt aandacht die op dat moment niet naar de test en in het bijzonder naar ons concept kan gaan.
 
-<img src="/images/concept render voor.png"/>
-
 ## Bijlagen
 - Discovery
   - Contextual inquiries
