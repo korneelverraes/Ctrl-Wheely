@@ -707,8 +707,12 @@ Wat direct opviel is dat iedereen fan was van het cirkelvormige controlepaneel e
 Het controlepaneel staat op een zeer comfortabele positie, dat werd aangehaald door testpersonen van verschillende groottes. 
 Er werd aan de gebruikers gevraagd welke grootte van touchscreen ze voor ogen hadden, nu de _dial_ niet meer op het scherm bediend dient te worden. De gebruikers gaven aan dat ze graag toch een groot touchscreen in de middenconsole hebben, ook al dient deze enkel voor tijdens het stilstaan en voor het lezen van de navigatiekaart.
 
+
+Iemand gaf aan dat hij het noodzakelijk vond voor het gemak dat je in het HUD altijd kan zien in welk menu je zit. Dit dient niet groot te staan zoals bij het bedienen van de menu’s, maar een kleine indicatie zou gemakkelijk zijn. Diezelfde testpersoon kwam met het idee om de vorm van het controlepaneel weer te geven in het klein op het HUD, met daar de huidige positie van de dial. Zo zie je niet altijd in welk menu je zit, maar kan je ook zien hoe je naar de volgende menu’s kan snappen en waar de dial op het controlepaneel staat.
+
+
 ### Conclusies & implicaties
-Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten. 
+Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten.
 Ondanks dat er geen functies tijdens het rijden bediend dienen te worden, willen de mensen wel nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen. Zeker oudere mensen gaven de voorkeur aan een groter scherm om de leesbaarheid hoog genoeg te houden. Toch mag het touchscreen ook niet te groot zijn zoals in een Tesla. 
 
 > [!IMPORTANT]
