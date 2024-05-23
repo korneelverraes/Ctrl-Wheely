@@ -18,7 +18,7 @@ Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig he
   <img src="/images/heroshot finaal hud.jpg" width="32%">
 </p>
 
-Video:
+Productvideo:
 
 [![](https://img.youtube.com/vi/vWs9MYro9L0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vWs9MYro9L0)
 
@@ -799,10 +799,12 @@ Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial,
 ### Dial
 De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de _dial_ draaien om binnen een menu te scrollen en op de knop drukken om te selecteren. De gebruiker verkiest uiteindelijk een _dial_ die wat groter is, dit creëert een minder moderne uitstraling, maar een gebruiksvriendelijkere bediening. Daarnaast ligt een grote knop aangenamer in de hand.
 
-<img src="/images/prototype ergonomie dial.jpg">
+<img src="/images/heroshot finaal close-up.jpg">
 
 ### Controlepaneel
 Het controlepaneel is het nieuwste onderdeel van ons product. Door de _dial_ hierop te plaatsen in plaats van op een touchscreen kiezen we voor veiligheid en gebruiksgemak boven het innovatieve uitzicht. Toch blijft de besturing zeer vernieuwend en vooral zeer innovatief. Het controlepaneel neemt de plaats in van de vroegere versnellingspook, dit zorgt voor een gekende comfortabele bediening. De posities van de functies zijn cirkelvormig verspreid met in het midden de hoofdfunctie. Elke functie is personaliseerbaar over de verschillende posities. In de testen vond de gebruiker de navigatie als hoofdfunctie zeer logisch. De temperatuurbediening links en rechts voelt wellicht voor iedereen, althans voor al onze testpersonen, zeer intuïtief.  
+
+<img src="/images/heroshot finaal alles.jpg">
 
 ### HUD
 Een head-up display (HUD) is een transparant scherm dat informatie projecteert in het gezichtsveld van de bestuurder. Op die manier kunnen gegevens weergegeven worden zonder de blik af te wenden van de baan. Om de afleiding zo beperkt mogelijk te houden is het HUD voorzien van een interface waarop het strikt noodzakelijke aan informatie wordt weergeven. De interface is strak, modern en intuïtief ontworpen, gebaseerd op de noden van de gebruikers.
@@ -819,6 +821,8 @@ De volledige interface is ontworpen en interactief gemaakt in ProtoPie.
   <img src="/images/prototype HUD V4 airco left.png" width="32%">
   <img src="/images/prototype HUD V4 airo right.png" width="32%">
 </p>
+
+<img src="/images/heroshot finaal hud.jpg">
 
 In een definitief ontwerp wordt het HUD gerealiseerd met augmented reality, navigatiepijlen en andere informatie worden rechtstreeks op de baan geprojecteerd. Zo krijgt de gebruiker niet het gevoel dat het zomaar een visuele weergave is. Het innovatieve aspect van Ctrl-Wheely komt hiermee nog meer tot uiting.
 
