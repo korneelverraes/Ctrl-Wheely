@@ -90,7 +90,7 @@ Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We
 Voor we als team verder gingen had Warre ook al een focusgroep georganiseerd. Die focusgroep ging ook over de veiligheid en afleiding in wagens, specifiek  toegepast op het interieur van elektrische auto’s. Ook uit die focusgroep kwamen enkele interessante topics. Aan acht mensen werd de opdracht gegeven om hun droomdashboard samen te stellen met allerlei verschillende interieuronderdelen. Zes van de acht gebruikers plaatsten een draaiknop in hun interieur en twee mensen plaatsten er zelf meerdere waaronder ook op het stuur. Dat ze geliefd zijn bij een grote groep mensen is dus alvast zeker. Zes mensen kozen ook om een HUD te plaatsen in de voorruit.
 > "Ik ben enthousiast over de minimalistisch interface van een Tesla-interieur, maar anderzijds stel ik mij toch wel vragen bij de functionaliteit en veiligheid van één groot touchscreen zonder fysieke knoppen."
 
-Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de *dial*.
+Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de _dial_.
 
 <p align="center">
 <img width="60%" src="/images/focus group.png">
@@ -114,7 +114,7 @@ De afleiding tijdens het rijden wordt niet veroorzaakt door het touchscreen zelf
 
 HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst worden tonen informatie zonder dat de bestuurder zijn ogen van de baan hoeft te halen, wat de veiligheid bevordert. Deze displays kunnen echter moeilijk zichtbaar zijn bij zonnig weer. 3D-schermen en hologrammen bieden een goede ervaring en een grote aanpasbaarheid, maar zijn over het algemeen kostbaarder en complexer. Augmented reality-schermen combineren digitale informatie met de echte wereld, wat de navigatie- en veiligheidskenmerken verbetert, hoewel ze mogelijk een leercurve vereisen voor bestuurders. Traditionele schermen kunnen ondanks dat ze kosteneffectief en vertrouwd zijn de aandacht van de weg brengen. Fysieke knoppen en knoppen op het stuur geven prioriteit aan tastbare feedback en minimale afleiding, terwijl aanraakschermen en spraakbesturing veelzijdigheid bieden, maar mogelijk ten koste gaan van de veiligheid. Context, compatibiliteit en de leercurve zijn ook belangrijke factoren om in overweging te nemen.
 
-**Hoe kunnen we een *dial* en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg terwijl ze interageren met het dashboard?**
+**Hoe kunnen we een _dial_ en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg terwijl ze interageren met het dashboard?**
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -139,7 +139,7 @@ Tot een conceptueel ontwerp komen.
 #### Dial (N=6)
 Door het uitvoeren van concepttesten kunnen we ons concept evalueren met echte gebruikers. Hierdoor kunnen we ook het gedrag van de gebruiker tijdens de interactie observeren en analyseren.
 
-Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze *dial*. Welke grootte? Welke vorm? Welk materiaal? Na een korte introductie gaven we elke deelnemer een stuk klei/plasticine. We gaven hen de opdracht om hun ideale *dial* te ontwerpen en hierbij te variëren in vorm, grootte, afwerking... Hierbij moest de focus op het praktische aspect liggen, minder op het esthetische. Nadat elke deelnemer zijn of haar ideale *dial* gemaakt had gingen we over naar het tweede deel van de test. We ontwikkelden drie *sensorial boards*: 6 verschillende groottes, 9 vormvarianten en 6 verschillende materialen. Elke deelnemer kreeg de kans elk bord te exploreren door aan de verschillende modellen te voelen. Per bord moesten de deelnemers hun voorkeur weergeven in een top 3. Alle ruwe data van deze testen werd verzameld door middel van gebruikersformulieren.
+Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze _dial_. Welke grootte? Welke vorm? Welk materiaal? Na een korte introductie gaven we elke deelnemer een stuk klei/plasticine. We gaven hen de opdracht om hun ideale _dial_ te ontwerpen en hierbij te variëren in vorm, grootte, afwerking... Hierbij moest de focus op het praktische aspect liggen, minder op het esthetische. Nadat elke deelnemer zijn of haar ideale _dial_ gemaakt had gingen we over naar het tweede deel van de test. We ontwikkelden drie *sensorial boards*: 6 verschillende groottes, 9 vormvarianten en 6 verschillende materialen. Elke deelnemer kreeg de kans elk bord te exploreren door aan de verschillende modellen te voelen. Per bord moesten de deelnemers hun voorkeur weergeven in een top 3. Alle ruwe data van deze testen werd verzameld door middel van gebruikersformulieren.
 
 <p align="center">
   <img src="/images/user test dial plasticine.png" width="49%"/>
@@ -168,10 +168,10 @@ Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van 
 </p>
 
 #### User interface (N=5)
-Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale dialvorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
-Met deze test richten we ons op de conceptuele interactie van de dialfuncties en een interface. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
-We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de *dial*.
-Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de *dial* in hun achterhoofd.
+Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale _dial_vorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
+Met deze test richten we ons op de conceptuele interactie van de _dial_functies en een interface. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
+We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de _dial_.
+Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de _dial_ in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p align="center">
   <img src="/images/user test interface layout 1.png" width="32%"/>
@@ -189,7 +189,7 @@ Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten make
 Uit de klei-test blijkt dat gebruikers een voorkeur hadden voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen.
 > "Eventueel kan de knop conisch gemaakt worden. Dit zorgt niet enkel voor meer grip maar geeft mij ook het signaal dat de knop verplaatst kan worden."
 
-Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere *dial* werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal prefereren de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
+Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere _dial_ werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal prefereren de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
 
 Samengevat:
 - dubbele conische vorm
@@ -198,9 +198,9 @@ Samengevat:
 - geribbelde contour
 - rubberachtig materiaal (nog te exploreren via 3D-printen)
 
-Uit de interfacetest blijkt dat onderstaand interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de *dial* moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de *dial* en het scherm te begrijpen.
-Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de *dial* te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
-> "Net zoals in mijn BMW zou ik het handig vinden dat de *dial* ook naast het scherm bedienbaar is zodat ik niet telkens met mijn hele arm tot het scherm hoef te reiken."
+Uit de interfacetest blijkt dat onderstaand interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de _dial_ moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de _dial_ en het scherm te begrijpen.
+Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de _dial_ te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
+> "Net zoals in mijn BMW zou ik het handig vinden dat de _dial_ ook naast het scherm bedienbaar is zodat ik niet telkens met mijn hele arm tot het scherm hoef te reiken."
 
 Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
@@ -220,7 +220,7 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De interface moet modern ogen.
 
 ## Prototype
-In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
+In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n _dial_ toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
 <p align="center">
   <img src="/images/concept render zij.png" width="49%"/>
@@ -275,9 +275,9 @@ We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interess
 |184|79|
 |201|83|
 
-Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de dial onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen, merkten we dat ze vaak naar de muziekfunctie grepen om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen.
+Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de _dial_ onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen, merkten we dat ze vaak naar de muziekfunctie grepen om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen.
 
-Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hadden om het volume en het veranderen van nummer/radiozender uit elkaar te houden.
+Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. Alle gebruikers gaven ook aan dat de _dial_ bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hadden om het volume en het veranderen van nummer/radiozender uit elkaar te houden.
 
 <p align="center">
   <img src="/images/dev1 seppe.jpg" width="38.4%">
@@ -311,9 +311,9 @@ Om alle interacties te realiseren maakten we gebruik van Arduino's, een encoder,
 <img src="images/prototype communicatieschema.jpg">
 
 ### Dial
-Het vormelijk ontwerp (grootte, vorm & materiaal) van de dial bleef ongewijzigd, in deze fase werd ze enkel functioneerbaar gemaakt. De dial is hol en bestaat uit twee losneembare delen: een onderkant waar de magneet zit en een bovenkant waar de elektronische componenten gemonteerd zijn. Deze elektronische componenten zijn een incrementele _rotary encoder_, een Arduino Nano 33 IOT en batterijen (2x CR2032). De dial zelf werd gemaakt met de 3D-printer.
+Het vormelijk ontwerp (grootte, vorm & materiaal) van de _dial_ bleef ongewijzigd, in deze fase werd ze enkel functioneerbaar gemaakt. De _dial_ is hol en bestaat uit twee losneembare delen: een onderkant waar de magneet zit en een bovenkant waar de elektronische componenten gemonteerd zijn. Deze elektronische componenten zijn een incrementele _rotary encoder_, een Arduino Nano 33 IOT en batterijen (2x CR2032). De _dial_ zelf werd gemaakt met de 3D-printer.
 
-Bij de eerste testen met de dial merkten we dat de batterijen voor problemen zorgden. Ze liepen zeer snel leeg en gaven niet voldoende spanning. Hierdoor werden we genoodzaakt de batterijen te vervangen door een externe spanningsbron, de auto zelf (via USB).
+Bij de eerste testen met de _dial_ merkten we dat de batterijen voor problemen zorgden. Ze liepen zeer snel leeg en gaven niet voldoende spanning. Hierdoor werden we genoodzaakt de batterijen te vervangen door een externe spanningsbron, de auto zelf (via USB).
 
 <p align="center">
   <img src="/images/prototype usability test dial bovenkant.jpg" width="32%">
@@ -321,7 +321,7 @@ Bij de eerste testen met de dial merkten we dat de batterijen voor problemen zor
   <img src="/images/prototype usability test dial.jpg" width="32%">
 </p>
 
-De dial moet het klikken & draaien registreren en via bluetooth doorsturen naar de centrale Arduino. Onderstaande code werd geprogrammeerd in de Arduino IDE om deze functionaliteiten te realiseren.
+De _dial_ moet het klikken & draaien registreren en via bluetooth doorsturen naar de centrale Arduino. Onderstaande code werd geprogrammeerd in de Arduino IDE om deze functionaliteiten te realiseren.
 
 ```py
 #include <ArduinoBLE.h>
@@ -418,14 +418,14 @@ void outputProtopie(BLEDevice dial) {
 ```
 
 ### Touchscreen
-De interface op het touchscreen bleef ongewijzigd. Enkel werden ook hier de functionaliteiten toegevoegd. De metalen plaatjes langs de achterkant werden vervangen door rosse munten omwille van hun ronde vorm en hun sterk magnetische aantrekkingskracht. Op elk van die munten bevestigden we een magneetsensor om de positie van de dial op het touchscreen te detecteren. We monteerden dit fictieve touchscreen in de auto door middel van enkele haken die we met de lasercutter maakten. Deze zorgden ook voor de juiste tussenafstand, bepaald tijdens de vorige gebruikerstest.
+De interface op het touchscreen bleef ongewijzigd. Enkel werden ook hier de functionaliteiten toegevoegd. De metalen plaatjes langs de achterkant werden vervangen door rosse munten omwille van hun ronde vorm en hun sterk magnetische aantrekkingskracht. Op elk van die munten bevestigden we een magneetsensor om de positie van de _dial_ op het touchscreen te detecteren. We monteerden dit fictieve touchscreen in de auto door middel van enkele haken die we met de lasercutter maakten. Deze zorgden ook voor de juiste tussenafstand, bepaald tijdens de vorige gebruikerstest.
 
 <p align="center">
   <img src="/images/prototype touchscreen achterkant.jpg" width="49%">
   <img src="/images/prototype touchscreen voorkant.jpg" width="49%">
 </p>
 
-Achter dit touchscreen bevindt zich ook de centrale Arduino Nano 33 IOT. Deze moet de data van de magneetsensoren & de Arduino in de dial inlezen, en doorsturen naar ProtoPie Connect door middel van seriële communicatie (USB). Onderstaande code werd geprogrammeerd in de Arduino IDE om deze functionaliteiten te realiseren.
+Achter dit touchscreen bevindt zich ook de centrale Arduino Nano 33 IOT. Deze moet de data van de magneetsensoren & de Arduino in de _dial_ inlezen, en doorsturen naar ProtoPie Connect door middel van seriële communicatie (USB). Onderstaande code werd geprogrammeerd in de Arduino IDE om deze functionaliteiten te realiseren.
 
 ```py
 #include <ArduinoBLE.h>
@@ -524,7 +524,7 @@ void loop() {
 ```
 
 ### HUD
-Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid zich automatisch aanpassen aan de omgeving.
+Alles wat wordt bediend met de _dial_ wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid zich automatisch aanpassen aan de omgeving.
 
 <p align="center">
   <img src="/images/prototype HUD smartphone.jpg" width="49%">
@@ -534,7 +534,7 @@ Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie 
 Om een interface te ontwerpen maakten we gebruik van ProtoPie. We begonnen met het kiezen van een lay-out:
 - links: tijd, temperatuur & navigatie
 - centraal: knipperlichten, toegelaten snelheid, huidige snelheid, auto voor jou, _line assist_ & rijbereik
-- rechts: weergave van de functionaliteiten die je met de dial aan het bedienen bent
+- rechts: weergave van de functionaliteiten die je met de _dial_ aan het bedienen bent
 
 Alles wat donkergrijs is in de interface, is in principe transparant bij een echt HUD. De blauwe lijnen stellen de _line assist_ voor. De auto in het midden is een fictieve auto voor jou. De rechtse weergave (functionaliteiten) verdwijnt indien er 5 seconden niets wordt aangepast.
 
@@ -547,7 +547,7 @@ Alles wat donkergrijs is in de interface, is in principe transparant bij een ech
   <img src="/images/prototype HUD V2 airco right.png" width="32%">
 </p>
 
-Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken met de dial. Onderstaande tabel en gif geven een overzicht van de interacties.
+Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken met de _dial_. Onderstaande tabel en gif geven een overzicht van de interacties.
 
 ||Navigation|Contacts|Music|Climate Control Driver|Climate Control Passenger|
 |---:|:---:|:---:|:---:|:---:|:---:|
@@ -603,7 +603,7 @@ We merkten dat het op enkele momenten lastig was om een bepaald adres, telefoonn
 
 Bij de vraag naar afleiding vergeleken met hun huidige auto, vonden de gebruikers dat het slechts een gewoontekwestie was. Na een paar ritten zou het systeem een meerwaarde zijn. De magneten werden als handig ervaren. Eén persoon wilde meer informatie in het HUD geprojecteerd zien.
 
-De _dial_ hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote dial straalt echter meer sympathie uit. De _dial_ kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde _affordance_ (conische vorm) hadden veel gebruikers de neiging de _dial_ op te heffen.
+De _dial_ hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote _dial_ straalt echter meer sympathie uit. De _dial_ kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde _affordance_ (conische vorm) hadden veel gebruikers de neiging de _dial_ op te heffen.
 
 Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een _dial_ op het scherm, maar tijdens het rijden werd er niet aan gedacht. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden hun bekerhouders niet verliezen. Een cirkelvormige positie van de _dial_ werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
 
@@ -619,13 +619,13 @@ De draairichting en de gevoeligheid bij het scrollen door de lijsten kan softwar
 
 <img src="/images/dev2 hud vs dashboard.jpg">
 
-Om de afleiding - veroorzaakt door het HUD - verder te beperken, voegen we ook een stem toe die aangeeft in welk menu je je bevindt. Een haptische motor in de dial zorgt voor de nodige tactiele feedback.
+Om de afleiding - veroorzaakt door het HUD - verder te beperken, voegen we ook een stem toe die aangeeft in welk menu je je bevindt. Een haptische motor in de _dial_ zorgt voor de nodige tactiele feedback.
 
 Ten slotte wordt er gezocht naar een mogelijkheid om de temperatuur van bestuurder en passagier te synchroniseren.
 
-Na het industry consult kwamen we op een punt waar we ons concept helemaal konden omgooien. Een enge stap, maar deze werd ook aangemoedigd door onze testgebruikers. In plaats van de dial op het touchscreen te plaatsen zal deze nu bediend worden op een controlepaneel die in de middenconsole verwerkt zit, met behoud van de drankenhouders. Verder zullen de posities ook niet meer lineair uitgelijnd worden. Het nieuwe controlepaneel wordt cirkelvormig gemaakt. Dit creëert een centrale positie (bijvoorbeeld de navigatie). Links en rechts worden respectievelijk de temperatuur voor de bestuurder en de passagier. Boven en onder worden ingevuld door de telefoon en de muziek. Dit is veel intuïtiever en eenvoudiger blind te bedienen. Dit nieuwe concept wordt duidelijk in het volgende deel.
+Na het industry consult kwamen we op een punt waar we ons concept helemaal konden omgooien. Een enge stap, maar deze werd ook aangemoedigd door onze testgebruikers. In plaats van de _dial_ op het touchscreen te plaatsen zal deze nu bediend worden op een controlepaneel die in de middenconsole verwerkt zit, met behoud van de drankenhouders. Verder zullen de posities ook niet meer lineair uitgelijnd worden. Het nieuwe controlepaneel wordt cirkelvormig gemaakt. Dit creëert een centrale positie (bijvoorbeeld de navigatie). Links en rechts worden respectievelijk de temperatuur voor de bestuurder en de passagier. Boven en onder worden ingevuld door de telefoon en de muziek. Dit is veel intuïtiever en eenvoudiger blind te bedienen. Dit nieuwe concept wordt duidelijk in het volgende deel.
 
-Het scherm wordt terug het oorspronkelijke scherm zoals reeds in de testauto aanwezig. Daarnaast is er de mogelijkheid om de dial kleiner te maken tot een broekzakformaat. Op die manier zou de dial ook als autosleutel gebruikt kunnen worden. Door de dial / autosleutel op de centrale positie te plaatsen kan de auto gestart worden. Dit idee vloeide voort uit de usability test waarbij de dial nog op het touchscreen bediend werd. Echter weten we niet of dit ook nog van toepassing zal zijn bij ons nieuw concept, dit zal bevraagd worden in een volgende gebruikerstest.
+Het scherm wordt terug het oorspronkelijke scherm zoals reeds in de testauto aanwezig. Daarnaast is er de mogelijkheid om de _dial_ kleiner te maken tot een broekzakformaat. Op die manier zou de _dial_ ook als autosleutel gebruikt kunnen worden. Door de _dial_ / autosleutel op de centrale positie te plaatsen kan de auto gestart worden. Dit idee vloeide voort uit de usability test waarbij de _dial_ nog op het touchscreen bediend werd. Echter weten we niet of dit ook nog van toepassing zal zijn bij ons nieuw concept, dit zal bevraagd worden in een volgende gebruikerstest.
 
 De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepaneel die toch nog steeds modern en innovatief oogt. In de laatste testen gaan we deze laatste inzichten al dan niet verifiëren bij een nieuwe groep gebruikers.
 
@@ -656,7 +656,7 @@ Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met 
 </p>
 
 ### Dial
-De gevoeligheid van de dial werd softwarematig verminderd door een extra variabele 'grens' toe te voegen. Alleen het gedeelte dat de rotatie van de encoder uitleest, werd aangepast. Verder zijn er geen wijzigingen aangebracht aan de vorm, grootte, hardware...
+De gevoeligheid van de _dial_ werd softwarematig verminderd door een extra variabele 'grens' toe te voegen. Alleen het gedeelte dat de rotatie van de encoder uitleest, werd aangepast. Verder zijn er geen wijzigingen aangebracht aan de vorm, grootte, hardware...
 
 ```py
 if (encoderState != encoderLastState) {
@@ -692,7 +692,7 @@ encoderLastState = encoderState;
 ```
 
 ### HUD
-De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te verkleinen, verandert de temperatuur per gehele graad in plaats van per halve graad. Ook werd een extra icoontje toegevoegd om aan te geven dat de stand van de zetelverwarming aangepast kan worden door op de dial te klikken. De prominent aanwezige auto, de tijd, de datum en het rijbereik werden verplaatst naar het dashboard achter het stuur.
+De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te verkleinen, verandert de temperatuur per gehele graad in plaats van per halve graad. Ook werd een extra icoontje toegevoegd om aan te geven dat de stand van de zetelverwarming aangepast kan worden door op de _dial_ te klikken. De prominent aanwezige auto, de tijd, de datum en het rijbereik werden verplaatst naar het dashboard achter het stuur.
 
 <img src="/images/prototype HUD V4.png">
 
@@ -708,7 +708,7 @@ Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototy
 
 
 ### Materiaal & methoden
-We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van elektronica en HUD zijn identiek aan de vorige test. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd wordt. Bij deze test richten we ons op de sensoriële feedback, vandaar dat we de dial voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. Nadat alle functies door de testpersonen ontdekt zijn en de persoon in kwestie zelf aangeeft dat alles blindelings veilig bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren volgens een vooropgestelde context. Na de rit volgde een nabespreking en een introductie tot het idee om de dial ook te gebruiken als sleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Telkens zes fragmenten waarin ze de opdrachten te dienen te voltooien via de interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. De bedoeling van deze test was een kwantitatieve beoordeling van de afleiding tegenover een benchmark bekomen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
+We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van elektronica en HUD zijn identiek aan de vorige test. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd wordt. Bij deze test richten we ons op de sensoriële feedback, vandaar dat we de _dial_ voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. Nadat alle functies door de testpersonen ontdekt zijn en de persoon in kwestie zelf aangeeft dat alles blindelings veilig bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren volgens een vooropgestelde context. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als sleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Telkens zes fragmenten waarin ze de opdrachten te dienen te voltooien via de interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. De bedoeling van deze test was een kwantitatieve beoordeling van de afleiding tegenover een benchmark bekomen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 ### Resultaten
 Op basis van de opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren. Ook bij deze test konden de gebruikers eerst alle functies ontdekken. Zoals in de vorige test werd de zetelverwarming ondanks een toegevoegd symbool door het merendeel niet ontdekt. Het gaat meestal over gebruikers die in hun huidige wagen geen zetelverwarming hebben en er daarom niet aan denken. Wanneer je het nodig hebt (in koude periodes) zou je het zeer gemakkelijk terugvinden.
@@ -733,7 +733,7 @@ De risicoperceptietest verliep wat stugger dan de rijtest. In die zin dat de tes
 
 ### Conclusies & implicaties
 Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
-De dial zal om verschillende redenen niet gebruikt worden als sleutel.
+De _dial_ zal om verschillende redenen niet gebruikt worden als sleutel.
 Aan het HUD wordt een navigatiesymbool toegevoegd om de gebruiker steeds een indicatie te geven in welk menu je zit en hoe je naar andere menu’s kan navigeren.
 Ondanks dat de risicoperceptietest niet de validiteit van afleiding gaf die we gewenst hadden, kunnen we het gemaakte beeldmateriaal (te vinden via het report van dev3) wel gebruiken om het verschil in oogafleiding te bekijken tussen ons concept en een benchmark. Daaruit halen we dat een opdracht uitvoeren met ons concept significant rapper gebeurt dan met een traditioneel touchscreen. Om de afleiding objectief aan te tonen wordt er idealiter gebruik gemaakt van een eye-tracking bril tijdens de test. 
 
@@ -794,10 +794,10 @@ Door de intuïtieve manier van bedienen, de eenvoudige interacties en de weergav
 
 In de hedendaagse, moderne auto worden al heel wat functies automatisch aangestuurd. Denk hierbij aan de voor- en achterruitverwarming, ruitenwissers, lichten, airco... Deze nemen al een groot deel van de potentiële afleiding weg. Andere functies worden, omwille van diezelfde afleiding, beperkt tijdens het rijden. Er schieten dus nog een aantal functies over die de autobestuurder zelf, tijdens het rijden, in handen wil hebben. Dit zijn de navigatie, telefoon, muziek, temperatuur (bestuurder & passagier) en zetelverwarming (bestuurder & passagier). Dankzij Ctrl-Wheely kunnen deze allemaal op een veilige manier bediend worden.
 
-Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial, het controlepaneel en het HUD.
+Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de _dial_, het controlepaneel en het HUD.
 
 ### Dial
-De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de _dial_ draaien om binnen een menu te scrollen en op de knop drukken om te selecteren. De gebruiker verkiest uiteindelijk een _dial_ die wat groter is, dit creëert een minder moderne uitstraling, maar een gebruiksvriendelijkere bediening. Daarnaast ligt een grote knop aangenamer in de hand.
+De autobestuurder kan de _dial_ verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de _dial_ draaien om binnen een menu te scrollen en op de knop drukken om te selecteren. De gebruiker verkiest uiteindelijk een _dial_ die wat groter is, dit creëert een minder moderne uitstraling, maar een gebruiksvriendelijkere bediening. Daarnaast ligt een grote knop aangenamer in de hand.
 
 <img src="/images/heroshot finaal close-up.jpg">
 
