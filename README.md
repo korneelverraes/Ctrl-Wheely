@@ -558,12 +558,12 @@ Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 -	Een onthoudbare interactie hebben.
 
 ### Materiaal & methoden
+
+<img src="/images/storytelling 2.jpg" width="25%" align="right">
+
 Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. In een eerste ronde maakten ze kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
 
 Voor de _usability test_ startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerste kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Van het contextverhaal maakten we een concrete storytelling, hiermee voorspellen en visualiseren we de handelingen die de gebruiker dient te maken. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel (zie verder), om naar hun gevoel en bedenkingen daarrond te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
-
-<img src="/images/storytelling 2.jpg">
-
 
 ### Resultaten
 #### Expert review (N=2)
