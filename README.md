@@ -43,7 +43,7 @@ Wat vinden gebruikers, die zich al langere tijd in de probleemruimte bevinden, v
 
 We startten met het ontwerp van enkele prototypes van *interfaces* en *dials*. We kregen ook de kans om ons concept te gaan voorstellen aan ingenieursstudenten uit Gent die met enkele maatschappelijke bedenkingen kwamen. We optimaliseerden onze prototypes en gingen ook aan de slag met digitale interfaces. Er volgden twee belangrijke gebruikerstesten die leidden tot nieuwe inzichten. Dankzij uitgebreid onderzoek, feedbackmomenten en gebruikerstesten konden we een concreet, visueel concept uitwerken: Ctrl-Wheely.
 
-## Discovery
+## Discovery (N=21)
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een analyse van de markt. Het probleem waarop we focussen wordt met andere woorden scherpgesteld en onderzocht.
 ### Doelstellingen
 Een helder geformuleerde "how might we" bekomen.
@@ -109,7 +109,7 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 > - Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.
 > - Er is haptische feedback bij het bedienen van functies.
 
-## Definition
+## Definition (N=11)
 In de definitiefase geven we vorm aan de oplossingen die we dit jaar zullen uitwerken. Gebruikmakend van het eerder gedefinieerde probleem, onderzoeken we mogelijke oplossingen om zo een weloverwogen conceptkeuze te maken. Dit concept dient dan als basis voor verdere ontwikkeling in het tweede semester.
 ### Doelstellingen
 Tot een conceptueel ontwerp komen.
@@ -545,7 +545,7 @@ Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken 
 
 Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. We zijn ons ervan bewust dat dit een zeer geavanceerd prototype is, toch vinden we dat dit prototype een absolute meerwaarde is. We kunnen van onszelf ook zeggen dat we redelijk goed overweg kunnen met het programmeren en de nodige software, dat zorgde ervoor dat we toch niet langer dan nodig bezig waren met het maken ervan. Alles werd gemaakt met het oog op snelle aanpassingen, wat uit de test kan komen zal meestal zeer snel aanpasbaar zijn in de code of de interface. Dit prototype zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
 
-## Develop 2: Human Mind
+## Develop 2: Human Mind (N=7)
 Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een _expert review_ en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
 
 ### Doelstellingen
@@ -687,8 +687,7 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen van de hardware-onderdelen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
 
 
-## Develop 3: Human Senses
-
+## Develop 3: Human Senses (N=8)
 ### Doelstellingen
 - De kwaliteit van het controlepaneel achterhalen.
 - Bevestiging of verwerping van designbeslissingen op basis van de vorige test.
