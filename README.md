@@ -1,9 +1,9 @@
 # Ctrl-Wheely
-*Optimalisatie van autodashboard-interactie door middel van een fysieke verplaatsbare knop in de middenconsole.* 
+*Optimalisatie van autodashboard-interactie door middel van een fysieke verplaatsbare knop in de middenconsole en een head-up display.* 
 
 *Projectteam: Korneel Verraes; Warre Robbe*
 
-24/01/2024
+24/05/2024
 
 ## Samenvatting
 De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards die een breed scala aan functies en flexibele interacties bieden. Grote touchscreens en weinig fysieke knoppen vinden hun weg in het ontwerp van nieuwe wagens. Dit ten gevolge van een besparing in de productie en een trend die bij de consument in goede aarde valt. Dergelijk ontwerp zorgt echter wel voor de nodige onveiligheid en afleiding. Ons doel: het dashboard herontwerpen met de gebruiker en zijn veiligheid in de belangstelling. Of op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?
