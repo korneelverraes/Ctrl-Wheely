@@ -722,7 +722,11 @@ De risicoperceptietest verliep wat stugger dan de rijtest. In die zin dat de tes
 -	Er hangt ook veel af van het moment waarop je de opdracht aan de testpersoon geeft. Fragmenten duren gemiddeld zo’n 30 seconden. Een opdracht geven duurt nog geen 5 seconden. Als mensen de opdracht in het begin van het fragment krijgen en de gevraagde gebeurtenis pas op het einde gebeurt, dan scoor je goed aangezien de opdracht al uitgevoerd werd en de volle concentratie terug op het fragment lag. Omgekeerd kan het ook zijn dat de opdracht net op het moment valt dat er iets gebeurd in het fragment.
 -	Als laatste moeten we eerlijk zijn en toegeven dat ook bij ons concept sprake is van afleiding.
 
-
+<p>
+  <img src="/images/dev3 sfeerfoto.jpg" width="33%">
+  <img src="/images/dev3 risicoperceptie touch.jpg" width="33%">
+  <img src="/images/dev3 risicoperceptie.jpg" width="33%">
+</p>
 
 ### Conclusies & implicaties
 Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
@@ -734,7 +738,7 @@ Ondanks dat de risicoperceptietest niet de validiteit van afleiding gaf die we g
 
 We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntjes kregen we vooral bevestiging over de meerwaarde van ons concept. 
 
-
+<img src="/images/prototype HUD V4 home.png">
 > [!IMPORTANT]
 > Design Requirements:
 
