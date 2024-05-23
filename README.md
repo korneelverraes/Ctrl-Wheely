@@ -18,6 +18,8 @@ Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig he
   <img src="/images/heroshot finaal hud.jpg" width="32%">
 </p>
 
+Video:
+
 [![](https://img.youtube.com/vi/vWs9MYro9L0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vWs9MYro9L0)
 
 ## Introductie
