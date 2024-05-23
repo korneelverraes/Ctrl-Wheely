@@ -691,21 +691,20 @@ Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototy
 ### Doelstellingen
 - De kwaliteit van het controlepaneel achterhalen.
 - Bevestiging of verwerping van designbeslissingen op basis van de vorige test.
-- Het hebben van een definitief prototype van Ctrl-Wheely
-- Kwantificatie van de afleiding tijdens het rijden
+- Het hebben van een definitief prototype van Ctrl-Wheely.
+- Kwantificatie van de afleiding tijdens het rijden.
 
 
 ### Materiaal & methoden
-We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van elektronica en HUD zijn we al gewoon van de vorige test. Nadat alles veilig en proper geïnstalleerd was in de testwagen konden we de gebruiker een introductie geven tot ons concept. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd werd. Bij deze test richten we ons op een laatste feedback van de gebruiker en maken de laatste ontwerpkeuzes met nadruk op de sensoriële feedback, vandaar dat we de dial voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. De testpersonen konden met de _dial_ tussen al de menu's switchen en de menu's ontdekken alsook de bijhorende functies. Nadat alle functies door de testpersonen ontdekt zijn en de persoon in kwestie zelf aangeeft dat alles blindelings bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als sleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Telkens vijf fragmenten waarin ze de opdrachten te dienen te voltooien via het interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. Hierbij wouden we kwantificeren of ons concept wel degelijk minder afleidt. Alle inzichten en opmerkingen werden vastgelegd in een participant form.
+We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van de elektronica en het HUD zijn we al gewoon van de vorige test. Nadat alles veilig en proper geïnstalleerd was in de testwagen konden we de gebruiker een introductie geven tot ons concept. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd werd. Bij deze test richten we ons op een laatste feedback van de gebruiker en maken we de laatste ontwerpkeuzes met nadruk op de sensoriële feedback, vandaar dat we de dial voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. De testpersonen konden met de _dial_ tussen al de menu's switchen en de menu's ontdekken alsook de bijhorende functies. Nadat alle functies ontdekt zijn en de testpersoon zelf aangeeft dat alles blindelings bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als autosleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Zes fragmenten waarin ze de opdrachten dienen te voltooien via het interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. Hiermee wilden we kwantificeren of ons concept wel degelijk minder afleidt. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 
 ### Resultaten
-Op basis van de opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren. Opnieuw kan ook uit het verloop van de test al het een en ander geleerd worden. Bestuurders lieten zich soms afleiden door het feit dat het een prototype is. Beter is om te vermelden dat de techniek soms kan falen, maar dat wij die tijdens de test zullen proberen oplossen. Ze mogen hierdoor niet afgeleid worden en kunnen dit tijdens de test volledig negeren.
+Op basis van de opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren. 
 
-Ook bij deze test konden de gebruikers eerst alle functies ontdekken. Ook bij deze test werd de zetelverwarming door het merendeel niet ontdekt. We leerden deze keer wel dat het meestal gaat om mensen die in hun huidige wagen geen zetelverwarming hebben en er daarom niet aan denken. Wanneer je het nodig hebt (in koude periodes) zou je het zeer gemakkelijk terugvinden.
+Ook bij deze test konden de gebruikers eerst alle functies ontdekken. De zetelverwarming werd opnieuw door het merendeel niet ontdekt. We leerden deze keer wel dat het meestal gaat om mensen die in hun huidige wagen geen zetelverwarming hebben en daarom niet aan de mogelijkheid dachten. Eenmaal geweten, zou het wanneer je het nodig hebt (in koude periodes) zeer gemakkelijk terugvinden.
 
-Uit de vorige test bleek dat de mensen vaak de neiging hadden om de dial op te heffen om het te verplaatsen over het touchscreen. Wegens praktische beperkingen van het prototype hadden we bij deze test nog geen rekening gehouden met de aangepaste vorm (zoals in het sleutelprototype wel al verwerkt zit). In deze test was echter niemand nog geneigd om de ‘oude’ dial op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat de vorm van de dial dan toch goed zit. Bij het extra bevragen vermeldde zowat iedereen dat de huidige dial zeer goed in de hand ligt. 
-
+Uit de vorige test bleek dat de mensen vaak de neiging hadden om de dial op te heffen om het te verplaatsen over het touchscreen. Wegens praktische beperkingen van het prototype hadden we bij deze test nog geen rekening gehouden met de aangepaste vorm (zoals in het sleutelprototype wel al verwerkt zit). In deze test was echter niemand nog geneigd om de ‘oude’ dial op te heffen. Dit komt doordat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat de vorm van de dial dan toch goed zit. Bij het extra bevragen vermeldde zowat iedereen dat de huidige dial zeer goed in de hand ligt. 
 
 De startpositie van de navigatie en de temperatuur links en rechts worden als zeer intuïtief en goed bedacht ondervonden. 
 Op het HUD staat de essentie in een moderne en niet afleidend ontwerp.
@@ -762,19 +761,27 @@ Ondanks dat er geen functies tijdens het rijden bediend dienen te worden, willen
 |5.2|Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.|Human mind user test|01/05/2024|
 
 ## Finaal prototype
-Na een jaar hard werken zijn we tot een finaal prototype gekomen: Ctrl-Wheely. Een fysieke verplaatsbare knop op een controlepaneel in de middenconsole waarmee je de verschillende functies van je auto bedient. Alles wat je aan het bedienen bent wordt weergegeven in een HUD, een projectie op de baan in de voorruit.
+Na een jaar hard werken zijn we tot een finaal prototype gekomen: Ctrl-Wheely. Een fysieke verplaatsbare knop op een controlepaneel in de middenconsole waarmee je de verschillende functies van je auto bedient. Alles wat je aan het bedienen bent wordt weergegeven in een head-up display (HUD).
 
 Door de intuïtieve manier van bedienen, de eenvoudige interacties en de weergave in het gezichtsveld, vormt Ctrl-Wheely de ideale oplossing voor een veilige autorit.
 
 In de hedendaagse, moderne auto worden al heel wat functies automatisch aangestuurd. Denk hierbij aan de voor- en achterruitverwarming, ruitenwissers, lichten, airco... Deze nemen al een groot deel van de potentiële afleiding weg. Andere functies worden, omwille van diezelfde afleiding, beperkt tijdens het rijden. Er schieten dus nog een aantal functies over die de autobestuurder zelf, tijdens het rijden, in handen wil hebben. Dit zijn de navigatie, telefoon, muziek, temperatuur (bestuurder & passagier) en zetelverwarming (bestuurder & passagier). Dankzij Ctrl-Wheely kunnen deze allemaal op een veilige manier bediend worden.
 
-Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial, het controlepaneel en het HUD. De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de dial draaien om binnen een menu te scrollen en op de knop drukken om te selecteren.
-### Controlepaneel
-### Dial
-### HUD
-Voor de eindinterface van het HUD wordt rekening gehouden met de design requirement dat de positie van de _dial_ en dus de visualisatie in welk menu je zit steeds zichtbaar dient te zijn. Het HUD werd uitgewerkt tot een strak, modern en intuïtief design gebasseerd op de wensen van de gebruikers. In het HUD staan de meest noodzakelijke zaken om de afleiding zo min mogelijk te houden. In een eindproduct wordt het HUD gerealiseerd met augmented reality pijlen en informatieweergave. Zo krijgt de gebruiker niet het gevoel dat het zomaar geprojecteerd is. De gebruiker krijgt de indruk dat de informatie en verandering op de echte weg gebeuren.
+Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial, het controlepaneel en het HUD.
 
-Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;. 
+### Dial
+De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de dial draaien om binnen een menu te scrollen en op de knop drukken om te selecteren.
+
+### Controlepaneel
+
+
+### HUD
+Een head-up display (HUD) is een transparant scherm dat informatie projecteert in het gezichtsveld van de bestuurder. Op die manier kunnen gegevens weergegeven worden zonder de blik af te wenden van de baan. Om de afleiding zo beperkt mogelijk te houden is het HUD voorzien van een interface waarop het strikt noodzakelijke aan informatie wordt weergeven. De interface is strak, modern en intuïtief ontworpen, gebaseerd op de noden van de gebruikers.
+
+De linkerkant toont een eenvoudige weergave van de navigatie, waarbij de eerstvolgende instructie zichtbaar is. Centraal staat de huidige snelheid, de toegelaten snelheid en de _lane assist_. De rechterkant wordt vrijgehouden voor de weergave van de functies die bediend worden met de _dial_. Er is een permanent icoon zichtbaar dat aanduidt op welke positie de _dial_ zich op dit moment bevindt.
+
+De volledige interface is ontworpen en interactief gemaakt in ProtoPie. 
+
 <p>
   <img src="/images/prototype HUD V4 home.png" width="32%">
   <img src="/images/prototype HUD V4 navigation.png" width="32%">
@@ -784,6 +791,7 @@ Het volledige interface is ontworpen en interactief gemaakt in ProtoPie&copy;.
   <img src="/images/prototype HUD V4 airo right.png" width="32%">
 </p>
 
+In een definitief ontwerp wordt het HUD gerealiseerd met augmented reality, navigatiepijlen en andere informatie worden rechtstreeks op de baan geprojecteerd. Zo krijgt de gebruiker niet het gevoel dat het zomaar een visuele weergave is. Het innovatieve aspect van Ctrl-Wheely komt hiermee nog meer tot uiting.
 
 ## Kritische reflectie
 We hebben ons dit semester meer dan ooit geconcentreerd op de gebruiker. Door testen altijd uit te voeren in een reële context en tevens de context zo consistent mogelijk te houden tussen de testen zetten we extra in op de validiteit van de testen. De gebruiker werd hierdoor meer op zijn gemak gesteld. Dit maakt de input van de gebruiker concreter en betrouwbaarder. Een nadeel aan het testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een wagen die ze niet kenne. Dat rijden vergt dan aandacht die op dat moment niet naar de test en in het bijzonder naar het concept kan gaan. Toch zijn we zeer trots op het gerealiseerde eindprototype en staan 100% achter de gemaakte ontwerpkeuzes vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker. Onze **approach** doorheen het project is contextrealisatie zeker in het tweede semester.
