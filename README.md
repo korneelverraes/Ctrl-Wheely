@@ -723,9 +723,9 @@ De risicoperceptietest verliep wat stugger dan de rijtest. In die zin dat de tes
 -	Als laatste moeten we eerlijk zijn en toegeven dat ook bij ons concept sprake is van afleiding.
 
 <p>
-  <img src="/images/dev3 sfeerfoto.jpg" width="33%">
-  <img src="/images/dev3 risicoperceptie touch.jpg" width="33%">
-  <img src="/images/dev3 risicoperceptie.jpg" width="33%">
+  <img src="/images/dev3 sfeerfoto.png" width="33%">
+  <img src="/images/dev3 risicoperceptie touch.png" width="33%">
+  <img src="/images/dev3 risicoperceptie.png" width="33%">
 </p>
 
 ### Conclusies & implicaties
