@@ -8,12 +8,15 @@
 ## Samenvatting
 De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards die een breed scala aan functies en flexibele interacties bieden. Grote touchscreens en weinig fysieke knoppen vinden hun weg in het ontwerp van nieuwe wagens. Dit ten gevolge van een besparing in de productie en een trend die bij de consument in goede aarde valt. Dergelijk ontwerp zorgt echter wel voor de nodige onveiligheid en afleiding. Ons doel: het dashboard herontwerpen met de gebruiker en zijn veiligheid in de belangstelling. Of op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?
 
-
 Wetenschappelijke artikels, contextual inquiries en gebruikersbevragingen tonen aan dat de afleiding niet veroorzaakt wordt door de touchscreens zelf, maar door het gebrek aan tactiele feedback bij het bedienen van een touchscreen.
-
 
 Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig herontwerp van het autodashboard. Een combinatie van een Head-up-display, fysiek verplaatsbare knop en controlepaneel moet de bediening sneller en veiliger maken terwijl de ogen op de weg gehouden kunnen worden. De afleiding wordt hierbij tot een minimum beperkt.
 
+<p>
+  <img src="/images/heroshot finaal alles.jpg" width="32%">
+  <img src="/images/heroshot finaal close-up.jpg" width="32%">
+  <img src="/images/heroshot finaal hud.jpg" width="32%">
+</p>
 
 ## Introductie
 
@@ -795,7 +798,7 @@ De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil
 <img src="/images/prototype ergonomie dial.jpg">
 
 ### Controlepaneel
-Het controlepaneel is het nieuwste onderdeel van ons product. Door de _dial_ hierop te plaatsen in plaats van op een touchscreen kiezen we voor veiligheid en gebruiksgemak boven het innovatieve uitzicht. Toch blijft de besturing zeer vernieuwend en vooral zeer inovatief. Het controlepaneel neemt de plaats in van de vroegere schakelpook, dit zorgt voor een gekende comfortabele bediening. De posities van de functies zitten cirkelvormig verspreid met in het midden de hoofdfunctie. Elke functie is personaliseerbaar over de verschillende posities. In de testen vond de gebruiker de navigatie als hoofdfunctie zeer logisch. De temperatuurbediening links en rechts voelt wellicht voor iedereen, althans voor al onze testpersonen, zeer intuïtief.  
+Het controlepaneel is het nieuwste onderdeel van ons product. Door de _dial_ hierop te plaatsen in plaats van op een touchscreen kiezen we voor veiligheid en gebruiksgemak boven het innovatieve uitzicht. Toch blijft de besturing zeer vernieuwend en vooral zeer innovatief. Het controlepaneel neemt de plaats in van de vroegere versnellingspook, dit zorgt voor een gekende comfortabele bediening. De posities van de functies zijn cirkelvormig verspreid met in het midden de hoofdfunctie. Elke functie is personaliseerbaar over de verschillende posities. In de testen vond de gebruiker de navigatie als hoofdfunctie zeer logisch. De temperatuurbediening links en rechts voelt wellicht voor iedereen, althans voor al onze testpersonen, zeer intuïtief.  
 
 ### HUD
 Een head-up display (HUD) is een transparant scherm dat informatie projecteert in het gezichtsveld van de bestuurder. Op die manier kunnen gegevens weergegeven worden zonder de blik af te wenden van de baan. Om de afleiding zo beperkt mogelijk te houden is het HUD voorzien van een interface waarop het strikt noodzakelijke aan informatie wordt weergeven. De interface is strak, modern en intuïtief ontworpen, gebaseerd op de noden van de gebruikers.
