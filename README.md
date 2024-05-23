@@ -852,8 +852,8 @@ Om ons verslag te eindigen antwoorden we samenvattend nog even op de onderzoeksv
     - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EV5OZfwtGPBFrt3uwZXcVNcBihPvPzmzFxCDzjzQltVrZA?e=9NACFB)
     - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeRQD4A97TdJoxIuUXeTQNYBUtt4XM00AD7CwpS1mvPMRg?e=ToBzBb)
 - Develop 3
-  - [protocol]()
-  - [report]()
+  - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXClvOz8INdJgKvF5UcQUhIBYpvQ8Hyk5CacbJ5YMebfbQ?e=SSEOhn)
+  - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EdHE8VL7fB5EkfIlp2sKCNsBZ6HWYYmyrerdYaaHGuqJ-A?e=hXYgPn)
 
 ## Bronnen
 [^1]: Beeckman, H. (2021, 11 maart). *Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”.* VRTNWS. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
