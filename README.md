@@ -696,29 +696,44 @@ Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototy
 
 
 ### Materiaal & methoden
-We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van de elektronica en het HUD zijn we al gewoon van de vorige test. Nadat alles veilig en proper geïnstalleerd was in de testwagen konden we de gebruiker een introductie geven tot ons concept. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd werd. Bij deze test richten we ons op een laatste feedback van de gebruiker en maken we de laatste ontwerpkeuzes met nadruk op de sensoriële feedback, vandaar dat we de dial voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. De testpersonen konden met de _dial_ tussen al de menu's switchen en de menu's ontdekken alsook de bijhorende functies. Nadat alle functies ontdekt zijn en de testpersoon zelf aangeeft dat alles blindelings bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als autosleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Zes fragmenten waarin ze de opdrachten dienen te voltooien via het interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. Hiermee wilden we kwantificeren of ons concept wel degelijk minder afleidt. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
+We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van elektronica en HUD zijn identiek aan de vorige test. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd wordt. Bij deze test richten we ons op de sensoriële feedback, vandaar dat we de dial voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. Nadat alle functies door de testpersonen ontdekt zijn en de persoon in kwestie zelf aangeeft dat alles blindelings veilig bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren volgens een vooropgestelde context. Na de rit volgde een nabespreking en een introductie tot het idee om de dial ook te gebruiken als sleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Telkens zes fragmenten waarin ze de opdrachten te dienen te voltooien via de interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. De bedoeling van deze test was een kwantitatieve beoordeling van de afleiding tegenover een benchmark bekomen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 
 ### Resultaten
-Op basis van de opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren. 
-
-Ook bij deze test konden de gebruikers eerst alle functies ontdekken. De zetelverwarming werd opnieuw door het merendeel niet ontdekt. We leerden deze keer wel dat het meestal gaat om mensen die in hun huidige wagen geen zetelverwarming hebben en daarom niet aan de mogelijkheid dachten. Eenmaal geweten, zou het wanneer je het nodig hebt (in koude periodes) zeer gemakkelijk terugvinden.
-
-Uit de vorige test bleek dat de mensen vaak de neiging hadden om de dial op te heffen om het te verplaatsen over het touchscreen. Wegens praktische beperkingen van het prototype hadden we bij deze test nog geen rekening gehouden met de aangepaste vorm (zoals in het sleutelprototype wel al verwerkt zit). In deze test was echter niemand nog geneigd om de ‘oude’ dial op te heffen. Dit komt doordat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat de vorm van de dial dan toch goed zit. Bij het extra bevragen vermeldde zowat iedereen dat de huidige dial zeer goed in de hand ligt. 
-
-De startpositie van de navigatie en de temperatuur links en rechts worden als zeer intuïtief en goed bedacht ondervonden. 
-Op het HUD staat de essentie in een moderne en niet afleidend ontwerp.
-Wat direct opviel is dat iedereen fan was van het cirkelvormige controlepaneel en de bijhorende _snapping points_. “Op deze manier kan je veel sneller door belangrijke menu’s scrollen als in mijn BMW met ook een draaiknop in de middenconsole.”
-Het controlepaneel staat op een zeer comfortabele positie, dat werd aangehaald door testpersonen van verschillende groottes. 
-Er werd aan de gebruikers gevraagd welke grootte van touchscreen ze voor ogen hadden, nu de _dial_ niet meer op het scherm bediend dient te worden. De gebruikers gaven aan dat ze graag toch een groot touchscreen in de middenconsole hebben, ook al dient deze enkel voor tijdens het stilstaan en voor het lezen van de navigatiekaart.
+Op basis van de opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren. Ook bij deze test konden de gebruikers eerst alle functies ontdekken. Zoals in de vorige test werd de zetelverwarming ondanks een toegevoegd symbool door het merendeel niet ontdekt. Het gaat meestal over gebruikers die in hun huidige wagen geen zetelverwarming hebben en er daarom niet aan denken. Wanneer je het nodig hebt (in koude periodes) zou je het zeer gemakkelijk terugvinden.
 
 
-Iemand gaf aan dat hij het noodzakelijk vond voor het gemak dat je in het HUD altijd kan zien in welk menu je zit. Dit dient niet groot te staan zoals bij het bedienen van de menu’s, maar een kleine indicatie zou gemakkelijk zijn. Diezelfde testpersoon kwam met het idee om de vorm van het controlepaneel weer te geven in het klein op het HUD, met daar de huidige positie van de dial. Zo zie je niet altijd in welk menu je zit, maar kan je ook zien hoe je naar de volgende menu’s kan snappen en waar de dial op het controlepaneel staat.
+
+Uit de vorige test bleek dat de mensen vaak de neiging hadden om de _dial_ op te heffen voor de verplaatsing over het touchscreen. Wegens praktische beperkingen van het prototype hadden we geen aangepaste _dial_ kunnen voorzien (in het sleutelprototype zit dit wel verwerkt). In deze test was echter niemand nog geneigd om de _dial_ op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat het ontwerp van de _dial_ dan toch goed zit. Zowat iedereen vermeldde dat de huidige _dial_ zeer goed in de hand ligt.
+
+
+
+De startpositie van de navigatie en de temperatuur links en rechts worden als zeer intuïtief bevonden. Op het HUD staat de essentie in een modern en minimalistisch ontwerp. Wat direct opviel is dat iedereen fan was van het cirkelvormige controlepaneel en de bijhorende _snapping points_. “Op deze manier kan je veel sneller door belangrijke menu’s scrollen in tegenstelling tot mijn BMW waar ook een draaiknop in de middenconsole zit.” Het controlepaneel staat op een zeer comfortabele positie, dat werd aangehaald door testpersonen van verschillende groottes. Er werd aan de gebruikers gevraagd welke grootte van touchscreen ze voor ogen hadden, nu de _dial_ niet meer op het scherm bediend dient te worden. De gebruikers gaven aan dat ze graag toch een groot touchscreen in de middenconsole hebben, ook al dient deze enkel voor tijdens het stilstaan en ter visualisatie van de navigatiekaart.
+
+
+
+Iemand gaf aan dat hij het noodzakelijk vond dat je in het HUD altijd kan zien in welk menu je zit. Dit dient niet groot te staan zoals bij het bedienen van de menu’s, maar een kleine indicatie zou gemakkelijk zijn. Diezelfde testpersoon kwam met het idee om de vorm van het controlepaneel weer te geven in het klein op het HUD, met daarop de huidige positie van de _dial_. Zo zie je niet enkel in welk menu je zit, maar kan je ook zien hoe je naar de volgende menu’s kan _snappen_.
+
+
+
+De risicoperceptietest verliep wat stugger dan de rijtest. In die zin dat de test niet het gewenste resultaat gaf als wat we vooraf voor ogen hadden. We vroegen de testpersonen om feedback. Dankzij hen kunnen we enkele redenen benoemen wat er fout liep. 
+-	Als eerste is een risicoperceptietest geen gemakkelijke test. Je moet dit met volle concentratie en in volledige stilte kunnen afleggen om een goed resultaat te halen. Daarnaast benoemden de testpersonen verschillende keren dat het erg onduidelijke en donkere fragmenten waren. 
+-	Bij het prototype van ons concept dien je nog steeds op een scherm zaken af te lezen en wordt de informatie niet op de weg (of op het fragment) geprojecteerd, zoals dat in het eindproduct wel het geval zou zijn.
+-	Er hangt ook veel af van het moment waarop je de opdracht aan de testpersoon geeft. Fragmenten duren gemiddeld zo’n 30 seconden. Een opdracht geven duurt nog geen 5 seconden. Als mensen de opdracht in het begin van het fragment krijgen en de gevraagde gebeurtenis pas op het einde gebeurt, dan scoor je goed aangezien de opdracht al uitgevoerd werd en de volle concentratie terug op het fragment lag. Omgekeerd kan het ook zijn dat de opdracht net op het moment valt dat er iets gebeurd in het fragment.
+-	Als laatste moeten we eerlijk zijn en toegeven dat ook bij ons concept sprake is van afleiding.
+
 
 
 ### Conclusies & implicaties
-Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten.
-Ondanks dat er geen functies tijdens het rijden bediend dienen te worden, willen de mensen wel nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen. Zeker oudere mensen gaven de voorkeur aan een groter scherm om de leesbaarheid hoog genoeg te houden. Toch mag het touchscreen ook niet te groot zijn zoals in een Tesla. 
+Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
+De dial zal om verschillende redenen niet gebruikt worden als sleutel.
+Aan het HUD wordt een navigatiesymbool toegevoegd om de gebruiker steeds een indicatie te geven in welk menu je zit en hoe je naar andere menu’s kan navigeren.
+Ondanks dat de risicoperceptietest niet de validiteit van afleiding gaf die we gewenst hadden, kunnen we het gemaakte beeldmateriaal (te vinden via het report van dev3) wel gebruiken om het verschil in oogafleiding te bekijken tussen ons concept en een benchmark. Daaruit halen we dat een opdracht uitvoeren met ons concept significant rapper gebeurt dan met een traditioneel touchscreen. Om de afleiding objectief aan te tonen wordt er idealiter gebruik gemaakt van een eye-tracking bril tijdens de test. 
+
+
+
+We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntjes kregen we vooral bevestiging over de meerwaarde van ons concept. 
+
 
 > [!IMPORTANT]
 > Design Requirements:
