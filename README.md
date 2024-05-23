@@ -798,10 +798,12 @@ In de hedendaagse, moderne auto worden al heel wat functies automatisch aangestu
 Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de dial, het controlepaneel en het HUD.
 
 ### Dial
-De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de dial draaien om binnen een menu te scrollen en op de knop drukken om te selecteren.
+De autobestuurder kan de dial verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de _dial_ draaien om binnen een menu te scrollen en op de knop drukken om te selecteren. De gebruiker verkiest uiteindelijk een _dial_ die wat groter is, dit creëert een minder moderne uitstraling, maar een gebruiksvriendelijkere bediening. Daarnaast ligt een grote knop aangenamer in de hand.
+
+<img src="/images/prototype ergonomie dial.jpg">
 
 ### Controlepaneel
-
+Het controlepaneel is het nieuwste onderdeel van ons product. Door de _dial_ hierop te plaatsen in plaats van op een touchscreen kiezen we voor veiligheid en gebruiksgemak boven het innovatieve uitzicht. Toch blijft de besturing zeer vernieuwend en vooral zeer inovatief. Het controlepaneel neemt de plaats in van de vroegere schakelpook, dit zorgt voor een gekende comfortabele bediening. De posities van de functies zitten cirkelvormig verspreid met in het midden de hoofdfunctie. Elke functie is personaliseerbaar over de verschillende posities. In de testen vond de gebruiker de navigatie als hoofdfunctie zeer logisch. De temperatuurbediening links en rechts voelt wellicht voor iedereen, althans voor al onze testpersonen, zeer intuïtief.  
 
 ### HUD
 Een head-up display (HUD) is een transparant scherm dat informatie projecteert in het gezichtsveld van de bestuurder. Op die manier kunnen gegevens weergegeven worden zonder de blik af te wenden van de baan. Om de afleiding zo beperkt mogelijk te houden is het HUD voorzien van een interface waarop het strikt noodzakelijke aan informatie wordt weergeven. De interface is strak, modern en intuïtief ontworpen, gebaseerd op de noden van de gebruikers.
