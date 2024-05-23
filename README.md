@@ -7,7 +7,11 @@
 
 ## Samenvatting
 De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards die een breed scala aan functies en flexibele interacties bieden. Grote touchscreens en weinig fysieke knoppen vinden hun weg in het ontwerp van nieuwe wagens. Dit ten gevolge van een besparing in de productie en een trend die bij de consument in goede aarde valt. Dergelijk ontwerp zorgt echter wel voor de nodige onveiligheid en afleiding. Ons doel: het dashboard herontwerpen met de gebruiker en zijn veiligheid in de belangstelling. Of op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?
+
+
 Wetenschappelijke artikels, contextual inquiries en gebruikersbevragingen tonen aan dat de afleiding niet veroorzaakt wordt door de touchscreens zelf, maar door het gebrek aan tactiele feedback bij het bedienen van een touchscreen.
+
+
 Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig herontwerp van het autodashboard. Een combinatie van een Head-up-display, fysiek verplaatsbare knop en controlepaneel moet de bediening sneller en veiliger maken terwijl de ogen op de weg gehouden kunnen worden. De afleiding wordt hierbij tot een minimum beperkt.
 
 
