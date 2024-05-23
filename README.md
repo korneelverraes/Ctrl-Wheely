@@ -739,8 +739,13 @@ Ondanks dat de risicoperceptietest niet de validiteit van afleiding gaf die we g
 We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntjes kregen we vooral bevestiging over de meerwaarde van ons concept. 
 
 <img src="/images/prototype HUD V4 home.png">
+
+
 > [!IMPORTANT]
 > Design Requirements:
+> - Het touchscreen dient groter te zijn dan 10 inch en kleiner dan 17 inch.
+> - Je moet te allen tijde kunnen zien in welk menu de _dial_ staat.
+> - De _dial_ dient niet als gebruiksvoorwerp buiten de auto gebruikt te worden.
 
 ## Overzicht Design Requirements
 |ID|Requirement|Source|Date|
@@ -753,14 +758,16 @@ We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntj
 |1.5|Er dient auditieve feedback te zijn bij het veranderen van menu.|Expert Review|22/04/2024|
 |1.6|De auditieve feedback kan uitgeschakeld of aangepast worden.|Expert Review|22/04/2024|
 |1.7|De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.|Expert Review|22/04/2024|
+|1.8|Het touchscreen dient groter te zijn dan 10 inch en kleiner dan 17 inch.|Human senses user test|19/05/2024|
 |**Groep 2**|**Dial**|
 |2.1|Er is haptische feedback bij het bedienen van de functies.|_dial_ user test|24/12/2023|
-|2.2|De dial moet een conische vorm hebben.|_dial_ user test|24/12/2023|
-|2.3|De dial dient voor 9/10 testpersonen goed in de hand te liggen (naar eigen zeggen).|_dial_ user test|24/12/2023|
-|2.4|De dial moet ook naast het scherm bedienbaar zijn.|Interface user test|02/01/2023|
+|2.2|De _dial_ moet een conische vorm hebben.|_dial_ user test|24/12/2023|
+|2.3|De _dial_ dient voor 9/10 testpersonen goed in de hand te liggen (naar eigen zeggen).|_dial_ user test|24/12/2023|
+|2.4|De _dial_ moet ook naast het scherm bedienbaar zijn.|Interface user test|02/01/2023|
 |2.5|De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.|Expert Review|22/04/2024|
-|2.6|De dial dient een afgeronde vorm naar beneden te hebben om de neiging tot opheffen te verminderen|Human mind user test|01/05/2024|
-|2.7|De dial bezit meerdere functies (verschuivingen rond magnetisch middelpunt, dubbelklikken, ...)|Human mind user test|01/05/2024|
+|2.6|De _dial_ dient een afgeronde vorm naar beneden te hebben om de neiging tot opheffen te verminderen|Human mind user test|01/05/2024|
+|2.7|De _dial_ bezit meerdere functies (verschuivingen rond magnetisch middelpunt, dubbelklikken, ...)|Human mind user test|01/05/2024|
+|2.8|De _dial_ dient niet als gebruiksvoorwerp buiten de auto gebruikt te worden.| Human senses user test|19/05/2024|
 |**Groep 3**|**Interface**|
 |3.1|De functieplaatsen van de _dial_ dienen personaliseerbaar te zijn.|Interface user test|02/01/2024|
 |3.2|De interface moet goed leesbaar zijn, ook voor oudere mensen.|Interface user test|02/01/2024|
@@ -775,6 +782,7 @@ We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntj
 |4.5|Er dient augmented reality te zijn in het HUD.|Expert Review|22/04/2024|
 |4.6|Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).|Expert Review|22/04/2024|
 |4.7|Er dient een visuele verduidelijking te zijn om de mogelijkheid tot zetelverwarming in de _climate control_ te verduidelijken.|Human mind user test|01/05/2024|
+|4.8|Je moet te allen tijde kunnen zien in welk menu de _dial_ staat.|Human senses user test|19/05/2024|
 |**Groep 5**|**Controlepaneel**|
 |5.1|Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).|Human mind user test|01/05/2024|
 |5.2|Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.|Human mind user test|01/05/2024|
