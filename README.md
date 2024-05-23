@@ -47,6 +47,7 @@ In de definitiefase concentreren we ons meer dan ooit op testen in een realistis
 
 We kijken in dit verslag terug op een geslaagd ontwerpproces. Het ontwerpproces en de daarbij horende eindconclusies zijn te lezen in dit verslag. De ontwerpmethodologie van het proces is vastgelegd in deze visuele tijdlijn. 
 
+<img src="/images/methodologie.jpg">
 
 ## Discovery (N=21)
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een analyse van de markt. Het probleem waarop we focussen wordt met andere woorden scherpgesteld en onderzocht.
