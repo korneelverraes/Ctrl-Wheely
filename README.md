@@ -12,7 +12,7 @@ Wetenschappelijke artikels, contextual inquiries en gebruikersbevragingen tonen 
 
 Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig herontwerp van het autodashboard. Een combinatie van een head-up display (HUD), fysieke verplaatsbare knop en controlepaneel moet de bediening sneller en veiliger maken terwijl de ogen op de weg gehouden kunnen worden. De afleiding wordt hierbij tot een minimum beperkt.
 
-<p>
+<p align="center">
   <img src="/images/heroshot finaal alles.jpg" width="32%">
   <img src="/images/heroshot finaal close-up.jpg" width="32%">
   <img src="/images/heroshot finaal hud.jpg" width="32%">
@@ -68,7 +68,7 @@ Door middel van contextual inquiries kunnen we huidige gebruikspatronen in hun n
 
 Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We startten met een introductie om een beter beeld te krijgen van de deelnemer. Daarna werd hem/haar gevraagd verschillende dingen te doen; zijn/haar favoriete liedje opleggen, volume verhogen, verwarming verlagen, navigeren met de gps... We hebben alles geobserveerd en een tabel opgesteld met de verschillende functies en hoe ze bediend worden.
 
-<p>
+<p align="center">
   <img src="/images/contextual inquiries Warre.jpg" width="49%"/>
   <img src="/images/contextual inquiries Jan.jpg" width="49%"/>
 </p>
@@ -90,7 +90,7 @@ Voor we als team verder gingen had Warre ook al een focusgroep georganiseerd. Di
 
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de *dial*.
 
-<p>
+<p align="center">
 <img width="60%" src="/images/focus group.png">
 <img width="38%" src="/images/focus group tafel.jpg">
 </p>
@@ -100,7 +100,7 @@ Om de markt te analyseren maken we gebruik van benchmarking, heel wat designkeuz
 
 Het probleem werd opgesplitst in twee fundamentele deelproblemen. Hoe kunnen we informatie weergeven en hoe kunnen we bepaalde functies bedienen? Voor beide werden de voor- en nadelen op een rijtje gezet. Daarna werd alles samengegoten in een overzichtelijke *problem-solution* matrix.
 
-<p>
+<p align="center">
   <img src="/images/benchmarking visualisation.jpg" width="49%"/>
   <img src="/images/benchmarking controls.jpg" width="49%"/>
 </p>
@@ -139,18 +139,18 @@ Door het uitvoeren van concepttesten kunnen we ons concept evalueren met echte g
 
 Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze *dial*. Welke grootte? Welke vorm? Welk materiaal? Na een korte introductie gaven we elke deelnemer een stuk klei/plasticine. We gaven hen de opdracht om hun ideale *dial* te ontwerpen en hierbij te variëren in vorm, grootte, afwerking... Hierbij moest de focus op het praktische aspect liggen, minder op het esthetische. Nadat elke deelnemer zijn of haar ideale *dial* gemaakt had gingen we over naar het tweede deel van de test. We ontwikkelden drie *sensorial boards*: 6 verschillende groottes, 9 vormvarianten en 6 verschillende materialen. Elke deelnemer kreeg de kans elk bord te exploreren door aan de verschillende modellen te voelen. Per bord moesten de deelnemers hun voorkeur weergeven in een top 3. Alle ruwe data van deze testen werd verzameld door middel van gebruikersformulieren.
 
-<p>
+<p align="center">
   <img src="/images/user test dial plasticine.png" width="49%"/>
   <img src="/images/user test dial schets.png" width="49%"/>
 </p>
 
-<p>
+<p align="center">
   <img src="/images/user test dial bord sizes.jpg" width="32%"/>
   <img src="/images/user test dial bord shapes.jpg" width="32%"/>
   <img src="/images/user test dial bord materials.jpg" width="32%"/>
 </p>
 
-<p>
+<p align="center">
   <img src="/images/user test dial foto 1.jpg" width="24.5%"/>
   <img src="/images/user test dial foto 2.jpg" width="24.5%"/>
   <img src="/images/user test dial foto 3.jpg" width="24.5%"/>
@@ -159,7 +159,7 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze *di
 
 Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van de opgestelde top 3's werden samengegoten in een scoringsmatrix. Prototypes op plaats 1 kregen een score +3, prototypes op plaats 2 kregen een score +2 en prototypes op plaats 3 kregen een score +1. Prototypes waar deelnemers eerder een afkeur voor hadden, kregen een -1. Door de scores voor elk model van alle deelnemers bij elkaar op te tellen, hebben we een eindscore afgeleid. Een hogere eindscore duidde op een gunstigere ervaring.
 
-<p>
+<p align="center">
   <img src="/images/user test dial matrix sizes.png" width="32%"/>
   <img src="/images/user test dial matrix shapes.png" width="32%"/>
   <img src="/images/user test dial matrix materials.png" width="32%"/>
@@ -171,13 +171,13 @@ Met deze test richten we ons op de conceptuele interactie van de dialfuncties en
 We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de *dial*.
 Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de *dial* in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
-<p>
+<p align="center">
   <img src="/images/user test interface layout 1.png" width="32%"/>
   <img src="/images/user test interface layout 2.png" width="32%"/>
   <img src="/images/user test interface layout 3.png" width="32%"/>
 </p>
 
-<p>
+<p align="center">
   <img src="/images/user test interface layout 4.png" width="32%"/>
   <img src="/images/user test interface layout 5.png" width="32%"/>
   <img src="/images/user test interface layout 6.png" width="32%"/>
@@ -202,7 +202,7 @@ Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest
 
 Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
-<p>
+<p align="center">
   <img src="/images/user test interface foto.png" width="47%"/>
   <img src="/images/user test interface uitkomst.png" width="52%"/>
 </p>
@@ -220,7 +220,7 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 ## Prototype
 In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
-<p>
+<p align="center">
   <img src="/images/concept render zij.png" width="49%"/>
   <img src="/images/concept render close-up.png" width="49%"/>
 </p>
@@ -231,7 +231,7 @@ Het gebruik van een reëel touchscreen is in deze fase van het proces nog niet a
 
 Om toch al enige vorm van interactie te bieden tijdens de test werden er een magneet in de knop en metalen plaatjes achter het touchscreen geïntegreerd. Dit zorgde al voor het gevoel van de snapping points om de juiste functie blindelings te kunnen selecteren.
 
-<p>
+<p align="center">
   <img src="/images/prototype ergonomie.jpg" width="37%"/>
   <img src="/images/prototype ergonomie snapping points.jpg" width="40%"/>
   <img src="/images/prototype ergonomie dial.jpg" width="21%"/>
@@ -277,7 +277,7 @@ Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_. Grote gebru
 
 Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. Alle gebruikers gaven ook aan dat de dial bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hadden om het volume en het veranderen van nummer/radiozender uit elkaar te houden.
 
-<p>
+<p align="center">
   <img src="/images/dev1 seppe.jpg" width="38.4%">
   <img src="/images/dev1 quinten knie.jpg" width="38.4%">
   <img src="/images/dev1 quinten.jpg" width="21.6%">
@@ -288,7 +288,7 @@ We zijn tevreden dat de theoretisch bepaalde afstand tot het scherm in de prakti
 
 De volumefunctie nemen we weg van het touchscreen, deze wordt bediend door een aparte knop. Hierdoor komt er een positie vrij. We schuiven alles op zodat er uiterst links niets meer bediend hoeft te worden, want die plaats was voor veel personen moeilijk bereikbaar. We werkten ondertussen een nieuw interface uit die rekening hield met deze ondervindingen.
 
-<p>
+<p align="center">
   <img src="/images/user test interface uitkomst.png" width="49%">
   <img src="/images/dev1 main screen.png" width="49%">
 </p>
@@ -313,7 +313,7 @@ Het vormelijk ontwerp (grootte, vorm & materiaal) van de dial bleef ongewijzigd,
 
 Bij de eerste testen met de dial merkten we dat de batterijen voor problemen zorgden. Ze liepen zeer snel leeg en gaven niet voldoende spanning. Hierdoor werden we genoodzaakt de batterijen te vervangen door een externe spanningsbron, de auto zelf (via USB).
 
-<p>
+<p align="center">
   <img src="/images/prototype usability test dial bovenkant.jpg" width="32%">
   <img src="/images/prototype usability test dial onderkant.jpg" width="32%">
   <img src="/images/prototype usability test dial.jpg" width="32%">
@@ -418,7 +418,7 @@ void outputProtopie(BLEDevice dial) {
 ### Touchscreen
 De interface op het touchscreen bleef ongewijzigd. Enkel werden ook hier de functionaliteiten toegevoegd. De metalen plaatjes langs de achterkant werden vervangen door rosse munten omwille van hun ronde vorm en hun sterk magnetische aantrekkingskracht. Op elk van die munten bevestigden we een magneetsensor om de positie van de dial op het touchscreen te detecteren. We monteerden dit fictieve touchscreen in de auto door middel van enkele haken die we met de lasercutter maakten. Deze zorgden ook voor de juiste tussenafstand, bepaald tijdens de vorige gebruikerstest.
 
-<p>
+<p align="center">
   <img src="/images/prototype touchscreen achterkant.jpg" width="49%">
   <img src="/images/prototype touchscreen voorkant.jpg" width="49%">
 </p>
@@ -524,7 +524,7 @@ void loop() {
 ### HUD
 Alles wat wordt bediend met de dial wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid zich automatisch aanpassen aan de omgeving.
 
-<p>
+<p align="center">
   <img src="/images/prototype HUD smartphone.jpg" width="49%">
   <img src="/images/prototype HUD smartphone klem.jpg" width="49%">
 </p>
@@ -536,7 +536,7 @@ Om een interface te ontwerpen maakten we gebruik van ProtoPie. We begonnen met h
 
 Alles wat donkergrijs is in de interface, is in principe transparant bij een echt HUD. De blauwe lijnen stellen de _line assist_ voor. De auto in het midden is een fictieve auto voor jou. De rechtse weergave (functionaliteiten) verdwijnt indien er 5 seconden niets wordt aangepast.
 
-<p>
+<p align="center">
   <img src="/images/prototype HUD V2 home.png" width="32%">
   <img src="/images/prototype HUD V2 navigation.png" width="32%">
   <img src="/images/prototype HUD V2 phone.png" width="32%">
@@ -587,7 +587,7 @@ Uit de expert review bleek dat ons HUD nog niet duidelijk genoeg is. Er was verw
 - Contextuele feedback en instructies: Er ontbreekt audio- of vibratiefeedback. Er mist een synchronisatiefunctie bij de temperatuurregeling.
 - Match tussen systeem en echte wereld: Geen opmerkingen.
 
-<p>
+<p align="center">
   <img src="/images/dev2 expert review seppe.jpg" width="48%">
   <img src="/images/dev2 expert review sterre.jpg" width="48%">
 </p>
@@ -605,7 +605,7 @@ De _dial_ hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je br
 
 Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een _dial_ op het scherm, maar tijdens het rijden werd er niet aan gedacht. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden hun bekerhouders niet verliezen. Een cirkelvormige positie van de _dial_ werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
 
-<p>
+<p align="center">
   <img src="/images/dev2 test wannes.jpeg" width="48%">
   <img src="/images/dev2 test hans.jpeg" width="48%">
 </p>
@@ -648,7 +648,7 @@ Bij dit prototype gooiden we ons hele concept om. Het touchscreen maakte plaats 
 ### Controlepaneel
 Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met de lasercutter. Het principe van de snapping points door middel van magneten, rosse munten en magneetsensoren bleef hetzelfde. Er werden ook enkele tussenstukken gemaakt om dit controlepaneel in de testauto te integreren. 
 
-<p>
+<p align="center">
   <img src="/images/prototype controlepaneel.jpeg" width="48%">
   <img src="/images/prototype controlepaneel achter.jpg" width="48%">
 </p>
@@ -723,7 +723,7 @@ De risicoperceptietest verliep wat stugger dan de rijtest. In die zin dat de tes
 -	Er hangt ook veel af van het moment waarop je de opdracht aan de testpersoon geeft. Fragmenten duren gemiddeld zo’n 30 seconden. Een opdracht geven duurt nog geen 5 seconden. Als mensen de opdracht in het begin van het fragment krijgen en de gevraagde gebeurtenis pas op het einde gebeurt, dan scoor je goed aangezien de opdracht al uitgevoerd werd en de volle concentratie terug op het fragment lag. Omgekeerd kan het ook zijn dat de opdracht net op het moment valt dat er iets gebeurd in het fragment.
 -	Als laatste moeten we eerlijk zijn en toegeven dat ook bij ons concept sprake is van afleiding.
 
-<p>
+<p align="center">
   <img src="/images/dev3 sfeerfoto.png" width="35%">
   <img src="/images/dev3 risicoperceptie touch.png" width="31.5%">
   <img src="/images/dev3 risicoperceptie.png" width="31.5%">
@@ -809,7 +809,7 @@ De linkerkant toont een eenvoudige weergave van de navigatie, waarbij de eerstvo
 
 De volledige interface is ontworpen en interactief gemaakt in ProtoPie. 
 
-<p>
+<p align="center">
   <img src="/images/prototype HUD V4 home.png" width="32%">
   <img src="/images/prototype HUD V4 navigation.png" width="32%">
   <img src="/images/prototype HUD V4 phone.png" width="32%">
