@@ -10,13 +10,15 @@ De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards di
 
 Wetenschappelijke artikels, contextual inquiries en gebruikersbevragingen tonen aan dat de afleiding niet veroorzaakt wordt door de touchscreens zelf, maar door het gebrek aan tactiele feedback bij het bedienen van een touchscreen.
 
-Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig herontwerp van het autodashboard. Een combinatie van een Head-up-display, fysiek verplaatsbare knop en controlepaneel moet de bediening sneller en veiliger maken terwijl de ogen op de weg gehouden kunnen worden. De afleiding wordt hierbij tot een minimum beperkt.
+Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig herontwerp van het autodashboard. Een combinatie van een head-up display (HUD), fysieke verplaatsbare knop en controlepaneel moet de bediening sneller en veiliger maken terwijl de ogen op de weg gehouden kunnen worden. De afleiding wordt hierbij tot een minimum beperkt.
 
 <p>
   <img src="/images/heroshot finaal alles.jpg" width="32%">
   <img src="/images/heroshot finaal close-up.jpg" width="32%">
   <img src="/images/heroshot finaal hud.jpg" width="32%">
 </p>
+
+[![](https://img.youtube.com/vi/vWs9MYro9L0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vWs9MYro9L0)
 
 ## Introductie
 
