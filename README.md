@@ -578,7 +578,7 @@ Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken 
 Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. We zijn ons ervan bewust dat dit een geavanceerd prototype is, toch vinden we dat dit prototype een absolute meerwaarde is. We kunnen van onszelf zeggen dat we goed overweg kunnen met het programmeren en de nodige software, zo waren we niet langer dan nodig bezig met het maken ervan. Alles werd gemaakt met het oog op snelle aanpassingen in de code of in de interface. Dit prototype zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
 
 ## Develop 2: Human Mind (N=7)
-Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een _expert review_ en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
+Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een _expert review_ en _usability_ testen kunnen aantonen welke optimalisaties we hebben aangebracht.
 
 ### Doelstellingen
 - Bekomen van een definitief ontwerp van het interactief prototype.
@@ -593,18 +593,18 @@ Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 
 <img src="/images/storytelling 2.jpg" width="30%" align="right">
 
-Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. In een eerste ronde maakten ze kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
+Voor de _expert review_ stelden we ons interactief prototype op. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. In een eerste ronde maakten ze kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
 
-Voor de _usability test_ startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerste kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal. Van het contextverhaal maakten we een concrete storytelling, hiermee voorspellen en visualiseren we de handelingen die de gebruiker dient te maken. Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel (zie verder), om naar hun gevoel en bedenkingen te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
+Voor de _usability_ test startten we opnieuw met een korte introductie van het project om de testpersonen context te geven. De test bestond uit verschillende fases: eerste kennismaking met het prototype, daarna bediening van de functies, en vervolgens een rit. Om een zo goed mogelijke ecologische validiteit te behalen, namen we de gebruiker mee in een verhaal (zie _storytelling_). Tijdens de rit moesten gebruikers specifieke acties uitvoeren. Na de rit volgde een nabespreking en de introductie van ons nieuw concept, een losstaand controlepaneel (zie verder), om naar hun gevoel en bedenkingen te peilen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 ### Resultaten
 #### Expert review (N=2)
 Uit de expert review bleek dat ons HUD nog niet duidelijk genoeg is. Er was verwarring over de grootte, helderheid, transparantie en icoontjes. De analyse gebeurt volgens de 7 vooropgestelde heuristieken:
-- Minimalistisch ontwerp: Elementen zoals contacten waren moeilijk leesbaar. De auto op het HUD was te prominent aanwezig.
-- Duidelijke visuele hiërarchie: De auto stond te prominent in beeld.
-- Directe feedback: Het scrollen door de muziek was niet intuïtief. Er mist auditieve feedback.
+- Minimalistisch ontwerp: Elementen zoals contacten waren moeilijk leesbaar.
+- Duidelijke visuele hiërarchie: De auto op het HUD stond te prominent in beeld.
+- Directe feedback: Er mist auditieve feedback.
 - Gebruik van contrast en leesbaarheid: De bruikbaarheid van het HUD bij verschillende lichtomstandigheden werd betwijfeld. Echter, ervaring met benchmark HUD's leert dat dit geen probleem zou moeten zijn.
-- Focus op gebruiksgemak: De niet-intuïtieve draairichting van de muziek werd opnieuw genoemd. Richting personaliseerbaar?
+- Focus op gebruiksgemak: Het scrollen door de muziek was niet intuïtief.
 - Contextuele feedback en instructies: Er ontbreekt audio- of vibratiefeedback. Er mist een synchronisatiefunctie bij de temperatuurregeling.
 - Match tussen systeem en echte wereld: Geen opmerkingen.
 
@@ -624,7 +624,7 @@ We merkten dat het op enkele momenten lastig was om een bepaald adres, telefoonn
 
 De _dial_ hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote _dial_ straalt echter meer sympathie uit. De _dial_ kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde _affordance_ (conische vorm) hadden veel gebruikers de neiging de _dial_ op te heffen.
 
-Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een _dial_ op het scherm, maar tijdens het rijden werd er niet aan gedacht. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden hun bekerhouders niet verliezen. Een cirkelvormige positie van de _dial_ werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
+Het tweede concept van een losstaand controlepaneel werd positief ontvangen. Het voelde logischer aan dan een _dial_ op het scherm. Testpersonen vonden dat het controlepaneel verticaal in de middenconsole geïntegreerd mag worden, maar wilden hun bekerhouders niet verliezen. Een cirkelvormige positie van het controlepaneel werd als intuïtiever ervaren. De meeste testpersonen vonden dat het scherm kleiner mag zijn, gemiddeld met een factor 2/3.
 
 <p align="center">
   <img src="/images/dev2 test wannes.jpeg" width="48%">
@@ -642,11 +642,11 @@ Om de afleiding - veroorzaakt door het HUD - verder te beperken, voegen we ook e
 
 Ten slotte wordt er gezocht naar een mogelijkheid om de temperatuur van bestuurder en passagier te synchroniseren.
 
-Na het industry consult kwamen we op een punt waar we ons concept helemaal konden omgooien. Een enge stap, maar deze werd ook aangemoedigd door onze testgebruikers. In plaats van de _dial_ op het touchscreen te plaatsen zal deze nu bediend worden op een controlepaneel die in de middenconsole verwerkt zit, met behoud van de drankenhouders. Verder zullen de posities ook niet meer lineair uitgelijnd worden. Het nieuwe controlepaneel wordt cirkelvormig gemaakt. Dit creëert een centrale positie (bijvoorbeeld de navigatie). Links en rechts worden respectievelijk de temperatuur voor de bestuurder en de passagier. Boven en onder worden ingevuld door de telefoon en de muziek. Dit is veel intuïtiever en eenvoudiger blind te bedienen. Dit nieuwe concept wordt duidelijk in het volgende deel.
+Na het _industry consult_ kwamen we op een punt waar we ons concept helemaal konden omgooien. Een enge stap, maar deze werd ook aangemoedigd door onze testgebruikers. In plaats van de _dial_ op het touchscreen te plaatsen zal deze nu bediend worden op een controlepaneel dat in de middenconsole verwerkt zit, met behoud van de drankenhouders. Verder zullen de posities ook niet meer lineair uitgelijnd worden, maar cirkelvormig. Dit creëert een centrale positie (bijvoorbeeld de navigatie). Links en rechts worden respectievelijk de temperatuur voor de bestuurder en de passagier. Boven en onder worden ingevuld door de telefoon en de muziek. Dit is veel intuïtiever en eenvoudiger blind te bedienen. Dit nieuwe concept wordt duidelijk in het volgende deel.
 
-Het scherm wordt terug het oorspronkelijke scherm zoals reeds in de testauto aanwezig. Daarnaast is er de mogelijkheid om de _dial_ kleiner te maken tot een broekzakformaat. Op die manier zou de _dial_ ook als autosleutel gebruikt kunnen worden. Door de _dial_ / autosleutel op de centrale positie te plaatsen kan de auto gestart worden. Dit idee vloeide voort uit de usability test waarbij de _dial_ nog op het touchscreen bediend werd. Echter weten we niet of dit ook nog van toepassing zal zijn bij ons nieuw concept, dit zal bevraagd worden in een volgende gebruikerstest.
+Het scherm wordt terug het oorspronkelijke scherm zoals reeds in de testauto aanwezig. Daarnaast is er de mogelijkheid om de _dial_ kleiner te maken tot een broekzakformaat. Op die manier zou de _dial_ ook als autosleutel gebruikt kunnen worden. Door de _dial_ / autosleutel op de centrale positie te plaatsen kan de auto gestart worden. Dit idee vloeide voort uit de _usability_ test waarbij de _dial_ nog op het touchscreen bediend werd. Echter weten we niet of dit ook nog van toepassing zal zijn bij ons nieuw concept, dit zal bevraagd worden in een volgende gebruikerstest.
 
-De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepaneel die toch nog steeds modern en innovatief oogt. In de laatste testen gaan we deze laatste inzichten al dan niet verifiëren bij een nieuwe groep gebruikers.
+De uitdaging op dit _pivot point_ zit hem in het maken van een nieuw controlepaneel dat toch nog steeds modern en innovatief oogt. In de laatste testen gaan we deze laatste inzichten al dan niet verifiëren bij een nieuwe groep gebruikers.
 
 > [!IMPORTANT]
 > Design Requirements:
