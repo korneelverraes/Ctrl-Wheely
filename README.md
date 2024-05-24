@@ -134,17 +134,20 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 
 ## Definition (N=11)
 In de definitiefase geven we vorm aan de oplossingen die we dit jaar zullen uitwerken. Gebruikmakend van het eerder gedefinieerde probleem, onderzoeken we mogelijke oplossingen om zo een weloverwogen conceptkeuze te maken. Dit concept dient dan als basis voor verdere ontwikkeling in het tweede semester.
+
 ### Doelstellingen
 Tot een conceptueel ontwerp komen.
 - thematische schets
-- storyboard
-- *quick-and-dirty* prototype
+- _storyboard_
+- _quick-and-dirty_ prototype
+
 ### Materiaal & methoden
-- *sensorial boards*
+- _sensorial boards_
 - kartonnen prototypes
 - digitaal ontworpen interfaces
 - gebruikersinterviews
 - gebruikerstesten
+
 ### Resultaten
 #### Dial (N=6)
 Door het uitvoeren van concepttesten kunnen we ons concept evalueren met echte gebruikers. Hierdoor kunnen we ook het gedrag van de gebruiker tijdens de interactie observeren en analyseren.
@@ -183,6 +186,7 @@ Met deze test richten we ons op de conceptuele interactie van de _dial_functies 
 We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de _dial_.
 Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de _dial_ in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
+
 <p align="center">
   <img src="/images/user test interface layout 1.png" width="32%"/>
   <img src="/images/user test interface layout 2.png" width="32%"/>
@@ -196,7 +200,8 @@ Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten make
 </p>
 
 ### Conclusies & implicaties
-Uit de klei-test blijkt dat gebruikers een voorkeur hadden voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen.
+Uit de klei-test blijkt dat gebruikers een voorkeur hebben voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen.
+
 > "Eventueel kan de knop conisch gemaakt worden. Dit zorgt niet enkel voor meer grip maar geeft mij ook het signaal dat de knop verplaatst kan worden."
 
 Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere _dial_ werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal prefereren de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
@@ -208,8 +213,9 @@ Samengevat:
 - geribbelde contour
 - rubberachtig materiaal (nog te exploreren via 3D-printen)
 
-Uit de interfacetest blijkt dat onderstaand interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de _dial_ moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de _dial_ en het scherm te begrijpen.
+Uit de interfacetest blijkt dat onderstaande interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de _dial_ moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de _dial_ en het scherm te begrijpen.
 Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de _dial_ te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
+
 > "Net zoals in mijn BMW zou ik het handig vinden dat de _dial_ ook naast het scherm bedienbaar is zodat ik niet telkens met mijn hele arm tot het scherm hoef te reiken."
 
 Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
