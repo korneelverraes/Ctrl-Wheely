@@ -543,7 +543,7 @@ void loop() {
 ```
 
 ### HUD
-Alles wat wordt bediend met de _dial_ wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en de helderheid zich automatisch aanpassen aan de omgeving.
+Alles wat wordt bediend met de _dial_ wordt weergegeven in een HUD. De integratie van een echt werkend HUD is buiten de scope van deze opdracht. Daarom werd deze vervangen door een smartphone in de voorruit. In de realiteit zal het HUD de grootte van een standaardlaptopscherm hebben en zal de helderheid zich automatisch aanpassen aan de omgeving.
 
 <p align="center">
   <img src="/images/prototype HUD smartphone.jpg" width="49%">
@@ -575,7 +575,7 @@ Elk van de 5 functies kan bediend worden door zowel te draaien en/of te klikken 
 
 <img src="/images/prototype HUD V2.gif">
 
-Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. We zijn ons ervan bewust dat dit een geavanceerd prototype is, toch vinden we dat dit prototype een absolute meerwaarde is. We kunnen van onszelf ook zeggen dat we goed overweg kunnen met het programmeren en de nodige software, dat zorgde ervoor dat we toch niet langer dan nodig bezig waren met het maken ervan. Alles werd gemaakt met het oog op snelle aanpassingen in de code of op de interface. Dit prototype zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
+Alle bovengenoemde onderdelen vormden samen een uitgebreid en interactief prototype waarmee we de testen in een reële context konden afnemen. Opdat de focus volledig naar het product zou kunnen gaan, testten we in een elektrische auto waarmee we de baan optrokken. We zijn ons ervan bewust dat dit een geavanceerd prototype is, toch vinden we dat dit prototype een absolute meerwaarde is. We kunnen van onszelf zeggen dat we goed overweg kunnen met het programmeren en de nodige software, zo waren we niet langer dan nodig bezig met het maken ervan. Alles werd gemaakt met het oog op snelle aanpassingen in de code of in de interface. Dit prototype zorgde ervoor dat we de validiteit van onze gebruikerstesten konden verhogen.
 
 ## Develop 2: Human Mind (N=7)
 Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een _expert review_ en usability testen kunnen aantonen welke optimalisaties we hebben aangebracht.
