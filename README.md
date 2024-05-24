@@ -42,6 +42,8 @@ Randvoorwaarden:
 - intuïtief
 - interactief
 
+Tijdens het volledige proces zal de gebruiker steeds centraal staan. Er wordt niet enkel rekening gehouden met de eindgebruiker, maar ook met verschillende andere stakeholders. Om tijdens het proces steeds de belangen van de stakeholders te waarborgen zijn ze samengevat in een stakeholder mapping. De drie belangrijkste stakeholders zijn uitgebreider geanalyseerd in de innovatrix. 
+
 <p align="center">
   <img src="/images/stakeholders.jpg" width="38%">
   <img src="/images/innovatrix.jpg" width="61%">
