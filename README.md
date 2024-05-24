@@ -782,9 +782,9 @@ We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntj
 
 > [!IMPORTANT]
 > Design Requirements:
-> - Het touchscreen dient groter te zijn dan 10 inch en kleiner dan 17 inch.
-> - Je moet te allen tijde kunnen zien in welk menu de _dial_ staat.
-> - De _dial_ dient niet als gebruiksvoorwerp buiten de auto gebruikt te worden.
+> - D2.8 De _dial_ kan enkel binnen de auto gebruikt worden.
+> - D3.7 Het touchscreen is tussen de 10 en 17 inch.
+> - D4.7 Het HUD toont te allen tijde op welke positie de dial staat.
 
 ## Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
