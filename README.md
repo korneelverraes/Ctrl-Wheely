@@ -736,7 +736,7 @@ Het eindpunt van deze derde ontwikkelingsfase is een geoptimaliseerd ontwerp, wa
 - Kwantificatie van de afleiding tijdens het rijden.
 
 ### Materiaal & methoden
-We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling blijft zo goed als identiek aan de vorige test. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd wordt. Bij deze test richten we ons op de sensoriële feedback, vandaar dat we de _dial_ voorzien van een betere sensoriële werking. Voor het opstellen van een hiërarchische taakanalyse pikten we er één specifiek voorbeeld uit: de _climate control_.
+We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling blijft zo goed als identiek aan de vorige test. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven uitgelegd wordt. Bij deze test richten we ons op de sensoriële feedback, vandaar dat we de _dial_ voorzien van een betere sensoriële werking. Voor het opstellen van een hiërarchische taakanalyse pikten we er één specifiek voorbeeld uit: de _climate control_.
 
 <img src="/images/hiërarchische taakanalyse.jpg">
 
@@ -785,7 +785,7 @@ Aan het HUD wordt een icoontje toegevoegd om de gebruiker steeds een indicatie t
 
 Omwille van voorgenoemde redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een eye-tracking bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
 
-We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntjes na, kregen we vooral bevestiging over de meerwaarde van ons concept. 
+We blikken tevreden terug op de laatste test. We kregen vooral bevestiging over de meerwaarde van ons concept. 
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -869,7 +869,7 @@ Om volledig terug te blikken moeten we even terug naar het begin van dit project
 
 In het tweede semester ging ons concept er met rasse schreden op vooruit. De ene test volgde de andere snel op. Doordat we tijdens de eerste develop-test al een (deels) interactief prototype hadden, konden we niet alleen antropometrische data valideren, maar ook de eerste beperkingen en opportuniteiten van ons concept onder ogen zien. Een goede basis dus voor het tweede deel van de ontwikkelingsfases en de maak van ons eerste interactieve prototype. Het werd een geavanceerd prototype die de realiteit zo goed mogelijk benaderde en zo de testresultaten zo valide mogelijk maakt. Dat we trots mogen zijn op ons eerste interactief prototype, gemaakt in ProtoPie, werd bevestigd door onze gebruikers en het enthousiasme van de mensen uit de bedrijfswereld tijdens het _industry consult_. Tussen de tweede en de laatste develop-fase kwamen we op een eng doch zeer leerrijk moment. Na het _industry consult_ konden we ons concept helemaal omgooien en dat deden we ook. We kozen, met nog steeds oog op de gebruiker, voor een nog betere en veiligere uitwerking van ons product. Een grote stap die ons ten goede bleek te komen in de laatste testfase. Ondanks dat dit nieuwe prototype niet tot in de details was uitgewerkt, wekte ons concept en prototype alleen maar lof bij de gebruikers.
 
-De gebruikers waren vol enthousiast over ons concept. De laatste test was, zoals het hoort, een bevestigingstest waarin de gemaakte ontwerpkeuzes bevestigd werden door de gebruikers. Natuurlijk waren er ook nog enkele kleine bedenkingen of verbeteringen. Deze laatst aangehaalde puntjes probeerden we nog zoveel mogelijk te realiseren in het eindprototype.
+De laatste test was, zoals het hoort, een bevestigingstest waarin de gemaakte ontwerpkeuzes bevestigd werden door de gebruikers. Natuurlijk waren er ook nog enkele kleine bedenkingen of verbeteringen. Deze laatst aangehaalde puntjes probeerden we nog zoveel mogelijk te realiseren in het eindprototype.
 
 Om ons verslag te eindigen antwoorden we samenvattend nog even op de onderzoeksvraag: **Op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?** Wel, dat doen we door gebruik te maken van Ctrl-Wheely. Een fysieke verplaatsbare knop op een controlepaneel in de middenconsole waarmee je de verschillende functies van je auto bedient. Alles wat je aan het bedienen bent wordt weergegeven in een head-up display. 
 
