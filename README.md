@@ -710,6 +710,10 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 
 Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen van de hardware-onderdelen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
 
+### Overzicht
+Tijdens ons parcour hebben we heel wat keuzes moeten overwegen. Om alles overzichtelijk te houden hebben we gaandeweg een morfologische kaart opgesteld. Hieronder is een overzicht waarop zowel het oude als het nieuwe concept te zien is.
+
+<img src="/images/morfologische kaart.jpg">
 
 ## Develop 3: Human Senses (N=8)
 Het eindpunt van deze derde ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een hiërarchise taakanalyse en gebruikerstesten kunnen aantonen welke optimalisaties we hebben aangebracht.
@@ -770,7 +774,7 @@ Aan het HUD wordt een icoontje toegevoegd om de gebruiker steeds een indicatie t
 
 Omwille van voorgenoemde redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een eye-tracking bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
 
-We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntjes kregen we vooral bevestiging over de meerwaarde van ons concept. 
+We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntjes na, kregen we vooral bevestiging over de meerwaarde van ons concept. 
 
 > [!IMPORTANT]
 > Design Requirements:
