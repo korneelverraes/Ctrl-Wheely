@@ -40,6 +40,7 @@ Randvoorwaarden:
 
 > [!NOTE]
 > Links naar volledige protocollen en reports zijn te vinden onder de bijlagen.
+> Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
 
 ## Methodologie
 <img src="/images/methodologie.jpg">
@@ -723,13 +724,13 @@ Het controlepaneel staat op een zeer comfortabele positie, dat werd aangehaald d
 
 Iemand gaf aan dat het noodzakelijk is om in het HUD altijd te kunnen zien in welk menu je zit, een kleine indicatie d.m.v. een icoontje volstaat. De vorm van het controlepaneel zou in het klein kunnen weergegeven worden op het HUD, met daarop de huidige positie van de _dial_. Zo zie je niet enkel in welk menu je zit, maar kan je ook zien hoe je naar een ander menu kan _snappen_.
 
+Bij het bevragen van het idee om de _dial_ te gebruiken als autosleutel was het antwoord vaak dubbel. Een kleinere dial ziet er alvast moderner uit, maar is moeilijker te bedienen dan de grotere _dial_ zoals tijdens het testen. Ten tweede wordt de handige functie van een keyless sleutel dan tenietgedaan. De sleutel kan je, zoals de meeste gebruikers doen, niet gewoon in de broekzak of handtas laten zitten. Je moet ze telkens uithalen en terug meenemen.
+
 De risicoperceptietest verliep wat stroever dan de rijtest. Zowel de testpersoon als wijzelf gaven aan dat bepaalde factoren de test te veel beïnvloeden:
 -	Een risicoperceptietest is in elk geval al geen gemakkelijke test. Je moet dit met volle concentratie en in volledige stilte kunnen afleggen om een goed resultaat te halen. Daarnaast benoemden de testpersonen verschillende keren dat het erg onduidelijke en donkere fragmenten waren. 
 -	Bij het prototype van ons concept moet je nog steeds op een scherm zaken aflezen. De informatie wordt niet op de weg (of op het fragment) geprojecteerd, zoals dat in het eindproduct wel het geval zou zijn.
 -	Veel hangt af van het moment waarop je de opdracht aan de testpersoon geeft. Fragmenten duren gemiddeld zo’n 30 seconden. Een opdracht geven duurt nog geen 5 seconden. Als mensen de opdracht in het begin van het fragment krijgen en de bevraagde gebeurtenis pas op het einde plaatsvindt, dan scoor je goed aangezien de opdracht al uitgevoerd werd en de volle concentratie terug op het fragment lag. Omgekeerd kan het ook zijn dat de opdracht net op het moment valt dat er iets gebeurt in het fragment.
 -	Als laatste moeten we eerlijk zijn en toegeven dat ook bij ons concept sprake is van afleiding.
-
-Omwille van deze redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een eye-tracking bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
 
 <p align="center">
   <img src="/images/dev3 sfeerfoto.png" width="35%">
@@ -738,14 +739,18 @@ Omwille van deze redenen hebben we besloten de scores van de risicoperceptietest
 </p>
 
 ### Conclusies & implicaties
-Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook antropometrisch goed zit voor verschillende gestalten. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
-De _dial_ zal om verschillende redenen niet gebruikt worden als sleutel.
-Aan het HUD wordt een navigatiesymbool toegevoegd om de gebruiker steeds een indicatie te geven in welk menu je zit en hoe je naar andere menu’s kan navigeren.
-Ondanks dat de risicoperceptietest niet de validiteit van afleiding gaf die we gewenst hadden, kunnen we het gemaakte beeldmateriaal (te vinden via het report van dev3) wel gebruiken om het verschil in oogafleiding te bekijken tussen ons concept en een benchmark. Daaruit halen we dat een opdracht uitvoeren met ons concept significant rapper gebeurt dan met een traditioneel touchscreen. Om de afleiding objectief aan te tonen wordt er idealiter gebruik gemaakt van een eye-tracking bril tijdens de test. 
+Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook op dat vlak goed zit. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
+De _dial_ zal om verschillende redenen niet gebruikt worden als autosleutel.
+Aan het HUD wordt een icoontje toegevoegd om de gebruiker steeds een indicatie te geven in welk menu je zit en hoe je naar andere menu’s kan navigeren.
+
+<p align="center">
+  <img src="/images/prototype HUD V4 home.png" width="48%">
+  <img src="/images/prototype HUD V4 airco left.png" width="48%">
+</p>
+
+Omwille van voorgenoemde redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een eye-tracking bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
 
 We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntjes kregen we vooral bevestiging over de meerwaarde van ons concept. 
-
-<img src="/images/prototype HUD V4 home.png">
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -833,7 +838,7 @@ De volledige interface is ontworpen en interactief gemaakt in ProtoPie.
 In een definitief ontwerp wordt het HUD gerealiseerd met augmented reality, navigatiepijlen en andere informatie worden rechtstreeks op de baan geprojecteerd. Zo krijgt de gebruiker niet het gevoel dat het zomaar een visuele weergave is. Het innovatieve aspect van Ctrl-Wheely komt hiermee nog meer tot uiting.
 
 ## Kritische reflectie
-We hebben ons dit jaar meer dan ooit geconcentreerd op de gebruiker. Door gebruikerstesten altijd uit te voeren in een reële context en de context zo consistent mogelijk te houden, zetten we extra in op de validiteit. De gebruiker werd hierdoor meer op zijn gemak gesteld en kon zich zo beter inleven. Dit maakt de input van de gebruiker concreter, betrouwbaarder en nuttiger. Een nadeel aan het testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een wagen die ze niet kennen. Het rijden vergt dan aandacht die op dat moment niet naar de test en in het bijzonder naar ons product kan gaan. Toch zijn we zeer trots op het gerealiseerde eindprototype en staan we meer dan 100% achter de gemaakte ontwerpkeuzes, vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker. De belangrijkste **approach** was voor ons de contextrealisatie, zeker in het tweede semester.
+We hebben ons dit jaar meer dan ooit geconcentreerd op de gebruiker. Door gebruikerstesten altijd uit te voeren in een reële context en de context zo consistent mogelijk te houden, zetten we extra in op de validiteit. De gebruiker werd hierdoor meer op zijn gemak gesteld en kon zich zo beter inleven. Dit maakt de input van de gebruiker concreter, betrouwbaarder en nuttiger. Een nadeel aan het testen tijdens het rijden is dat de gebruiker eerst nog moet wennen aan een wagen die ze niet kennen. Het rijden vergt dan aandacht die op dat moment niet naar de test en in het bijzonder naar ons product kan gaan. Toch zijn we zeer trots op het gerealiseerde eindprototype en staan we meer dan 100% achter de gemaakte ontwerpkeuzes, vertrokken vanuit de feedback van de meest centrale stakeholder: de eindgebruiker. De belangrijkste **approach** was voor ons de contextrealisatie en validiteit, zeker in het tweede semester.
 
 Om volledig terug te blikken moeten we even terug naar het begin van dit project. Al snel werd het gestelde probleem bevestigd door andere autobestuurders en door onderzoek in de ontdekkingsfase. We kregen een eerste duidelijk beeld van het probleeem tijdens een _focus group_ en _contextual inquieries_. We konden ons na deze ontdekkingsfase geen betere teamgenoot voorstellen en groeiden doorheen het project uit tot een ijzersterk team van twee enthousiaste, gedreven studenten. We hadden beiden een sterke toekomstvisie over het project. De twee visies kwamen goed overeen en zorgden nooit voor problemen. In de definitiefase konden we ons bedacht concept gaan concretiseren. De _dial_ en de interface groeiden tot een concreet concept met weloverwogen _design requirements_. Deze eerste concrete concepten konden we na het eerste semester uitwerken tot concrete renders en voor de eerste maal voorstellen.
 
