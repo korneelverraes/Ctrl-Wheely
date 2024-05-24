@@ -127,9 +127,9 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 
 > [!IMPORTANT]
 > Design Requirements:
-> - DRDe interface moet personaliseerbaar zijn.
-> - Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.
-> - Er is haptische feedback bij het bedienen van functies.
+> - D3.1 Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.
+> - D1.1 Het product laat toe functies te bedienen zonder dat de ogen van de baan afwijken.
+> - D2.1 De _dial_ geeft haptische feedback bij het bedienen van de functies.
 
 ## Definition (N=11)
 In de definitiefase geven we vorm aan de oplossingen die we dit jaar zullen uitwerken. Gebruikmakend van het eerder gedefinieerde probleem, onderzoeken we mogelijke oplossingen om zo een weloverwogen conceptkeuze te maken. Dit concept dient dan als basis voor verdere ontwikkeling in het tweede semester.
@@ -220,13 +220,13 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 
 > [!IMPORTANT]
 >  Design Requirements:
-> - De _dial_ moet een conische vorm hebben.
-> - De _dial_ moet goed in de hand liggen.
-> - De _dial_ moet ook naast het scherm bedienbaar zijn.
-> - Het touchscreen moet ook toegankelijk zijn voor kleinere mensen.
-> - Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.
-> - De interface moet goed leesbaar zijn, ook voor oudere mensen.
-> - De interface moet modern ogen.
+> - D1.2 Het product laat toe zes functies veilig te bedienen tijdens het rijden.
+> - D1.3 Het product is voor 95% van de mensen op elke mogelijke positie comfortabel toegankelijk.
+> - D2.2 De _dial_ heeft een conische vorm.
+> - D2.3 De _dial_ ligt voor 95% van de mensen goed in de hand.
+> - D2.4 De _dial_ kan ook naast het scherm bediend worden.
+> - D3.2 Het touchscreen is goed leesbaar.
+> - D3.3 Het touchscreen oogt modern.
 
 ## Prototype
 In onderstaande renders en _storytelling_ is te zien hoe het concept er op dit moment uitzag en hoe het product gebruikt wordt. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n _dial_ toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
@@ -311,9 +311,9 @@ We kijken terug naar een interessante test. Ons concept wordt nog steeds goed on
 
 > [!IMPORTANT]
 > Design Requirements:
-> - De functies links op de interface dienen niet aangepast te worden tijdens het rijden.
-> - Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.
-> - Het volume dient aangepast te kunnen worden met een aparte knop.
+> - D1.4 Het product laat toe het volume met een aparte knop te bedienen.
+> - D3.4 Het touchscreen geeft niet de intentie met touch bediend te kunnen worden tijdens het rijden.
+> - D3.5 Het touchscreen laat niet toe functies te bedienen binnen 1/4 van de linkerkant.
 
 ## Prototype
 De volgende stap in de ontwikkeling van het prototype was de interactie. Tot nu toe was ons prototype vrij statisch. We wilden graag wat dynamiek toevoegen om de validiteit van de gebruikerstesten te verhogen. Hiervoor maakten we een functionerende _dial_ en een interface voor het HUD. De losstaande volumeknop wordt voorgesteld door een houten cilindertje die op de middenconsole is geplakt.
