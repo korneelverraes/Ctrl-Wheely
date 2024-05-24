@@ -740,14 +740,14 @@ We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons control
 
 <img src="/images/hiërarchische taakanalyse.jpg">
 
-Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. Nadat alle functies ontdekt waren en de persoon zelf aangaf dat alles blindelings en veilig bediend kon worden, konden we vertrekken voor een rit. Tijdens de rit moesten de gebruikers specifieke acties uitvoeren volgens een vooropgestelde context. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als autosleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest. Hiervoor werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. Ze kregen twaalf fragmenten te zien. Telkens zes fragmenten waarin ze opdrachten moesten voltooien via de interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten voltooien met Ctrl-Wheely. Aan de hand van deze test wilden we de mate van afleiding kwantificeren, te vergelijken met een andere benchmark. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
+Als eerste opdracht mochten de testpersonen Ctrl-Wheely ontdekken in al zijn mogelijkheden. Nadat alle functies ontdekt waren en de persoon zelf aangaf dat alles blindelings en veilig bediend kon worden, konden we vertrekken voor een rit. Tijdens de rit moesten de gebruikers specifieke acties uitvoeren volgens een vooropgestelde context. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als autosleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest. Hiervoor werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. Ze kregen twaalf fragmenten te zien. Telkens zes fragmenten waarin ze opdrachten moesten voltooien via de interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten voltooien met Ctrl-Wheely. Aan de hand van deze test wilden we de mate van afleiding kwantificeren, te vergelijken met een andere benchmark. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
 
 ### Resultaten
 Op basis van opnames, directe feedback en formulieren kunnen we een diepgaande analyse uitvoeren.
 
 Net als in de vorige test werd de zetelverwarming, ondanks een toegevoegd symbool, door het merendeel niet ontdekt. Het gaat meestal over gebruikers die in hun huidige wagen geen zetelverwarming hebben en er daarom niet aan denken.
 
-Uit de vorige test (nog met touchscreen) bleek dat mensen vaak de neiging hadden om de _dial_ op te heffen. Wegens praktische beperkingen van het prototype hadden we geen aangepaste _dial_ kunnen voorzien (in het sleutelprototype zit dit wel verwerkt). In deze test was echter niemand nog geneigd om de _dial_ op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat het ontwerp van de _dial_ dan toch goed zit. Zowat iedereen vermeldde dat de huidige _dial_ zeer goed in de hand ligt. De navigatie als startpositie en de temperatuur links & rechts werden als zeer intuïtief bevonden. Iedereen was grote fan van het cirkelvormige controlepaneel en de bijhorende _snapping points_.
+Uit de vorige test (nog met touchscreen) bleek dat mensen vaak de neiging hadden om de _dial_ op te heffen. Wegens praktische beperkingen van het prototype hadden we geen aangepaste _dial_ kunnen voorzien (in het sleutelprototype zit dit wel verwerkt). Doordat het controlepaneel nu horizontaal ligt, was echter niemand geneigd de _dial_ op te heffen. We kunnen dus stellen dat het ontwerp van de _dial_ dan toch goed zit. Zowat iedereen vermeldde dat de huidige _dial_ zeer goed in de hand ligt. De navigatie als startpositie en de temperatuur links & rechts werden als zeer intuïtief bevonden. Iedereen was grote fan van het cirkelvormige controlepaneel en de bijhorende _snapping points_.
 
 > "Op deze manier kan je veel sneller door belangrijke menu’s scrollen in tegenstelling tot mijn BMW waar ook een draaiknop in de middenconsole zit."
 
@@ -770,7 +770,7 @@ De risicoperceptietest verliep wat stroever dan de rijtest. Zowel de testpersoon
 </p>
 
 ### Conclusies & implicaties
-Ondanks we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook op dat vlak goed zit. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
+Ondanks dat we met dit concept geen antropometrische testen hebben kunnen doen, kunnen we wellicht toch stellen dat dit concept ook op dat vlak goed zit. Mensen willen nog steeds een touchscreen die groter is dan het 10 inch grote interface van de testwagen en kleiner dan een 17 inch Tesla-scherm. 
 De _dial_ zal om verschillende redenen niet gebruikt worden als autosleutel.
 Aan het HUD wordt een icoontje toegevoegd om de gebruiker steeds een indicatie te geven in welk menu je zit en hoe je naar andere menu’s kan navigeren.
 
@@ -783,7 +783,7 @@ Aan het HUD wordt een icoontje toegevoegd om de gebruiker steeds een indicatie t
   <img src="/images/prototype HUD V4 airo right.png" width="32%">
 </p>
 
-Omwille van voorgenoemde redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een eye-tracking bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
+Omwille van voorgenoemde redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een _eye-tracking_ bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
 
 We blikken tevreden terug op de laatste test. We kregen vooral bevestiging over de meerwaarde van ons concept. 
 
