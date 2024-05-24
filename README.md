@@ -671,7 +671,7 @@ De uitdaging op dit _pivot point_ zit hem in het maken van een nieuw controlepan
 Bij dit prototype gooiden we ons hele concept om. Het touchscreen maakte plaats voor een controlepaneel in de middenconsole. De functionaliteiten bleven dezelfde.
 
 ### Controlepaneel
-Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met de lasercutter. Het principe van de snapping points door middel van magneten, rosse munten en magneetsensoren bleef hetzelfde. Er werden ook enkele tussenstukken gemaakt om dit controlepaneel in de testauto te integreren. 
+Het controlepaneel is cirkelvormig en bevat vijf posities. Dit werd gemaakt met de lasercutter. Het principe van de _snapping points_ door middel van magneten, rosse munten en magneetsensoren bleef hetzelfde. Er werden ook enkele tussenstukken gemaakt om dit controlepaneel in de testauto te integreren. 
 
 <p align="center">
   <img src="/images/prototype controlepaneel.jpeg" width="48%">
@@ -719,7 +719,7 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 
 <img src="/images/prototype HUD V4.png">
 
-Ook al gooiden we hier ons concept volledig om, toch slagen we er  in ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
+Ook al gooiden we hier ons concept volledig om, toch slaagden we erin ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
 
 ### Overzicht
 Tijdens ons parcour hebben we heel wat keuzes moeten overwegen. Om alles overzichtelijk te houden hebben we gaandeweg een morfologische kaart opgesteld. Hieronder is een overzicht waarop zowel het oude als het nieuwe concept te zien is.
