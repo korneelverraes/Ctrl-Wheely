@@ -39,7 +39,7 @@ Randvoorwaarden:
 - interactief
 
 > [!NOTE]
-> - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](##bijlagen).
+> - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](https://github.com/korneelverraes/Ctrl-Wheely/blob/main/README.md#bijlagen).
 > - Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
 > - Volledige software, programma's en andere relevante bestanden 
 
