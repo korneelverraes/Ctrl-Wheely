@@ -783,44 +783,45 @@ We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntj
 > - De _dial_ dient niet als gebruiksvoorwerp buiten de auto gebruikt te worden.
 
 ## Overzicht Design Requirements
-|ID|Requirement|Source|Date|
+|ID|Design Requirement|Source|Date|
 |:---|:---|:---|:---|
 |**Groep 1**|**Algemeen**|
-|1.1|Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.|Meeting Granstudio|19/10/2023|
-|1.2|Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.|Interface user test|02/01/2024|
-|1.3|Het bedieningselement dient op elk mogelijke positie toegankelijk te zijn voor 95% van de mensen.|Human body user test|05/03/2024|
-|1.4|Het volume dient aangepast te kunnen worden met een aparte knop.|Human body user test|05/03/2024|
-|1.5|Er dient auditieve feedback te zijn bij het veranderen van menu.|Expert Review|22/04/2024|
-|1.6|De auditieve feedback kan uitgeschakeld of aangepast worden.|Expert Review|22/04/2024|
-|1.7|De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.|Expert Review|22/04/2024|
-|1.8|Het touchscreen dient groter te zijn dan 10 inch en kleiner dan 17 inch.|Human senses user test|19/05/2024|
+|1.1|Het product laat toe functies te bedienen zonder dat de ogen van de baan afwijken.|Meeting Granstudio|19/10/2023|
+|1.2|Het product laat toe zes functies veilig te bedienen tijdens het rijden. |Interface user test|02/01/2024|
+|1.3|Het product is voor 95% van de mensen op elke mogelijke positie comfortabel toegankelijk.|Human body user test|05/03/2024|
+|1.4|Het product laat toe het volume met een aparte knop te bedienen.|Human body user test|05/03/2024|
+|1.5|Het product beschikt over auditieve feedback bij het veranderen van menu.|Expert Review|22/04/2024|
+|1.6|Het product laat toe de auditieve feedback uit te schakelen of aan te passen.|Expert Review|22/04/2024|
+|1.7|Het product laat toe de temperatuur van zowel de passagier als de bestuurder in één handeling te synchroniseren en te regelen.|Expert Review|22/04/2024|
+|1.7|Het product oogt modern en innovatief.|Human mind user test|01/05/2024|
+|1.8|Het product beschikt over een touchscreen dat groter is dan 10 inch en kleiner dan 17 inch.|Human senses user test|19/05/2024|
 |**Groep 2**|**Dial**|
-|2.1|Er is haptische feedback bij het bedienen van de functies.|_dial_ user test|24/12/2023|
-|2.2|De _dial_ moet een conische vorm hebben.|_dial_ user test|24/12/2023|
-|2.3|De _dial_ dient voor 9/10 testpersonen goed in de hand te liggen (naar eigen zeggen).|_dial_ user test|24/12/2023|
-|2.4|De _dial_ moet ook naast het scherm bedienbaar zijn.|Interface user test|02/01/2023|
-|2.5|De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.|Expert Review|22/04/2024|
-|2.6|De _dial_ dient een afgeronde vorm naar beneden te hebben om de neiging tot opheffen te verminderen|Human mind user test|01/05/2024|
-|2.7|De _dial_ bezit meerdere functies (verschuivingen rond magnetisch middelpunt, dubbelklikken, ...)|Human mind user test|01/05/2024|
-|2.8|De _dial_ dient niet als gebruiksvoorwerp buiten de auto gebruikt te worden.| Human senses user test|19/05/2024|
-|**Groep 3**|**Interface**|
-|3.1|De functieplaatsen van de _dial_ dienen personaliseerbaar te zijn.|Interface user test|02/01/2024|
-|3.2|De interface moet goed leesbaar zijn, ook voor oudere mensen.|Interface user test|02/01/2024|
-|3.3|De interface moet modern ogen.|Interface user test|02/01/2024|
-|3.4|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|Human body user test|05/03/2024|
-|3.5|De functies links (één vierde van de linkerhelft) op de interface dienen niet aangepast te worden tijdens het rijden.|Human body user test|05/03/2024|
+|2.1|De _dial_ geeft haptische feedback bij het bedienen van de functies.|_dial_ user test|24/12/2023|
+|2.2|De _dial_ heeft een conische vorm.|_dial_ user test|24/12/2023|
+|2.3|De _dial_ ligt voor 95% van de mensen goed in de hand.|_dial_ user test|24/12/2023|
+|2.4|De _dial_ kan ook naast het scherm bediend worden.|Interface user test|02/01/2023|
+|2.5|De _dial_ laat toe de draairichting om te keren.|Expert Review|22/04/2024|
+|2.6|De _dial_ geeft niet de intentie opgeheven te kunnen worden.|Human mind user test|01/05/2024|
+|2.7|De _dial_ kan op verschillende manieren bediend worden.|Human mind user test|01/05/2024|
+|2.8|De _dial_ kan enkel binnen de auto gebruikt worden.| Human senses user test|19/05/2024|
+|**Groep 3**|**Touchscreen (deels van toepassing)**|
+|3.1|Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.|Interface user test|02/01/2024|
+|3.2|Het touchscreen is goed leesbaar.|Interface user test|02/01/2024|
+|3.3|(n.v.t.) Het touchscreen oogt modern.|Interface user test|02/01/2024|
+|3.4|Het touchscreen geeft niet de intentie met touch bediend te kunnen worden tijdens het rijden.|Human body user test|05/03/2024|
+|3.5|(n.v.t.) Het touchscreen laat niet toe functies te bedienen binnen 1/4 van de linkerkant.|Human body user test|05/03/2024|
+|3.6|(n.v.t.) Het touchscreen is kleiner dan 10 inch.|Human mind user test|01/05/2024|
+|3.7|Het touchscreen is tussen de 10 en 17 inch.|Human senses user test|19/05/2024|
 |**Groep 4**|**Head-up-display**|
-|4.1|Er dient een blijvend icoon te zijn bij het bellen en veranderen van menu's.|Expert Review|22/04/2024|
-|4.2|Er dient een blijvend icoon te zijn van de muziek bij het veranderen van menu's.|Expert Review|22/04/2024|
-|4.3|De helderheid van het HUD moet automatisch aanpassen aan de lichtintensiteit buiten.|Expert Review|22/04/2024|
-|4.4|Er dient een blijvend icoon te zijn van de muziek bij het veranderen van menu's.|Expert Review|22/04/2024|
-|4.5|Er dient augmented reality te zijn in het HUD.|Expert Review|22/04/2024|
-|4.6|Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).|Expert Review|22/04/2024|
-|4.7|Er dient een visuele verduidelijking te zijn om de mogelijkheid tot zetelverwarming in de _climate control_ te verduidelijken.|Human mind user test|01/05/2024|
-|4.8|Je moet te allen tijde kunnen zien in welk menu de _dial_ staat.|Human senses user test|19/05/2024|
+|4.1|Het HUD toont een blijvend icoon tijdens het bellen bij het veranderen van menu.|Expert Review|22/04/2024|
+|4.2|Het HUD toont een blijvend icoon van de muziek bij het veranderen van menu.|Expert Review|22/04/2024|
+|4.3|Het HUD kan de helderheid automatisch laten aanpassen aan de lichtintensiteit buiten.|Expert Review|22/04/2024|
+|4.4|Het HUD beschikt over augmented reality.|Expert Review|22/04/2024|
+|4.5|Het HUD is groter dan een gemiddeld smartphonescherm (6,5 inch).|Expert Review|22/04/2024|
+|4.6|Het HUD toont duidelijk de mogelijkheid van de zetelverwarming.|Human mind user test|01/05/2024|
+|4.8|Het HUD toont te allen tijde op welke positie de _dial_ staat.|Human senses user test|19/05/2024|
 |**Groep 5**|**Controlepaneel**|
-|5.1|Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).|Human mind user test|01/05/2024|
-|5.2|Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.|Human mind user test|01/05/2024|
+|5.1|Het controlepaneel heeft een intuïtieve positieverdeling.|Human mind user test|01/05/2024|
 
 ## Finaal prototype
 Na een jaar hard werken zijn we tot een finaal prototype gekomen: Ctrl-Wheely. Een fysieke verplaatsbare knop op een controlepaneel in de middenconsole waarmee je de verschillende functies van je auto bedient. Alles wat je aan het bedienen bent wordt weergegeven in een head-up display (HUD).
