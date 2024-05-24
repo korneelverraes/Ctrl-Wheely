@@ -278,7 +278,9 @@ We maakten gebruik van grotere en kleinere testpersonen. Dit was vooral interess
 
 Elke positie lijkt voor de gebruikers goed bereikbaar met de _dial_. Grote gebruikers zaten soms wel met hun knieën tegen het touchscreen, als we het touchscreen een beetje naar rechts schoven (zoals we ook voor de andere gebruikers daarna deden) was dit probleem grotendeels van de baan. Toch blijkt dat de uiterst linkse positie besturen met de _dial_ onaangenaam en niet makkelijk aanvoelt. Dit werd door meerdere testpersonen aangehaald en het overgrote deel van de testpersonen had ook de wens om het muziekvak rechts te plaatsen omdat dit makkelijker te besturen is dan wanneer het links staat. De functie die het makkelijkst te bedienen is vanuit de bestuurderszetel is unaniem de meest rechtse. Als we de testpersonen vroegen tijdens het rijden het volume te veranderen, merkten we dat ze vaak naar de muziekfunctie grepen om het volume aan te passen. Als er gevraagd werd om de muziek te verzetten hadden de gebruikers de neiging om dit met hun vinger (touchbediening) te doen.
 
-Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken. Ze gaven allen aan dat het maximaal één dag kost om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is. Alle gebruikers gaven ook aan dat de _dial_ bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hadden om het volume en het veranderen van nummer/radiozender uit elkaar te houden.
+Tijdens het rijden werd snel duidelijk dat iedereen dankzij de snapping points perfect wist waar welke functie zat, zonder te hoeven kijken.  Alle gebruikers gaven ook aan dat de _dial_ bedienen geen problemen veroorzaakte tijdens het rijden. Het belangrijkste uit dit deel van de test was ook dat de bestuurders het moeilijk hadden om het volume en het veranderen van nummer/radiozender uit elkaar te houden.
+
+> "Het kost maximaal één dag om gewoon te worden waar welke functie zit, zeker als dit personaliseerbaar is."
 
 <p align="center">
   <img src="/images/dev1 seppe.jpg" width="38.4%">
@@ -602,7 +604,7 @@ We begonnen met een verificatie van vorige tests over posities en functies. Somm
 
 We merkten dat het op enkele momenten lastig was om een bepaald adres, telefoonnummer, muzieknummer of temperatuur te selecteren. De _dial_ was te gevoelig.
 
-Bij de vraag naar afleiding vergeleken met hun huidige auto, vonden de gebruikers dat het slechts een gewoontekwestie was. Na een paar ritten zou het systeem een meerwaarde zijn. De magneten werden als handig ervaren. Eén persoon wilde meer informatie in het HUD geprojecteerd zien.
+> "De afleiding met mijn huidige auto is beduidend minder. Het gebruik van Ctrl-Wheely is slechts een gewoontekwestie, na een paar ritten is het systeem zeker een meerwaarde. De magneten zijn zeer handig."
 
 De _dial_ hoeft niet groot te zijn; een kleinere maat past bijvoorbeeld in je broekzak en kan dienen als autosleutel. Een grote _dial_ straalt echter meer sympathie uit. De _dial_ kan ook gebruikt worden om geluidsverdeling te regelen door verschuiving rond een magnetisch middelpunt, en om muziek te bedienen met klikken en dubbelklikken. Door de verkeerde _affordance_ (conische vorm) hadden veel gebruikers de neiging de _dial_ op te heffen.
 
@@ -719,7 +721,7 @@ Net als in de vorige test werd de zetelverwarming, ondanks een toegevoegd symboo
 
 Uit de vorige test (nog met touchscreen) bleek dat de mensen vaak de neiging hadden om de _dial_ op te heffen. Wegens praktische beperkingen van het prototype hadden we geen aangepaste _dial_ kunnen voorzien (in het sleutelprototype zit dit wel verwerkt). In deze test was echter niemand nog geneigd om de _dial_ op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat het ontwerp van de _dial_ dan toch goed zit. Zowat iedereen vermeldde dat de huidige _dial_ zeer goed in de hand ligt. De navigatie als startpositie en de temperatuur links & rechts werden als zeer intuïtief bevonden. Wat direct opviel was dat iedereen fan was van het cirkelvormige controlepaneel en de bijhorende _snapping points_.
 
-> “Op deze manier kan je veel sneller door belangrijke menu’s scrollen in tegenstelling tot mijn BMW waar ook een draaiknop in de middenconsole zit.”
+> "Op deze manier kan je veel sneller door belangrijke menu’s scrollen in tegenstelling tot mijn BMW waar ook een draaiknop in de middenconsole zit."
 
 Het controlepaneel staat op een zeer comfortabele positie, dat werd aangehaald door testpersonen van verschillende groottes. Er werd aan de gebruikers opnieuw gevraagd welke grootte van touchscreen ze voor ogen hadden, nu de _dial_ niet meer op het scherm bediend wordt. De gebruikers gaven aan dat ze toch graag een groot touchscreen hebben, ook al dient deze enkel voor tijdens het stilstaan en als kaartweergave.
 
