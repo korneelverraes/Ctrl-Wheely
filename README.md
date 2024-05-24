@@ -66,11 +66,11 @@ Het ontwerpproces en de daarbij horende eindconclusies zijn te lezen in dit vers
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een marktanalyse. Het probleem waarop we focussen wordt met andere woorden scherpgesteld en onderzocht.
 
 ### Doelstellingen
-Een helder geformuleerde "how might we" bekomen.
+Een helder geformuleerde _"how might we"_ bekomen.
 
 ### Materiaal & methoden
-- contextual inquiries
-- focus group
+- _contextual inquiries_
+- focusgroep
 - benchmarking
 
 ### Resultaten
@@ -95,15 +95,16 @@ Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We
 |Answering calls|||X - X - X|
 |Start calls|||X - X|X|
 
-#### Focus Group (N=8)
-Voor we als team verder gingen had Warre ook al een focusgroep georganiseerd. Die focusgroep ging ook over de veiligheid en afleiding in wagens, specifiek  toegepast op het interieur van elektrische auto’s. Ook uit die focusgroep kwamen enkele interessante topics. Aan acht mensen werd de opdracht gegeven om hun droomdashboard samen te stellen met allerlei verschillende interieuronderdelen. Zes van de acht gebruikers plaatsten een draaiknop in hun interieur en twee mensen plaatsten er zelf meerdere waaronder ook op het stuur. Dat ze geliefd zijn bij een grote groep mensen is dus alvast zeker. Zes mensen kozen ook om een HUD te plaatsen in de voorruit.
+#### Focusgroep (N=8)
+Voor we als team verder gingen had Warre ook al een focusgroep georganiseerd. Die focusgroep ging ook over de veiligheid en afleiding in wagens, specifiek  toegepast op het interieur van elektrische auto’s. Ook uit die focusgroep kwamen enkele interessante topics. Aan acht mensen werd de opdracht gegeven om hun ideale dashboard samen te stellen met allerlei verschillende interieuronderdelen. Zes van de acht gebruikers plaatsten een draaiknop in hun interieur en twee mensen plaatsten er zelf meerdere waaronder ook op het stuur. Dat ze geliefd zijn bij een grote groep mensen is dus alvast zeker. Zes mensen kozen ook om een HUD te plaatsen in de voorruit.
+
 > "Ik ben enthousiast over de minimalistisch interface van een Tesla-interieur, maar anderzijds stel ik mij toch wel vragen bij de functionaliteit en veiligheid van één groot touchscreen zonder fysieke knoppen."
 
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de _dial_.
 
 <p align="center">
-<img width="60%" src="/images/focus group.png">
-<img width="38%" src="/images/focus group tafel.jpg">
+  <img width="60%" src="/images/focus group.png">
+  <img width="38%" src="/images/focus group tafel.jpg">
 </p>
 
 #### Benchmarking (N=10)
@@ -123,7 +124,7 @@ De afleiding tijdens het rijden wordt niet veroorzaakt door het touchscreen zelf
 
 HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst worden tonen informatie zonder dat de bestuurder zijn ogen van de baan hoeft te halen, wat de veiligheid bevordert. 3D-schermen en hologrammen bieden een goede ervaring en een grote aanpasbaarheid, maar zijn over het algemeen kostbaarder en complexer. Augmented reality-schermen combineren digitale informatie met de echte wereld, wat de navigatie- en veiligheidskenmerken verbetert. Traditionele schermen kunnen ondanks dat ze kosteneffectief en vertrouwd zijn de aandacht van de weg brengen. Fysieke knoppen en knoppen op het stuur geven prioriteit aan tastbare feedback en minimale afleiding, terwijl aanraakschermen en spraakbesturing veelzijdigheid bieden, maar mogelijk ten koste gaan van de veiligheid. Context, compatibiliteit en de leercurve zijn ook belangrijke factoren om in overweging te nemen.
 
-**Hoe kunnen we een _dial_ en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg terwijl ze interageren met het dashboard?**
+**Hoe kunnen we een _dial_ en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg, terwijl ze interageren met het dashboard?**
 
 > [!IMPORTANT]
 > Design Requirements:
