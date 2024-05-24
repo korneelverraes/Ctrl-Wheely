@@ -23,7 +23,7 @@ Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig he
 > [!NOTE]
 > - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](#bijlagen).
 > - Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
-> - Volledige software, programma's en andere relevante bestanden zijn te vinden in de map [files](/files).
+> - Volledige software, programma's en 3D-bestanden zijn te vinden in de map [files](/files).
 
 ## Introductie
 In de hedendaagse auto's zijn touchscreens de standaard geworden, waarbij bestuurders verschillende functies bedienen, variërend van navigatie tot entertainment. Echter, het toenemende gebruik van touchscreens in auto's heeft zorgen gewekt over de veiligheid, met name de visuele afleiding die het met zich meebrengt. Een artikel van de VRT[^1] benadrukt dit probleem en stelt dat het bedienen van touchscreens in de auto drie keer gevaarlijker kan zijn dan rijden onder invloed. Het vermindert aanzienlijk de reactietijd van bestuurders en het risico op ongevallen vergroot.
