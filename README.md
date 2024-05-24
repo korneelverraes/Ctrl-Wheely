@@ -39,9 +39,11 @@ Randvoorwaarden:
 - interactief
 
 > [!NOTE]
-> Volledige protocollen en reports zijn te vinden onder de bijlagen.
+> Links naar volledige protocollen en reports zijn te vinden onder de bijlagen.
 
 ## Methodologie
+<img src="/images/methodologie.jpg">
+
 Elk ontwerpproces start vanuit de exploratie van de opdracht. Wat is de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral kunnen we dit probleem gaan onderbouwen of weerleggen met bestaande en nieuwe onderzoeken? Onze opdracht startte met een ontmoeting van de opdrachtgevers van dit project. We gingen in gesprek met Granstudio en kregen te horen wat van ons verwacht werd.
 
 In de probleemruimte ontdekken we wat gebruikers, die zich al langere tijd in de probleemruimte bevinden, van het gestelde probleem en welke oplossingen hebben zij in gedachten? Het probleem werd alvast sterk bevestigd uit enkele contextual inquiries en ook uit een focusgroep kwamen al enkele interessante opmerkingen. Door te kijken naar wat vandaag de dag al op de markt is (benchmarking) en te gaan overleggen met medestudenten konden we in de oplossingsruimte al het een en ander gaan ontdekken. Met dit onderzoek als basis startten we als team met het uitwerken van een concept binnenin de oplossingsruimte.
@@ -51,8 +53,6 @@ In de definitiefase verdiepen we ons in het probleem, met fascinatie voor het pr
 In de definitiefase concentreren we ons meer dan ooit op testen in een realistische context. We zetten nog sterker in op een user-centered-design. Ctrl-Wheely wordt nu steeds concreter, toch blijven we objectief toekijken op de inzichten van de gebruikers en mensen daarbuiten. Na een interessante industry consult stuitten we op een nieuw concept dat ons product naar een hoger en gebruiksvriendelijker niveau kan tillen. Niet ideaal zo op het einde van het proces, doch blijven we ervan overtuigd dat het gebruiksgemak en de veiligheid van de gebruiker voorop staat. We kozen voor een ommezwaai in de conceptkeuze.  Na drie boeiende testfases met elk hun eigen concentratiepunt komen we, ondanks de ommezwaai tot een finaal concept en een productvideo.
 
 We kijken in dit verslag terug op een geslaagd ontwerpproces. Het ontwerpproces en de daarbij horende eindconclusies zijn te lezen in dit verslag. De ontwerpmethodologie van het proces is vastgelegd in deze visuele tijdlijn. 
-
-<img src="/images/methodologie.jpg">
 
 ## Discovery (N=21)
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een analyse van de markt. Het probleem waarop we focussen wordt met andere woorden scherpgesteld en onderzocht.
@@ -218,11 +218,12 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 > - De interface moet modern ogen.
 
 ## Prototype
-In onderstaande renders is te zien hoe het concept er op dit moment uitzag. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n _dial_ toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
+In onderstaande renders en _storytelling_ is te zien hoe het concept er op dit moment uitzag en hoe het product gebruikt wordt. Een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. De combinatie met een HUD zorgt ervoor dat de ogen niet van de baan afwijken. In tegenstelling tot de standaard fysieke knoppen kun je met zo'n _dial_ toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
 <p align="center">
-  <img src="/images/concept render zij.png" width="49%"/>
-  <img src="/images/concept render close-up.png" width="49%"/>
+  <img src="/images/concept render zij.png" width="32%"/>
+  <img src="/images/concept render close-up.png" width="32%"/>
+  <img src="/images/storytelling 1.jpg" width="32%">
 </p>
 
 Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is, heel simpel, een touchscreen met daarop een knop. We gebruiken hier de methode van het quick en dirty prototype, het nut van dit prototype is het concept concreter maken en duidelijk maken aan de gebruiker. In deze fase hebben we nog geen zeer uitgebreid prototype nodig.
