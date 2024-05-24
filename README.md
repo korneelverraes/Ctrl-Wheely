@@ -39,8 +39,7 @@ Randvoorwaarden:
 - interactief
 
 > [!NOTE]
-> Links naar volledige protocollen en reports zijn te vinden onder de bijlagen.
-> Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
+> Links naar volledige protocollen en reports zijn te vinden onder de bijlagen. Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
 
 ## Methodologie
 <img src="/images/methodologie.jpg">
@@ -808,12 +807,12 @@ In de hedendaagse, moderne auto worden al heel wat functies automatisch aangestu
 Ctrl-Wheely is een samenhangend geheel van drie belangrijke onderdelen: de _dial_, het controlepaneel en het HUD.
 
 ### Dial
-De autobestuurder kan de _dial_ verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de _dial_ draaien om binnen een menu te scrollen en op de knop drukken om te selecteren. De gebruiker verkiest uiteindelijk een _dial_ die wat groter is, dit creëert een minder moderne uitstraling, maar een gebruiksvriendelijkere bediening. Daarnaast ligt een grote knop aangenamer in de hand.
+De autobestuurder kan de _dial_ verplaatsen om te kiezen welke functie hij/zij wil bedienen, aan de _dial_ draaien om binnen een menu te scrollen en op de knop drukken om te selecteren. De _dial_ ligt dankzij zijn grootte goed in de hand, wat ingaat tegen de huidige trend van minimalisering en daarnaast meer sympathie uitstraalt.
 
 <img src="/images/heroshot finaal close-up.jpg">
 
 ### Controlepaneel
-Het controlepaneel is het nieuwste onderdeel van ons product. Door de _dial_ hierop te plaatsen in plaats van op een touchscreen kiezen we voor veiligheid en gebruiksgemak boven het innovatieve uitzicht. Toch blijft de besturing zeer vernieuwend en vooral zeer innovatief. Het controlepaneel neemt de plaats in van de vroegere versnellingspook, dit zorgt voor een gekende comfortabele bediening. De posities van de functies zijn cirkelvormig verspreid met in het midden de hoofdfunctie. Elke functie is personaliseerbaar over de verschillende posities. In de testen vond de gebruiker de navigatie als hoofdfunctie zeer logisch. De temperatuurbediening links en rechts voelt wellicht voor iedereen, althans voor al onze testpersonen, zeer intuïtief.  
+Omwille van de veiligheid en het gebruiksgemak zit het controlepaneel verwerkt in de middenconsole, de plaats van de vroegere versnellingspook. Dit zorgt voor een vertrouwd en comfortabel gevoel. De posities zijn cirkelvormig verspreid met in het midden de hoofdfunctie. De functies en hun bijhorende posities kunnen naar persoonlijke voorkeur ingesteld worden. Standaard bevindt de navigatie zich in de centrale positie en de temperatuur voor de bestuurder en de passagier respectievelijk links en rechts.
 
 <img src="/images/heroshot finaal alles.jpg">
 
@@ -821,8 +820,6 @@ Het controlepaneel is het nieuwste onderdeel van ons product. Door de _dial_ hie
 Een head-up display (HUD) is een transparant scherm dat informatie projecteert in het gezichtsveld van de bestuurder. Op die manier kunnen gegevens weergegeven worden zonder de blik af te wenden van de baan. Om de afleiding zo beperkt mogelijk te houden is het HUD voorzien van een interface waarop het strikt noodzakelijke aan informatie wordt weergeven. De interface is strak, modern en intuïtief ontworpen, gebaseerd op de noden van de gebruikers.
 
 De linkerkant toont een eenvoudige weergave van de navigatie, waarbij de eerstvolgende instructie zichtbaar is. Centraal staat de huidige snelheid, de toegelaten snelheid en de _lane assist_. De rechterkant wordt vrijgehouden voor de weergave van de functies die bediend worden met de _dial_. Er is een permanent icoon zichtbaar dat aanduidt op welke positie de _dial_ zich op dit moment bevindt.
-
-De volledige interface is ontworpen en interactief gemaakt in ProtoPie. 
 
 <img src="/images/heroshot finaal hud.jpg">
 
