@@ -20,7 +20,7 @@ Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig he
 
 Productvideo:
 
-[![](https://img.youtube.com/vi/vWs9MYro9L0/maxresdefault.jpg)](https://www.youtube.com/watch?v=vWs9MYro9L0)
+[<img src="/images/thumbnail.png">](https://www.youtube.com/watch?v=vWs9MYro9L0)
 
 ## Introductie
 
