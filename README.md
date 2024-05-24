@@ -571,7 +571,7 @@ Het eindpunt van deze tweede ontwikkelingsfase is een geoptimaliseerd ontwerp, w
 
 ### Materiaal & methoden
 
-<img src="/images/storytelling 2.jpg" width="25%" align="right">
+<img src="/images/storytelling 2.jpg" width="30%" align="right">
 
 Voor de _expert review_ stelden we ons interactief prototype op in een leslokaal. Na een korte briefing over het project en de verwachtingen werkten de experts eerst apart om elkaar niet te beïnvloeden. In een eerste ronde maakten ze kennis met het prototype om zich in te leven. In de tweede ronde richtten ze zich op specifieke features volgens de _heuristic evaluation sheet_. Na afloop bespraken we samen de pijnpunten.
 
