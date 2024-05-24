@@ -712,7 +712,7 @@ De interface van het HUD werd verder geoptimaliseerd. Mede om de gevoeligheid te
 
 <img src="/images/prototype HUD V4.png">
 
-Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen van de hardware-onderdelen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
+Ook al gooiden we hier ons concept volledig om, toch slagen we er  in ons prototype zeer snel om te bouwen tot ons nieuw concept. De softwareveranderingen zijn zeer beperkt. Qua hardware was het enkel een kwestie van overplaatsen. Met minieme veranderingen konden we dus opnieuw naar de gebruiker trekken. 
 
 ### Overzicht
 Tijdens ons parcour hebben we heel wat keuzes moeten overwegen. Om alles overzichtelijk te houden hebben we gaandeweg een morfologische kaart opgesteld. Hieronder is een overzicht waarop zowel het oude als het nieuwe concept te zien is.
@@ -740,7 +740,7 @@ Op basis van opnames, directe feedback en formulieren kunnen we een diepgaande a
 
 Net als in de vorige test werd de zetelverwarming, ondanks een toegevoegd symbool, door het merendeel niet ontdekt. Het gaat meestal over gebruikers die in hun huidige wagen geen zetelverwarming hebben en er daarom niet aan denken.
 
-Uit de vorige test (nog met touchscreen) bleek dat de mensen vaak de neiging hadden om de _dial_ op te heffen. Wegens praktische beperkingen van het prototype hadden we geen aangepaste _dial_ kunnen voorzien (in het sleutelprototype zit dit wel verwerkt). In deze test was echter niemand nog geneigd om de _dial_ op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat het ontwerp van de _dial_ dan toch goed zit. Zowat iedereen vermeldde dat de huidige _dial_ zeer goed in de hand ligt. De navigatie als startpositie en de temperatuur links & rechts werden als zeer intuïtief bevonden. Wat direct opviel was dat iedereen fan was van het cirkelvormige controlepaneel en de bijhorende _snapping points_.
+Uit de vorige test (nog met touchscreen) bleek dat mensen vaak de neiging hadden om de _dial_ op te heffen. Wegens praktische beperkingen van het prototype hadden we geen aangepaste _dial_ kunnen voorzien (in het sleutelprototype zit dit wel verwerkt). In deze test was echter niemand nog geneigd om de _dial_ op te heffen. Dit omdat het controlepaneel nu horizontaal ligt. We kunnen dus stellen dat het ontwerp van de _dial_ dan toch goed zit. Zowat iedereen vermeldde dat de huidige _dial_ zeer goed in de hand ligt. De navigatie als startpositie en de temperatuur links & rechts werden als zeer intuïtief bevonden. Iedereen was grote fan van het cirkelvormige controlepaneel en de bijhorende _snapping points_.
 
 > "Op deze manier kan je veel sneller door belangrijke menu’s scrollen in tegenstelling tot mijn BMW waar ook een draaiknop in de middenconsole zit."
 
