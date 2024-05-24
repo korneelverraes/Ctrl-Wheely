@@ -127,7 +127,7 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 
 > [!IMPORTANT]
 > Design Requirements:
-> - De interface moet personaliseerbaar zijn.
+> - DRDe interface moet personaliseerbaar zijn.
 > - Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.
 > - Er is haptische feedback bij het bedienen van functies.
 
@@ -793,8 +793,7 @@ We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntj
 |1.5|Het product beschikt over auditieve feedback bij het veranderen van menu.|Expert Review|22/04/2024|
 |1.6|Het product laat toe de auditieve feedback uit te schakelen of aan te passen.|Expert Review|22/04/2024|
 |1.7|Het product laat toe de temperatuur van zowel de passagier als de bestuurder in één handeling te synchroniseren en te regelen.|Expert Review|22/04/2024|
-|1.7|Het product oogt modern en innovatief.|Human mind user test|01/05/2024|
-|1.8|Het product beschikt over een touchscreen dat groter is dan 10 inch en kleiner dan 17 inch.|Human senses user test|19/05/2024|
+|1.8|Het product oogt modern en innovatief.|Human mind user test|01/05/2024|
 |**Groep 2**|**Dial**|
 |2.1|De _dial_ geeft haptische feedback bij het bedienen van de functies.|_dial_ user test|24/12/2023|
 |2.2|De _dial_ heeft een conische vorm.|_dial_ user test|24/12/2023|
@@ -807,7 +806,7 @@ We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntj
 |**Groep 3**|**Touchscreen (deels van toepassing)**|
 |3.1|Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.|Interface user test|02/01/2024|
 |3.2|Het touchscreen is goed leesbaar.|Interface user test|02/01/2024|
-|3.3|(n.v.t.) Het touchscreen oogt modern.|Interface user test|02/01/2024|
+|3.3|Het touchscreen oogt modern.|Interface user test|02/01/2024|
 |3.4|Het touchscreen geeft niet de intentie met touch bediend te kunnen worden tijdens het rijden.|Human body user test|05/03/2024|
 |3.5|(n.v.t.) Het touchscreen laat niet toe functies te bedienen binnen 1/4 van de linkerkant.|Human body user test|05/03/2024|
 |3.6|(n.v.t.) Het touchscreen is kleiner dan 10 inch.|Human mind user test|01/05/2024|
@@ -819,7 +818,7 @@ We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntj
 |4.4|Het HUD beschikt over augmented reality.|Expert Review|22/04/2024|
 |4.5|Het HUD is groter dan een gemiddeld smartphonescherm (6,5 inch).|Expert Review|22/04/2024|
 |4.6|Het HUD toont duidelijk de mogelijkheid van de zetelverwarming.|Human mind user test|01/05/2024|
-|4.8|Het HUD toont te allen tijde op welke positie de _dial_ staat.|Human senses user test|19/05/2024|
+|4.7|Het HUD toont te allen tijde op welke positie de _dial_ staat.|Human senses user test|19/05/2024|
 |**Groep 5**|**Controlepaneel**|
 |5.1|Het controlepaneel heeft een intuïtieve positieverdeling.|Human mind user test|01/05/2024|
 
