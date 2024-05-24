@@ -785,7 +785,7 @@ We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntj
 |3.3|De interface moet modern ogen.|Interface user test|02/01/2024|
 |3.4|Functies op de interface mogen niet de intentie geven om met touch bediend te kunnen worden.|Human body user test|05/03/2024|
 |3.5|De functies links (één vierde van de linkerhelft) op de interface dienen niet aangepast te worden tijdens het rijden.|Human body user test|05/03/2024|
-|**Groep 4**|**_Head-up-display_**|
+|**Groep 4**|**Head-up-display**|
 |4.1|Er dient een blijvend icoon te zijn bij het bellen en veranderen van menu's.|Expert Review|22/04/2024|
 |4.2|Er dient een blijvend icoon te zijn van de muziek bij het veranderen van menu's.|Expert Review|22/04/2024|
 |4.3|De helderheid van het HUD moet automatisch aanpassen aan de lichtintensiteit buiten.|Expert Review|22/04/2024|
