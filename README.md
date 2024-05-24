@@ -743,8 +743,12 @@ De _dial_ zal om verschillende redenen niet gebruikt worden als autosleutel.
 Aan het HUD wordt een icoontje toegevoegd om de gebruiker steeds een indicatie te geven in welk menu je zit en hoe je naar andere menu’s kan navigeren.
 
 <p align="center">
-  <img src="/images/prototype HUD V4 home.png" width="48%">
-  <img src="/images/prototype HUD V4 airco left.png" width="48%">
+  <img src="/images/prototype HUD V4 home.png" width="32%">
+  <img src="/images/prototype HUD V4 navigation.png" width="32%">
+  <img src="/images/prototype HUD V4 phone.png" width="32%">
+  <img src="/images/prototype HUD V4 music.png" width="32%">
+  <img src="/images/prototype HUD V4 airco left.png" width="32%">
+  <img src="/images/prototype HUD V4 airo right.png" width="32%">
 </p>
 
 Omwille van voorgenoemde redenen hebben we besloten de scores van de risicoperceptietest te verwerpen. De resultaten zijn afhankelijk van externe factoren en dus geen goede maatstaaf om de afleiding te kwantificeren. De risicoperceptietest werd wel vastgelegd op beeld. Op de beelden is te zien dat de bediening met Ctrl-Wheely significant sneller uitgevoerd wordt dan met het touchinterface. Dit werd mondeling bevestigd door de testpersonen. Om dit objectief te analyseren zouden we het verschil in tijd kunnen timen. Of nog beter zou zijn om gebruik te maken van een eye-tracking bril om de afleiding te kwantificeren. Door tijdsgebrek zijn we hier echter niet in geslaagd.
@@ -822,15 +826,6 @@ Een head-up display (HUD) is een transparant scherm dat informatie projecteert i
 De linkerkant toont een eenvoudige weergave van de navigatie, waarbij de eerstvolgende instructie zichtbaar is. Centraal staat de huidige snelheid, de toegelaten snelheid en de _lane assist_. De rechterkant wordt vrijgehouden voor de weergave van de functies die bediend worden met de _dial_. Er is een permanent icoon zichtbaar dat aanduidt op welke positie de _dial_ zich op dit moment bevindt.
 
 <img src="/images/heroshot finaal hud.jpg">
-
-<p align="center">
-  <img src="/images/prototype HUD V4 home.png" width="32%">
-  <img src="/images/prototype HUD V4 navigation.png" width="32%">
-  <img src="/images/prototype HUD V4 phone.png" width="32%">
-  <img src="/images/prototype HUD V4 music.png" width="32%">
-  <img src="/images/prototype HUD V4 airco left.png" width="32%">
-  <img src="/images/prototype HUD V4 airo right.png" width="32%">
-</p>
 
 In een definitief ontwerp wordt het HUD gerealiseerd met augmented reality, navigatiepijlen en andere informatie worden rechtstreeks op de baan geprojecteerd. Zo krijgt de gebruiker niet het gevoel dat het zomaar een visuele weergave is. Het innovatieve aspect van Ctrl-Wheely komt hiermee nog meer tot uiting.
 
