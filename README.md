@@ -699,12 +699,13 @@ Ook al gooiden we hier ons concept volledig om, slagen we er toch in ons prototy
 
 
 ## Develop 3: Human Senses (N=8)
+Het eindpunt van deze derde ontwikkelingsfase is een geoptimaliseerd ontwerp, waarvan we aan de hand van een hiërarchise taakanalyse en gebruikerstesten kunnen aantonen welke optimalisaties we hebben aangebracht op vlak van de sensoriële ergonomie.
+
 ### Doelstellingen
 - De kwaliteit van het controlepaneel achterhalen.
 - Bevestiging of verwerping van designbeslissingen op basis van de vorige test.
 - Het hebben van een definitief prototype van Ctrl-Wheely.
 - Kwantificatie van de afleiding tijdens het rijden.
-
 
 ### Materiaal & methoden
 We trokken voor het eerst naar de gebruiker met een nieuw prototype: ons controlepaneel. De opstelling van elektronica en HUD zijn identiek aan de vorige test. Uit de vorige testen leerden we dat de besturing van de _dial_ soms te gevoelig en niet consistent was. Hiervoor werd de _dial_ aangepast zoals hierboven bij het prototype uitgelegd wordt. Bij deze test richten we ons op de sensoriële feedback, vandaar dat we de _dial_ voorzien van een betere sensoriële werking. Als eerste opdracht mochten ze Ctrl-Wheely ontdekken in al zijn mogelijkheden. Nadat alle functies door de testpersonen ontdekt zijn en de persoon in kwestie zelf aangeeft dat alles blindelings veilig bediend kan worden, kunnen we vertrekken voor een rit. Tijdens de rit moesten gebruikers specifieke acties uitvoeren volgens een vooropgestelde context. Na de rit volgde een nabespreking en een introductie tot het idee om de _dial_ ook te gebruiken als sleutel. Daarna volgde voor de gewillige gebruikers ook een risicoperceptietest om de mate van afleiding te valideren. Voor de risicoperceptietest werd een laptop op de motorkap geplaatst voor de ogen van de testpersoon. De testpersonen kregen telkens twaalf fragmenten te zien. Telkens zes fragmenten waarin ze de opdrachten te dienen te voltooien via de interface (touchscreen) van de testwagen, en zes andere fragmenten waarbij ze opdrachten moesten uitvoeren met Ctrl-Wheely. De bedoeling van deze test was een kwantitatieve beoordeling van de afleiding tegenover een benchmark bekomen. Alle inzichten en opmerkingen werden vastgelegd in een _participant form_.
