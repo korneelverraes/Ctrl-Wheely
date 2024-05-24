@@ -769,7 +769,7 @@ We blikken tevreden terug op de laatste test, buiten enkele kleine aandachtpuntj
 |ID|Requirement|Source|Date|
 |:---|:---|:---|:---|
 |**Groep 1**|**Algemeen**|
-|1.1|Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.|Meeting Gransstudio|19/10/2023|
+|1.1|Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.|Meeting Granstudio|19/10/2023|
 |1.2|Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.|Interface user test|02/01/2024|
 |1.3|Het bedieningselement dient op elk mogelijke positie toegankelijk te zijn voor 95% van de mensen.|Human body user test|05/03/2024|
 |1.4|Het volume dient aangepast te kunnen worden met een aparte knop.|Human body user test|05/03/2024|
