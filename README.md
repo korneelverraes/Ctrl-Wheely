@@ -813,6 +813,8 @@ De linkerkant toont een eenvoudige weergave van de navigatie, waarbij de eerstvo
 
 De volledige interface is ontworpen en interactief gemaakt in ProtoPie. 
 
+<img src="/images/heroshot finaal hud.jpg">
+
 <p align="center">
   <img src="/images/prototype HUD V4 home.png" width="32%">
   <img src="/images/prototype HUD V4 navigation.png" width="32%">
@@ -821,8 +823,6 @@ De volledige interface is ontworpen en interactief gemaakt in ProtoPie.
   <img src="/images/prototype HUD V4 airco left.png" width="32%">
   <img src="/images/prototype HUD V4 airo right.png" width="32%">
 </p>
-
-<img src="/images/heroshot finaal hud.jpg">
 
 In een definitief ontwerp wordt het HUD gerealiseerd met augmented reality, navigatiepijlen en andere informatie worden rechtstreeks op de baan geprojecteerd. Zo krijgt de gebruiker niet het gevoel dat het zomaar een visuele weergave is. Het innovatieve aspect van Ctrl-Wheely komt hiermee nog meer tot uiting.
 
