@@ -643,18 +643,22 @@ De uitdaging op dit pivot point zit hem in het maken van een nieuw controlepanee
 
 > [!IMPORTANT]
 > Design Requirements:
-> - Er dient auditieve feedback te zijn bij het veranderen van menu.
-> - De auditieve feedback kan uitgeschakeld worden.
-> - Er dient augmented reality te zijn in het HUD.
-> - De draairichting van de _dial_ kan omgekeerd worden door de gebruiker.
-> - Het HUD dient groter te zijn dan de afmetingen van een gemiddeld smartphonescherm (6,5 inch).
-> - De muziek dient steeds zichtbaar blijven bij het veranderen van menu.
-> - De beller dient steeds zichtbaar te blijven tijdens het bellen en veranderen van menu.
-> - De helderheid van het HUD dient automatisch te veranderen.
-> - De temperatuur van zowel passagier en bestuurder kan samen bediend worden met één handeling.
-> - Bij het bedienen van de functies via een controlepaneel dient het touchscreen kleiner te zijn (kleiner dan 10 inch).
-> - Het controlepaneel dient een intuïtievere positieverdeling voor de _dial_ te hebben dan een lineaire verdeling.
-> - De bekerhouders zijn noodzakelijk, met een controlepaneel mogen deze niet verdwijnen.
+> - D1.5 Het product beschikt over auditieve feedback bij het veranderen van menu.
+> - D1.6 Het product laat toe de auditieve feedback uit te schakelen of aan te passen.
+> - D1.7 Het product laat toe de temperatuur van zowel de passagier als de bestuurder in één handeling te synchroniseren en te regelen.
+> - D1.8 Het product oogt modern en innovatief.
+> - D2.5 De _dial_ laat toe de draairichting om te keren.
+> - D2.6 De _dial_ geeft niet de intentie opgeheven te kunnen worden.
+> - D2.7 De _dial_ kan op verschillende manieren bediend worden.
+> - D3.6 Het touchscreen is kleiner dan 10 inch.
+> - D4.1 Het HUD toont een blijvend icoon tijdens het bellen bij het veranderen van menu.
+> - D4.2 Het HUD toont een blijvend icoon van de muziek bij het veranderen van menu.
+> - D4.3 Het HUD kan de helderheid automatisch laten aanpassen aan de lichtintensiteit buiten.
+> - D4.4 Het HUD beschikt over augmented reality.
+> - D4.5 Het HUD is groter dan een gemiddeld smartphonescherm (6,5 inch).
+> - D4.6 Het HUD toont duidelijk de mogelijkheid van de zetelverwarming.
+> - D5.1 Het controlepaneel heeft een intuïtieve positieverdeling.
+> - D5.2 Het controlepaneel neemt niet de plaats in van de bestaande bekerhouders.
 
 ## Prototype
 Bij dit prototype gooiden we ons hele concept om. Het touchscreen maakte plaats voor een controlepaneel in de middenconsole. De functionaliteiten bleven dezelfde.
@@ -821,6 +825,7 @@ We blikken tevreden terug op de laatste test. Op een aantal kleine aandachtpuntj
 |4.7|Het HUD toont te allen tijde op welke positie de _dial_ staat.|Human senses user test|19/05/2024|
 |**Groep 5**|**Controlepaneel**|
 |5.1|Het controlepaneel heeft een intuïtieve positieverdeling.|Human mind user test|01/05/2024|
+|5.2|Het controlepaneel neemt niet de plaats in van de bestaande bekerhouders.|Human mind user test|01/05/2024|
 
 ## Finaal prototype
 Na een jaar hard werken zijn we tot een finaal prototype gekomen: Ctrl-Wheely. Een fysieke verplaatsbare knop op een controlepaneel in de middenconsole waarmee je de verschillende functies van je auto bedient. Alles wat je aan het bedienen bent wordt weergegeven in een head-up display (HUD).
