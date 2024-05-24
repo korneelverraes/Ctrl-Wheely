@@ -244,7 +244,7 @@ In onderstaande renders en _storytelling_ is te zien hoe het concept er op dit m
   <img src="/images/storytelling 1.jpg" width="32%">
 </p>
 
-Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is een touchscreen met daarop een knop. We gebruiken hier de methode van het quick en dirty prototype, het nut van dit prototype is het concept concreter maken en duidelijk maken aan de gebruiker. In deze fase hebben we nog geen zeer uitgebreid prototype nodig.
+Tot nu toe werd er nog niet zoveel aandacht besteed aan een prototype. Alvorens de volgende gebruikerstesten te starten was daar wel nood aan. Zo'n prototype is van groot belang om de validiteit van een test te vergroten. Het concept dat op dit moment in ons hoofd speelt is een touchscreen met daarop een knop. We gebruiken hier de methode van het quick en dirty prototype. Het nut van dit prototype is het concept concreter maken en duidelijk te maken aan de gebruiker.
 
 Het gebruik van een reëel touchscreen is in deze fase van het proces nog niet aan de orde. Bovendien zijn de grootte, functionaliteiten, vorm... nog niet beslist. De uitgewerkte interface (Figma) printten we af en kleefden we op een dibondplaat. De eerstvolgende test heeft betrekking tot de ergonomische afmetingen. Hiervoor was het noodzakelijk dat het touchscreen op verschillende posities in de auto gemonteerd kon worden. We gebruikten kartonnen tussenstukken en papierplakband om dit snel te realiseren. De knop, nu nog zonder draai- en klikfunctionaliteit, werd gemaakt met de 3D-printer.
 
