@@ -20,8 +20,12 @@ Met Ctrl-Wheely introduceren we een innovatief, gebruiksvriendelijk en veilig he
 
 [<img src="/images/thumbnail.png">](https://www.youtube.com/watch?v=vWs9MYro9L0)
 
-## Introductie
+> [!NOTE]
+> - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](#bijlagen).
+> - Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
+> - Volledige software, programma's en andere relevante bestanden zijn te vinden in de map [files](/files).
 
+## Introductie
 In de hedendaagse auto's zijn touchscreens de standaard geworden, waarbij bestuurders verschillende functies bedienen, variërend van navigatie tot entertainment. Echter, het toenemende gebruik van touchscreens in auto's heeft zorgen gewekt over de veiligheid, met name de visuele afleiding die het met zich meebrengt. Een artikel van de VRT[^1] benadrukt dit probleem en stelt dat het bedienen van touchscreens in de auto drie keer gevaarlijker kan zijn dan rijden onder invloed. Het vermindert aanzienlijk de reactietijd van bestuurders en het risico op ongevallen vergroot.
 
 > "Alternatieven zijn de bediening via knoppen op je stuur of schermen die synthetische feedback leveren, zoals een trilfunctie op je smartphone, als bevestiging dat je opdracht is uitgevoerd zodat visuele verificatie niet meer nodig is."
@@ -38,10 +42,10 @@ Randvoorwaarden:
 - intuïtief
 - interactief
 
-> [!NOTE]
-> - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](#bijlagen).
-> - Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
-> - Volledige software, programma's en andere relevante bestanden zijn te vinden in de map [files](/files).
+<p align="center">
+  <img src="/images/stakeholders.jpg" width="38%">
+  <img src="/images/innovatrix.jpg" width="61%">
+</p>
 
 ## Methodologie
 <img src="/images/methodologie.jpg">
@@ -58,12 +62,15 @@ We kijken in dit verslag terug op een geslaagd ontwerpproces. Het ontwerpproces 
 
 ## Discovery (N=21)
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een analyse van de markt. Het probleem waarop we focussen wordt met andere woorden scherpgesteld en onderzocht.
+
 ### Doelstellingen
 Een helder geformuleerde "how might we" bekomen.
+
 ### Materiaal & methoden
 - contextual inquiries
 - focus group
 - benchmarking
+
 ### Resultaten
 #### Contextual inquiries (N=3)
 Door middel van contextual inquiries kunnen we huidige gebruikspatronen in hun natuurlijke context begrijpen, pijnpunten definiëren en een beter begrip krijgen van de contextuele randvoorwaarden voor ideeën en opportuniteiten.
